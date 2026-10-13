@@ -1,0 +1,6 @@
+# Jogar não exige pacote além do Python com Tkinter.
+# Testes: pip install pytest
+pytest>=8.0
+
+# Executável de Windows (só na máquina Windows; ver README):
+# pip install pyinstaller

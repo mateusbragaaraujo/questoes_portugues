@@ -1,0 +1,835 @@
+{
+  "tema": "hifen",
+  "titulo": "Hífen",
+  "descricao": "Itens em que o trecho em destaque está certo ou errado quanto ao hífen do Acordo Ortográfico de 1990 e ao VOLP, conforme o gabarito da prova.",
+  "questoes": [
+    {
+      "id": "hifen-001",
+      "frase": "Aero-espacial",
+      "destaque": "Aero-espacial",
+      "correta": false,
+      "explicacao": "Décio Terror: não há hífen, porque “aero” termina em vogal diferente da que inicia “espacial”. A grafia do acordo é “aeroespacial”. É a alternativa do gabarito, a que não segue o acordo.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-002",
+      "frase": "auto-estrada",
+      "destaque": "auto-estrada",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “autoestrada”. O Acordo traz “autoestrada” como exemplo de aglutinação quando as vogais são diferentes.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: autoestrada."
+    },
+    {
+      "id": "hifen-003",
+      "frase": "agro-industrial",
+      "destaque": "agro-industrial",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “agroindustrial”. O Acordo exemplifica “agroindustrial”, sem hífen.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: agroindustrial."
+    },
+    {
+      "id": "hifen-004",
+      "frase": "super-homem",
+      "destaque": "super-homem",
+      "correta": true,
+      "explicacao": "Décio Terror: o hífen permanece porque o segundo elemento começa por “h”. O Acordo exemplifica “super-homem”.",
+      "regra": "Base XVI, “a”: hífen antes de “h”.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: super-homem."
+    },
+    {
+      "id": "hifen-005",
+      "frase": "semi-hospitalar",
+      "destaque": "semi-hospitalar",
+      "correta": true,
+      "explicacao": "Décio Terror: há hífen porque o segundo elemento começa por “h”. O Acordo exemplifica “semi-hospitalar”.",
+      "regra": "Base XVI, “a”: hífen antes de “h”.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: semi-hospitalar."
+    },
+    {
+      "id": "hifen-006",
+      "frase": "micro-onda",
+      "destaque": "micro-onda",
+      "correta": true,
+      "explicacao": "Décio Terror: há hífen porque o primeiro elemento termina na mesma vogal com que o segundo começa. O Acordo exemplifica “micro-onda”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: micro-onda."
+    },
+    {
+      "id": "hifen-007",
+      "frase": "extraescolar",
+      "destaque": "extraescolar",
+      "correta": true,
+      "explicacao": "Décio Terror: sem hífen, vogais diferentes. O Acordo exemplifica “extraescolar”.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: extraescolar."
+    },
+    {
+      "id": "hifen-008",
+      "frase": "antissocial",
+      "destaque": "antissocial",
+      "correta": true,
+      "explicacao": "Décio Terror: “anti-” termina em vogal e o segundo elemento começa por “s”; não há hífen e o “s” dobra. O Acordo traz o mesmo para “antissemita”.",
+      "regra": "Base XVI: vogal + “s” ou “r”, sem hífen, consoante dobrada.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-009",
+      "frase": "hidroelétrica",
+      "destaque": "hidroelétrica",
+      "correta": true,
+      "explicacao": "Décio Terror: sem hífen, porque as vogais são diferentes. O Acordo exemplifica “hidroelétrico”.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-010",
+      "frase": "coautor",
+      "destaque": "coautor",
+      "correta": true,
+      "explicacao": "Décio Terror: não se usa hífen com o prefixo átono “co-”. O Acordo diz que “co-” se aglutina mesmo diante de “o”: “coobrigação”, “coordenar”.",
+      "regra": "Base XVI, observação: “co-” aglutina-se.",
+      "fonte": "FUNDEP – 2019 – CBM-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-011",
+      "frase": "superbactérias",
+      "destaque": "superbactérias",
+      "correta": true,
+      "explicacao": "É forma da alternativa do gabarito. Décio Terror: “super” só pede hífen antes de “h” ou “r”. Diante de “b”, aglutina-se.",
+      "regra": "Base XVI: sem hífen antes de consoante que não seja “h”, nem “r” depois de “super”.",
+      "fonte": "NC-UFPR – 2018 – FozPrev – Assistente Previdenciário. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-012",
+      "frase": "micro-organismos",
+      "destaque": "micro-organismos",
+      "correta": true,
+      "explicacao": "É forma da alternativa do gabarito. Décio Terror: hífen porque “micro” e “organismos” repetem a vogal “o”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "NC-UFPR – 2018 – FozPrev. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-013",
+      "frase": "antibacterianas",
+      "destaque": "antibacterianas",
+      "correta": true,
+      "explicacao": "É forma da alternativa do gabarito. Décio Terror: sem hífen, porque o segundo elemento começa por consoante.",
+      "regra": "Base XVI: vogal + consoante, sem hífen.",
+      "fonte": "NC-UFPR – 2018 – FozPrev. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-014",
+      "frase": "superespécies",
+      "destaque": "superespécies",
+      "correta": true,
+      "explicacao": "É forma da alternativa do gabarito. Décio Terror: “super” não leva hífen diante de “e”.",
+      "regra": "Base XVI: sem hífen quando não há “h” nem “r” após “super”.",
+      "fonte": "NC-UFPR – 2018 – FozPrev. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-015",
+      "frase": "super-bactérias",
+      "destaque": "super-bactérias",
+      "correta": false,
+      "explicacao": "Está na alternativa “a”, que o gabarito não confirma. Décio Terror: a grafia correta no contexto é “superbactérias”, sem hífen.",
+      "regra": "Base XVI: “super” + consoante (exceto “h” e “r”) sem hífen.",
+      "fonte": "NC-UFPR – 2018 – FozPrev. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-016",
+      "frase": "microorganismos",
+      "destaque": "microorganismos",
+      "correta": false,
+      "explicacao": "Está na alternativa “a”, sem o hífen exigido. Décio Terror registra a forma correta “micro-organismos”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "NC-UFPR – 2018 – FozPrev. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-017",
+      "frase": "anti-bacterianas",
+      "destaque": "anti-bacterianas",
+      "correta": false,
+      "explicacao": "Está numa alternativa que o gabarito não confirma. Décio Terror: “antibacterianas” não tem hífen, porque “bacterianas” começa por consoante.",
+      "regra": "Base XVI: vogal + consoante, sem hífen.",
+      "fonte": "NC-UFPR – 2018 – FozPrev. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-018",
+      "frase": "biogás",
+      "destaque": "biogás",
+      "correta": true,
+      "explicacao": "Gabarito: E. Décio Terror: “bio” termina em vogal e “gás” começa por consoante, então não há hífen. O acento é o da oxítona terminada em “a” + “s”.",
+      "regra": "Base XVI: vogal + consoante, sem hífen.",
+      "fonte": "FUNDATEC – 2018 – SULGÁS – Assistente Administrativo. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-019",
+      "frase": "bio-gás",
+      "destaque": "bio-gás",
+      "correta": false,
+      "explicacao": "É alternativa da mesma questão, não o gabarito. Décio Terror mostra que “biogás” se escreve sem hífen.",
+      "regra": "Base XVI: vogal + consoante, sem hífen.",
+      "fonte": "FUNDATEC – 2018 – SULGÁS. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-020",
+      "frase": "bem-estar",
+      "destaque": "bem-estar",
+      "correta": true,
+      "explicacao": "Gabarito: E, “bem-estar – veem”. Décio Terror: há hífen porque “bem” se une a elemento iniciado por vogal. O Acordo exemplifica “bem-estar”.",
+      "regra": "Base XV: “bem” + vogal ou “h”.",
+      "fonte": "FUNDATEC – 2018 – Câmara de Eldorado do Sul-RS. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: bem-estar."
+    },
+    {
+      "id": "hifen-021",
+      "frase": "bem estar",
+      "destaque": "bem estar",
+      "correta": false,
+      "explicacao": "É o preenchimento das alternativas A e B, rejeitadas pelo gabarito. Na lacuna, o substantivo é “bem-estar”, com hífen.",
+      "regra": "Base XV: “bem-estar” leva hífen.",
+      "fonte": "FUNDATEC – 2018 – Câmara de Eldorado do Sul-RS. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-022",
+      "frase": "Interresistente",
+      "destaque": "Interresistente",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “inter-resistente”: “inter-” e o elemento seguinte começam e terminam pela mesma consoante “r”. A alternativa B não é o gabarito.",
+      "regra": "Base XVI, “d”: “inter-” + “r” leva hífen.",
+      "fonte": "IBGP – 2018 – PBH Ativos – Analista Jurídico. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-023",
+      "frase": "superrevista",
+      "destaque": "superrevista",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “super-revista”, pelo mesmo encontro de “r”. A alternativa B não é o gabarito.",
+      "regra": "Base XVI, “d”: “super-” + “r” leva hífen.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-024",
+      "frase": "manda-chuva",
+      "destaque": "manda-chuva",
+      "correta": false,
+      "explicacao": "Décio Terror diz que “mandachuva” não tem hífen, como “paraquedas”: perdeu-se, em certa medida, a noção de composição. O Acordo lista “mandachuva” entre as formas aglutinadas. Evanildo Bechara, na ABL, repete esse exemplo.",
+      "regra": "Base XV, observação: compostos aglutinados.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Bechara: https://www.academia.org.br/artigos/o-nao-emprego-do-hifen-nas-locucoes-2"
+    },
+    {
+      "id": "hifen-025",
+      "frase": "paraquedas",
+      "destaque": "paraquedas",
+      "correta": true,
+      "explicacao": "A palavra aparece na alternativa B. Décio Terror diz que “paraquedas” está sem hífen, corretamente. O Acordo e Bechara listam “paraquedas” entre os compostos aglutinados. O que invalida a alternativa são as outras palavras, não esta.",
+      "regra": "Base XV, observação: “paraquedas” sem hífen.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Bechara: https://www.academia.org.br/artigos/o-nao-emprego-do-hifen-nas-locucoes-2"
+    },
+    {
+      "id": "hifen-026",
+      "frase": "Antirreligioso",
+      "destaque": "Antirreligioso",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito (C). Décio Terror: sem hífen, e o “r” dobra. O Acordo exemplifica “antirreligioso”.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada, sem hífen.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: antirreligioso."
+    },
+    {
+      "id": "hifen-027",
+      "frase": "infrassom",
+      "destaque": "infrassom",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror: “infra” termina em vogal e o segundo elemento começa por “s”; o “s” dobra e não há hífen. O Acordo exemplifica “infrassom”.",
+      "regra": "Base XVI: vogal + “s”, consoante dobrada.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: infrassom."
+    },
+    {
+      "id": "hifen-028",
+      "frase": "antiaéreo",
+      "destaque": "antiaéreo",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror: vogais diferentes, sem hífen. O Acordo exemplifica “antiaéreo”.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: antiaéreo."
+    },
+    {
+      "id": "hifen-029",
+      "frase": "Préhistória",
+      "destaque": "Préhistória",
+      "correta": false,
+      "explicacao": "Está na alternativa D, que não é o gabarito. Décio Terror: “pré-história” tem hífen, porque o prefixo tônico “pré-” encontra “h”.",
+      "regra": "Base XVI, “a” e “f”: “pré-” tônico e palavra com “h”.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-030",
+      "frase": "autobservação",
+      "destaque": "autobservação",
+      "correta": false,
+      "explicacao": "Está na alternativa D. Décio Terror corrige para “auto-observação”: vogais iguais pedem hífen. O Acordo exemplifica “auto-observação”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: auto-observação."
+    },
+    {
+      "id": "hifen-031",
+      "frase": "inábil",
+      "destaque": "inábil",
+      "correta": true,
+      "explicacao": "Décio Terror diz que “inábil” está correta: com o prefixo “in-”, “hábil” perde o “h” e não há hífen. O Acordo cita “inábil” nessa observação.",
+      "regra": "Base XVI: “des-” e “in-” absorvem o “h”.",
+      "fonte": "IBGP – 2018 – PBH Ativos. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: inábil."
+    },
+    {
+      "id": "hifen-032",
+      "frase": "hiper-hidratação",
+      "destaque": "hiper-hidratação",
+      "correta": true,
+      "explicacao": "Gabarito: A. Décio Terror: “hiper-” leva hífen quando o segundo elemento começa por “h”.",
+      "regra": "Base XVI, “a”: hífen antes de “h”.",
+      "fonte": "Funrio – 2018 – AL-RR – Procurador. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-033",
+      "frase": "hiper-sensibilidade",
+      "destaque": "hiper-sensibilidade",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “hipersensibilidade”. “Hiper-” não leva hífen diante de “s”; também não se dobra o “s”, porque o prefixo termina em “r”, não em vogal.",
+      "regra": "Base XVI: “hiper-” + consoante que não seja “h” ou “r”.",
+      "fonte": "Funrio – 2018 – AL-RR. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-034",
+      "frase": "hiper-esfera",
+      "destaque": "hiper-esfera",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “hiperesfera”: “hiper-” termina em “r” e “esfera” começa por vogal, sem hífen.",
+      "regra": "Base XVI: “hiper-” + vogal, sem hífen.",
+      "fonte": "Funrio – 2018 – AL-RR. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-035",
+      "frase": "hiperrrancoroso",
+      "destaque": "hiperrrancoroso",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “hiper-rancoroso”, com um hífen e um só “r” de cada lado. Não se triplica a consoante.",
+      "regra": "Base XVI, “d”: “hiper-” + “r” leva hífen.",
+      "fonte": "Funrio – 2018 – AL-RR. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-036",
+      "frase": "sub-humano",
+      "destaque": "sub-humano",
+      "correta": true,
+      "explicacao": "A alternativa A é o gabarito, e Décio Terror diz que as palavras dela estão corretas. Há hífen porque o segundo elemento começa por “h”.",
+      "regra": "Base XVI, “a”: hífen antes de “h”.",
+      "fonte": "FUMARC – 2018 – SEE-MG – Professor. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-037",
+      "frase": "micro-ondas",
+      "destaque": "micro-ondas",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Mesma regra de “micro-onda”, exemplo do Acordo: vogais iguais.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-038",
+      "frase": "socioeconômico",
+      "destaque": "socioeconômico",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. “Socio” termina em vogal e “econômico” começa por vogal diferente; Décio Terror afirma que o conjunto da alternativa está correto.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-039",
+      "frase": "super-aquecimento",
+      "destaque": "super-aquecimento",
+      "correta": false,
+      "explicacao": "Décio Terror: “superaquecimento” não tem hífen. “Super-” só pede hífen antes de “h” ou “r”.",
+      "regra": "Base XVI: “super-” + vogal, sem hífen.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-040",
+      "frase": "inter-sindical",
+      "destaque": "inter-sindical",
+      "correta": false,
+      "explicacao": "Décio Terror: “intersindical” não tem hífen. “Inter-” pede hífen antes de “h” ou “r”, não antes de “s”.",
+      "regra": "Base XVI: “inter-” + “s”, sem hífen.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-041",
+      "frase": "contra-reforma",
+      "destaque": "contra-reforma",
+      "correta": false,
+      "explicacao": "Décio Terror: a forma é “contrarreforma”, sem hífen e com “r” dobrado.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-042",
+      "frase": "contra-senso",
+      "destaque": "contra-senso",
+      "correta": false,
+      "explicacao": "Décio Terror: a forma é “contrassenso”, sem hífen e com “s” dobrado. O Acordo exemplifica “contrassenha” pelo mesmo processo.",
+      "regra": "Base XVI: vogal + “s”, consoante dobrada.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-043",
+      "frase": "anti-social",
+      "destaque": "anti-social",
+      "correta": false,
+      "explicacao": "Décio Terror: “antissocial” não tem hífen; o “s” dobra.",
+      "regra": "Base XVI: vogal + “s”, consoante dobrada.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-044",
+      "frase": "anti-inflamatório",
+      "destaque": "anti-inflamatório",
+      "correta": true,
+      "explicacao": "A palavra está na alternativa E. Décio Terror só rejeita essa alternativa por causa de “anti-social”; não corrige “anti-inflamatório”. O Acordo manda hífen quando as vogais são iguais, como em “anti-ibérico”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "FUMARC – 2018 – SEE-MG. Gabarito: A. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: anti-ibérico."
+    },
+    {
+      "id": "hifen-045",
+      "frase": "política agrícola-ambiental",
+      "destaque": "agrícola-ambiental",
+      "correta": true,
+      "explicacao": "O texto da prova grafa “agrícola-ambiental”. Décio Terror explica o hífen: é adjetivo composto. O gabarito (E, “político-econômico”) confirma que esse é o mesmo tipo de hífen, não um erro de grafia.",
+      "regra": "Base XV: compostos em que os elementos mantêm acento próprio.",
+      "fonte": "FGV – 2018 – Câmara de Salvador – Analista Legislativo. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-046",
+      "frase": "político-econômico",
+      "destaque": "político-econômico",
+      "correta": true,
+      "explicacao": "Gabarito: E. Décio Terror: adjetivo composto, com hífen, pelo mesmo motivo de “agrícola-ambiental”.",
+      "regra": "Base XV: adjetivo composto.",
+      "fonte": "FGV – 2018 – Câmara de Salvador. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-047",
+      "frase": "segunda-feira",
+      "destaque": "segunda-feira",
+      "correta": true,
+      "explicacao": "A palavra está na prova. Décio Terror a classifica como substantivo composto, grafado com hífen. O Acordo exemplifica “segunda-feira”.",
+      "regra": "Base XV: composto com acento próprio.",
+      "fonte": "FGV – 2018 – Câmara de Salvador. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: segunda-feira."
+    },
+    {
+      "id": "hifen-048",
+      "frase": "tenente-coronel",
+      "destaque": "tenente-coronel",
+      "correta": true,
+      "explicacao": "A palavra está na prova. Décio Terror a trata como substantivo composto correto. O Acordo exemplifica “tenente-coronel”.",
+      "regra": "Base XV: composto com acento próprio.",
+      "fonte": "FGV – 2018 – Câmara de Salvador. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: tenente-coronel."
+    },
+    {
+      "id": "hifen-049",
+      "frase": "inter-relacionamento",
+      "destaque": "inter-relacionamento",
+      "correta": true,
+      "explicacao": "A palavra está na prova. Décio Terror a descreve como prefixo, não como erro. “Inter-” diante de “r” leva hífen, como “inter-resistente” no Acordo.",
+      "regra": "Base XVI, “d”: “inter-” + “r”.",
+      "fonte": "FGV – 2018 – Câmara de Salvador. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-050",
+      "frase": "uma das operações mercantis mais bem-sucedidas de nosso tempo",
+      "destaque": "bem-sucedidas",
+      "correta": true,
+      "explicacao": "O texto da prova traz “bem-sucedidas”. A alternativa A, que dizia poder tirar o hífen, está errada segundo o comentário: “bem-sucedido” é o adjetivo com hífen; sem ele, “bem” vira só advérbio e o sentido muda.",
+      "regra": "Base XV: “bem” forma unidade com o elemento seguinte.",
+      "fonte": "Instituto AOCP – 2018 – TRT-RJ – Técnico Judiciário. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-051",
+      "frase": "as pessoas já têm muito bem resolvidas as necessidades básicas",
+      "destaque": "bem resolvidas",
+      "correta": true,
+      "explicacao": "Gabarito: B. Décio Terror diz que, neste contexto, não se pode pôr hífen: “bem” é advérbio de intensidade, não o adjetivo “bem-resolvido”. A grafia da prova, sem hífen, está correta.",
+      "regra": "“Bem” advérbio, fora do composto, não leva hífen.",
+      "fonte": "Instituto AOCP – 2018 – TRT-RJ. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-052",
+      "frase": "autossuficiência",
+      "destaque": "autossuficiência",
+      "correta": true,
+      "explicacao": "A palavra está no enunciado, e o gabarito explica por que ela não leva hífen: “auto” termina em vogal e o segundo elemento começa por “s”, que se dobra.",
+      "regra": "Base XVI: vogal + “s”, consoante dobrada.",
+      "fonte": "UFRR – 2018 – UFRR – Assistente Social. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-053",
+      "frase": "contrarreforma",
+      "destaque": "contrarreforma",
+      "correta": true,
+      "explicacao": "Gabarito: E. Décio Terror: o mesmo processo de “autossuficiência”. “Contra” termina em vogal e “reforma” começa por “r”, que se dobra.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "UFRR – 2018 – UFRR – Assistente Social. Gabarito: E. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-054",
+      "frase": "vice-rei",
+      "destaque": "vice-rei",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror lembra que “vice” é sempre seguido de hífen. O Acordo exemplifica “vice-reitor” e “vizo-rei”.",
+      "regra": "Base XVI, “e”: “vice-” sempre com hífen.",
+      "fonte": "UFRR – 2018 – UFRR – Assistente Social. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-055",
+      "frase": "micro-ônibus",
+      "destaque": "micro-ônibus",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror: o prefixo e a palavra seguinte repetem a vogal “o”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-056",
+      "frase": "hiperacidez",
+      "destaque": "hiperacidez",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror: “hiper-” termina em “r” e “acidez” começa por vogal, sem hífen.",
+      "regra": "Base XVI: “hiper-” + vogal, sem hífen.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-057",
+      "frase": "sobreumano",
+      "destaque": "sobreumano",
+      "correta": false,
+      "explicacao": "Está na alternativa A, que não é o gabarito. Décio Terror: “sobre-humano” recebe hífen para preservar o “h”.",
+      "regra": "Base XVI, “a”: hífen antes de “h”.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-058",
+      "frase": "vicerrei",
+      "destaque": "vicerrei",
+      "correta": false,
+      "explicacao": "A forma aparece nas alternativas que o gabarito não confirma. Décio Terror: “vice” exige hífen, como em “vice-rei”.",
+      "regra": "Base XVI, “e”: “vice-” sempre com hífen.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-059",
+      "frase": "mandachuva",
+      "destaque": "mandachuva",
+      "correta": true,
+      "explicacao": "Décio Terror diz que “mandachuva” perdeu o hífen na reforma. O Acordo e Bechara listam a forma aglutinada.",
+      "regra": "Base XV, observação: “mandachuva” sem hífen.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Bechara: https://www.academia.org.br/artigos/o-nao-emprego-do-hifen-nas-locucoes-2"
+    },
+    {
+      "id": "hifen-060",
+      "frase": "semirreta",
+      "destaque": "semirreta",
+      "correta": true,
+      "explicacao": "Décio Terror: “semirreta” não tem hífen e o “r” é dobrado.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-061",
+      "frase": "vice-almirante",
+      "destaque": "vice-almirante",
+      "correta": true,
+      "explicacao": "Décio Terror usa “vice-almirante” como forma com hífen ao comentar a alternativa B. O Acordo inclui “ex-almirante” no mesmo grupo de “vice-”, que sempre leva hífen.",
+      "regra": "Base XVI, “e”: “vice-” sempre com hífen.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-062",
+      "frase": "sub-delegado",
+      "destaque": "sub-delegado",
+      "correta": false,
+      "explicacao": "Está na alternativa D. Décio Terror: “subdelegado” não tem hífen.",
+      "regra": "“Sub-” sem hífen diante de “d”.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-063",
+      "frase": "infraepático",
+      "destaque": "infraepático",
+      "correta": false,
+      "explicacao": "Está na alternativa E. Décio Terror corrige para “infra-hepático”, com hífen, para preservar o “h”.",
+      "regra": "Base XVI, “a”: hífen antes de “h”.",
+      "fonte": "UFRR – 2018 – UFRR. Gabarito: C. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-064",
+      "frase": "erva-doce",
+      "destaque": "erva-doce",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror: hífen nas espécies botânicas. O Acordo exemplifica “erva-doce”.",
+      "regra": "Base XV: espécies botânicas e zoológicas.",
+      "fonte": "FCM – 2018 – IFNMG – Professor. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: erva-doce."
+    },
+    {
+      "id": "hifen-065",
+      "frase": "arco-da-velha",
+      "destaque": "arco-da-velha",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. É exceção consagrada entre as locuções. O Acordo cita “arco-da-velha”.",
+      "regra": "Base XV: exceção consagrada de locução.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: arco-da-velha."
+    },
+    {
+      "id": "hifen-066",
+      "frase": "contrassenha",
+      "destaque": "contrassenha",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. O Acordo exemplifica “contrassenha”: vogal + “s”, sem hífen, consoante dobrada.",
+      "regra": "Base XVI: vogal + “s”, consoante dobrada.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: contrassenha."
+    },
+    {
+      "id": "hifen-067",
+      "frase": "afro-asiático",
+      "destaque": "afro-asiático",
+      "correta": true,
+      "explicacao": "Décio Terror: leva hífen por juntar duas etnias. O Acordo exemplifica “afro-asiático”. A alternativa em que a palavra aparece erra em outros vocábulos, não neste.",
+      "regra": "Base XV: composto de etnias, com acento próprio.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: afro-asiático."
+    },
+    {
+      "id": "hifen-068",
+      "frase": "cor-de-vinho",
+      "destaque": "cor-de-vinho",
+      "correta": false,
+      "explicacao": "Décio Terror: “cor de vinho” não recebe hífen, porque é locução. O Acordo exemplifica “cor de vinho” sem hífen. A exceção consagrada é “cor-de-rosa”, não “cor de vinho”.",
+      "regra": "Base XV: locuções, em geral, sem hífen.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: cor de vinho."
+    },
+    {
+      "id": "hifen-069",
+      "frase": "sotomestre",
+      "destaque": "sotomestre",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “soto-mestre”. O Acordo inclui “soto-” no grupo que sempre leva hífen, com o exemplo “soto-mestre”.",
+      "regra": "Base XVI, “e”: “soto-” sempre com hífen.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: soto-mestre."
+    },
+    {
+      "id": "hifen-070",
+      "frase": "mão de obra",
+      "destaque": "mão de obra",
+      "correta": true,
+      "explicacao": "Décio Terror: “mão de obra” é locução, sem hífen. Bechara, na ABL, responde à mesma dúvida: locução substantiva não se separa por hífen. O Acordo exemplifica “cão de guarda” e “fim de semana” pelo mesmo critério.",
+      "regra": "Base XV: locução substantiva sem hífen.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Bechara: https://www.academia.org.br/artigos/o-nao-emprego-do-hifen-nas-locucoes-2"
+    },
+    {
+      "id": "hifen-071",
+      "frase": "panafricano",
+      "destaque": "panafricano",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “pan-africano”. O Acordo: “pan-” leva hífen quando o segundo elemento começa por vogal, “m” ou “n”. Exemplo oficial: “pan-africano”.",
+      "regra": "Base XVI, “c”: “pan-” antes de vogal.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: pan-africano."
+    },
+    {
+      "id": "hifen-072",
+      "frase": "couve-flor",
+      "destaque": "couve-flor",
+      "correta": true,
+      "explicacao": "Décio Terror: hífen de espécie botânica / composto que mantém acento próprio. O Acordo exemplifica “couve-flor”.",
+      "regra": "Base XV: espécie botânica.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: couve-flor."
+    },
+    {
+      "id": "hifen-073",
+      "frase": "água-de-colônia",
+      "destaque": "água-de-colônia",
+      "correta": true,
+      "explicacao": "Décio Terror: locução consagrada pelo uso, com hífen. O Acordo lista “água-de-colónia” entre as exceções.",
+      "regra": "Base XV: exceção consagrada de locução.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-074",
+      "frase": "auto-retrato",
+      "destaque": "auto-retrato",
+      "correta": false,
+      "explicacao": "Décio Terror: “autorretrato” perde o hífen e a letra “r” dobra.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-075",
+      "frase": "bem te vi",
+      "destaque": "bem te vi",
+      "correta": false,
+      "explicacao": "Décio Terror indica hífen. O Acordo grafa “bem-te-vi”, nome de pássaro, entre as espécies que levam hífen.",
+      "regra": "Base XV: espécie zoológica.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: bem-te-vi."
+    },
+    {
+      "id": "hifen-076",
+      "frase": "sala-de-jantar",
+      "destaque": "sala-de-jantar",
+      "correta": false,
+      "explicacao": "Décio Terror trata o caso como locução. O Acordo exemplifica “sala de jantar” sem hífen.",
+      "regra": "Base XV: locução substantiva sem hífen.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: sala de jantar."
+    },
+    {
+      "id": "hifen-077",
+      "frase": "hiperrenquintado",
+      "destaque": "hiperrenquintado",
+      "correta": false,
+      "explicacao": "Décio Terror corrige para “hiper-requintado”. O Acordo exemplifica “hiper-requintado”: “hiper-” diante de “r” leva hífen, sem dobrar a consoante.",
+      "regra": "Base XVI, “d”: “hiper-” + “r”.",
+      "fonte": "FCM – 2018 – IFNMG. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: hiper-requintado."
+    },
+    {
+      "id": "hifen-078",
+      "frase": "anti-imperialista",
+      "destaque": "anti-imperialista",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror diz que todas as palavras dela estão corretas. Vogais iguais pedem hífen, como “anti-ibérico” no Acordo.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-079",
+      "frase": "pré-história",
+      "destaque": "pré-história",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. O Acordo exemplifica “pré-história”: prefixo tônico e segundo elemento com “h”.",
+      "regra": "Base XVI, “a” e “f”: “pré-” tônico.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: pré-história."
+    },
+    {
+      "id": "hifen-080",
+      "frase": "semianalfabeto",
+      "destaque": "semianalfabeto",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Vogais diferentes, sem hífen.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-081",
+      "frase": "autoaprendizagem",
+      "destaque": "autoaprendizagem",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. O Acordo exemplifica “autoaprendizagem”, sem hífen: vogais diferentes.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: autoaprendizagem."
+    },
+    {
+      "id": "hifen-082",
+      "frase": "intraracial",
+      "destaque": "intraracial",
+      "correta": false,
+      "explicacao": "Décio Terror: “intrarracial” dobra o “r”. A forma da alternativa A está sem essa consoante.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-083",
+      "frase": "alémtúmulo",
+      "destaque": "alémtúmulo",
+      "correta": false,
+      "explicacao": "Décio Terror: “além-túmulo” recebe hífen. O Acordo põe “além” no grupo que sempre leva hífen: “além-mar”, “além-fronteiras”.",
+      "regra": "Base XV: compostos com “além”.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-084",
+      "frase": "auto-escola",
+      "destaque": "auto-escola",
+      "correta": false,
+      "explicacao": "Décio Terror: “autoescola” perdeu o hífen. “Auto” termina em “o” e “escola” começa por “e”, vogais diferentes. O Acordo exemplifica o mesmo em “autoestrada”.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-085",
+      "frase": "portarretrato",
+      "destaque": "portarretrato",
+      "correta": false,
+      "explicacao": "Décio Terror: “porta-retrato” leva hífen. É composto sem elemento de ligação, com o primeiro termo de forma verbal, e os elementos mantêm acento próprio.",
+      "regra": "Base XV: justaposição sem elemento de ligação.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-086",
+      "frase": "hiperrequintado",
+      "destaque": "hiperrequintado",
+      "correta": false,
+      "explicacao": "Décio Terror: a forma é “hiper-requintado”, exemplo do próprio Acordo.",
+      "regra": "Base XVI, “d”: “hiper-” + “r”.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: hiper-requintado."
+    },
+    {
+      "id": "hifen-087",
+      "frase": "microondas",
+      "destaque": "microondas",
+      "correta": false,
+      "explicacao": "Décio Terror: “micro-ondas” recebe hífen, porque as vogais são iguais. O Acordo exemplifica “micro-onda”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-088",
+      "frase": "auto-peça",
+      "destaque": "auto-peça",
+      "correta": false,
+      "explicacao": "Décio Terror: “autopeça” não recebe hífen. Vogais diferentes.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-089",
+      "frase": "minissaia",
+      "destaque": "minissaia",
+      "correta": true,
+      "explicacao": "A palavra está na alternativa B. Décio Terror não a corrige; o processo é o do Acordo, que exemplifica “minissaia”: vogal + “s”, consoante dobrada, sem hífen.",
+      "regra": "Base XVI: vogal + “s”, consoante dobrada.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: minissaia."
+    },
+    {
+      "id": "hifen-090",
+      "frase": "semiaberto",
+      "destaque": "semiaberto",
+      "correta": true,
+      "explicacao": "A palavra está na alternativa C. Décio Terror aponta como erros dessa alternativa “hiperrequintado”, “microondas” e “auto-peça”, não “semiaberto”. “Semi” termina em “i” e “aberto” começa por “a”.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "Gestão de Concursos – 2018 – EMATER-MG. Gabarito: D. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-091",
+      "frase": "autocrítica",
+      "destaque": "autocrítica",
+      "correta": true,
+      "explicacao": "Gabarito: B, que traz “autocrítica”. Décio Terror: sem hífen, porque “auto” termina em vogal e “crítica” começa por consoante.",
+      "regra": "Base XVI: vogal + consoante, sem hífen.",
+      "fonte": "UFPR – 2018 – COREN-PR – Auxiliar Administrativo. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-092",
+      "frase": "meia-verdade",
+      "destaque": "meia-verdade",
+      "correta": true,
+      "explicacao": "Está na alternativa do gabarito. Décio Terror: numeral “meia” e substantivo “verdade”, composto com hífen na norma brasileira.",
+      "regra": "Base XV: composto de numeral e substantivo.",
+      "fonte": "UFPR – 2018 – COREN-PR. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    }
+  ]
+}

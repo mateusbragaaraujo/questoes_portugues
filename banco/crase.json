@@ -1,0 +1,979 @@
+{
+  "tema": "crase",
+  "titulo": "Crase",
+  "descricao": "Itens em que o trecho em destaque está certo ou errado quanto ao acento grave, conforme o gabarito da prova.",
+  "questoes": [
+    {
+      "id": "crase-001",
+      "frase": "Nem todos os empresários se dedicam à ajuda do próximo.",
+      "destaque": "à ajuda",
+      "correta": true,
+      "explicacao": "O gabarito não aponta esta frase como incorreta. “Dedicar-se” pede a preposição “a”, e “ajuda” admite o artigo “a”: a + a = à.",
+      "regra": "Preposição “a” + artigo feminino “a”.",
+      "fonte": "NCE-UFRJ. Questão 1 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-002",
+      "frase": "As empresas nacionais não podem comparar-se às americanas.",
+      "destaque": "às americanas",
+      "correta": true,
+      "explicacao": "O gabarito não aponta esta frase como incorreta. “Comparar-se” pede “a”, e “americanas” está determinado no feminino plural: a + as = às.",
+      "regra": "Preposição “a” + artigo “as”.",
+      "fonte": "NCE-UFRJ. Questão 1 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-003",
+      "frase": "A fortuna foi doada à Fundação Gates.",
+      "destaque": "à Fundação",
+      "correta": true,
+      "explicacao": "O gabarito não aponta esta frase como incorreta. “Doar” pede “a”, e “Fundação” é substantivo feminino que admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 1 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-004",
+      "frase": "O horário de trabalho é de 7h à uma.",
+      "destaque": "à uma",
+      "correta": false,
+      "explicacao": "É esta a alternativa do gabarito (incorreção). No intervalo, “de 7h” traz só a preposição; o segundo termo tem de manter o paralelismo, “a uma”, sem artigo. A crase caberia em “das 7h à uma”.",
+      "regra": "Paralelismo de horário: de… a… ou das… às…",
+      "fonte": "NCE-UFRJ. Questão 1 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Mesma regra de paralelismo comentada em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
+    },
+    {
+      "id": "crase-005",
+      "frase": "Graças à uma norma do estatuto, os servidores aproveitam o ponto facultativo.",
+      "destaque": "à uma",
+      "correta": false,
+      "explicacao": "Gabarito: esta é a frase com crase incorreta. Não se usa acento grave antes de artigo indefinido. O correto é “a uma norma”. A exceção das horas (“à uma hora”) não se aplica aqui.",
+      "regra": "Proibido antes de artigo indefinido.",
+      "fonte": "FJPF. Questão 2 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra em Adriana Figueiredo e no comentário da Vunesp/Jundiaí: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-006",
+      "frase": "Os servidores não comparecem à repartição em dia de feriado.",
+      "destaque": "à repartição",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Comparecer” pede “a”, e “repartição” admite o artigo feminino.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "FJPF. Questão 2 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-007",
+      "frase": "Junto à porta da repartição, para espanto de João Brandão, só havia um gato.",
+      "destaque": "à porta",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Junto a” pede preposição, e “porta” é feminino determinado.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "FJPF. Questão 2 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-008",
+      "frase": "O chefe preferia os caxias à massa de servidores pouco diligentes.",
+      "destaque": "à massa",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Preferir” pede “a” no segundo termo, e “massa” admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "FJPF. Questão 2 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-009",
+      "frase": "Aproveitando o feriado e o céu azul, os servidores foram à praia.",
+      "destaque": "à praia",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Ir” pede “a”, e “praia” admite artigo: quem vai à praia volta da praia.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "FJPF. Questão 2 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-010",
+      "frase": "O calor é uma ameaça às espécies animais dos polos.",
+      "destaque": "às espécies",
+      "correta": true,
+      "explicacao": "O gabarito diz que a crase é obrigatória nesta frase (a exceção é outra). “Ameaça” pede “a”, e “espécies” está no feminino plural determinado.",
+      "regra": "Preposição “a” + artigo “as”.",
+      "fonte": "FUMARC. Questão 5 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-011",
+      "frase": "O acordo foi considerado lesivo à economia americana.",
+      "destaque": "à economia",
+      "correta": true,
+      "explicacao": "O gabarito diz que a crase é obrigatória nesta frase. “Lesivo” pede “a”, e “economia” admite artigo.",
+      "regra": "Regência nominal + artigo feminino.",
+      "fonte": "FUMARC. Questão 5 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-012",
+      "frase": "Parte do calor do Sol que chega à Terra não volta ao espaço.",
+      "destaque": "à Terra",
+      "correta": true,
+      "explicacao": "O gabarito diz que a crase é obrigatória nesta frase. “Terra”, como nome do planeta, admite artigo: chega-se à Terra, volta-se da Terra. Não é o “terra” de “voltar a terra” (chão, oposto ao mar).",
+      "regra": "Topônimo feminino que admite artigo.",
+      "fonte": "FUMARC. Questão 5 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Teste “volto da” comentado em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
+    },
+    {
+      "id": "crase-013",
+      "frase": "Refiro-me àquilo que discutíamos ontem.",
+      "destaque": "àquilo",
+      "correta": true,
+      "explicacao": "O gabarito considera a sentença correta. “Referir-se” pede “a”, que se funde ao “a” inicial de “aquilo”.",
+      "regra": "Preposição “a” + pronome “aquilo”.",
+      "fonte": "FEPESE. Questão 6 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista a crase com “aquilo”: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-014",
+      "frase": "Chegamos à Argentina de madrugada.",
+      "destaque": "à Argentina",
+      "correta": true,
+      "explicacao": "O gabarito considera a sentença correta. “Argentina” admite artigo: chega-se à Argentina, volta-se da Argentina.",
+      "regra": "Topônimo que admite artigo feminino.",
+      "fonte": "FEPESE. Questão 6 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Teste “volto da” comentado em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
+    },
+    {
+      "id": "crase-015",
+      "frase": "Ele era insensível à dor.",
+      "destaque": "à dor",
+      "correta": true,
+      "explicacao": "O gabarito considera a sentença correta. “Insensível” pede “a”, e “dor” admite artigo.",
+      "regra": "Regência nominal + artigo feminino.",
+      "fonte": "FEPESE. Questão 6 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-016",
+      "frase": "Voltarei, em breve, à terra natal.",
+      "destaque": "à terra",
+      "correta": true,
+      "explicacao": "O gabarito considera a sentença correta. “Terra” especificada (“natal”) admite artigo. É caso diferente de “voltar a terra”, sem crase, quando “terra” significa chão firme.",
+      "regra": "“Terra” especificada admite artigo.",
+      "fonte": "FEPESE. Questão 6 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria distingue terra especificada e não especificada: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-017",
+      "frase": "Voltamos à casa cedo.",
+      "destaque": "à casa",
+      "correta": false,
+      "explicacao": "O gabarito diz que as sentenças 1 a 4 estão corretas, logo esta não está. “Casa” no sentido de lar próprio não leva artigo: “volto de casa”, portanto “volto a casa”, sem crase.",
+      "regra": "“Casa” sem especificador não admite artigo.",
+      "fonte": "FEPESE. Questão 6 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria, com o teste “voltei de casa”: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-018",
+      "frase": "Entreguei-o àquela mulher.",
+      "destaque": "àquela",
+      "correta": true,
+      "explicacao": "A questão pede apenas qual crase é optativa; o gabarito aponta outra frase. Nesta, “entregar” pede “a”, fundido ao “a” de “aquela”. O acento é obrigatório, não optativo, e está correto.",
+      "regra": "Preposição “a” + “aquela”.",
+      "fonte": "NCE-UFRJ. Questão 7 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista a crase com “aquela”: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-019",
+      "frase": "Entreguei-o à polícia.",
+      "destaque": "à polícia",
+      "correta": true,
+      "explicacao": "A questão não classifica esta crase como erro. “Entregar” pede “a”, e “polícia” admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 7 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-020",
+      "frase": "Foi o que procurei fazer, na medida do possível e ao longo de vários anos, ouvindo reações à proposta que apresentara.",
+      "destaque": "à proposta",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra frase como a de acento inadequado. “Reações” pede “a”, e “proposta” admite artigo.",
+      "regra": "Regência nominal + artigo feminino.",
+      "fonte": "ESAF. Questão 9 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-021",
+      "frase": "Posto que Jorge falasse do coronel nas cartas que escrevia à mãe, não o dava como amigo seu.",
+      "destaque": "à mãe",
+      "correta": true,
+      "explicacao": "O gabarito não aponta esta frase como inadequada. “Escrever” pede “a”, e “mãe”, com artigo, produz crase.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "ESAF. Questão 9 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-022",
+      "frase": "Comparava-se ao mar daquela manhã, nem borrascoso nem quieto, mas levemente empolado e crespo, tão prestes a adormecer de todo, como a crescer e arremessar-se à praia.",
+      "destaque": "à praia",
+      "correta": true,
+      "explicacao": "O gabarito não aponta esta frase como inadequada. “Arremessar-se” pede “a”, e “praia” admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "ESAF. Questão 9 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-023",
+      "frase": "De Buenos Aires chegara-lhe na véspera, a tarde, a notícia da morte de um irmão, seu último parente.",
+      "destaque": "a tarde",
+      "correta": false,
+      "explicacao": "É o item do gabarito: o acento não foi empregado adequadamente. “À tarde” é locução adverbial feminina e leva crase. Na frase, o acento foi omitido.",
+      "regra": "Locução adverbial feminina “à tarde”.",
+      "fonte": "ESAF. Questão 9 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo inclui “à tarde” entre as locuções com crase: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-024",
+      "frase": "trabalhando a todo vapor",
+      "destaque": "a todo",
+      "correta": true,
+      "explicacao": "A frase da prova é “trabalhando a todo vapor”. O gabarito diz que esse “a” é preposição, não crase: “vapor” é masculino e não há artigo feminino.",
+      "regra": "Sem crase antes de palavra masculina.",
+      "fonte": "FJG. Questão 11 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: não há crase diante de palavra masculina. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-025",
+      "frase": "Prece a prece entregas a teu Deus a solução dos problemas.",
+      "destaque": "Prece a prece",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra alternativa como a errada. Entre palavras repetidas não há crase: o segundo “a” é só preposição.",
+      "regra": "Palavras repetidas: sem crase.",
+      "fonte": "FESP-RJ. Questão 13 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: D. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “dia a dia”, não “dia à dia”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-026",
+      "frase": "Peço a V.Sª não chegar a conclusões a que jamais cheguei.",
+      "destaque": "a V.Sª",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. Pronomes de tratamento como “Vossa Senhoria” não admitem artigo, então não há crase.",
+      "regra": "Sem crase antes de “Vossa Senhoria”.",
+      "fonte": "FESP-RJ. Questão 13 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: D. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria: Vossa Excelência e Vossa Senhoria não admitem artigo. https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-027",
+      "frase": "Assistimos à touradas com roupas a século XVIII.",
+      "destaque": "à touradas",
+      "correta": false,
+      "explicacao": "É a alternativa do gabarito. “À” no singular não se funde com substantivo no plural. Ou “a touradas”, sem artigo, ou “às touradas”.",
+      "regra": "“A” singular antes de palavra no plural.",
+      "fonte": "FESP-RJ. Questão 13 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: D. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “à empresas” está errado; o certo é “a empresas”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-028",
+      "frase": "Àquele que me ofende darei meu perdão.",
+      "destaque": "Àquele",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Dar” pede “a”, fundido ao “a” inicial de “aquele”.",
+      "regra": "Preposição “a” + “aquele”.",
+      "fonte": "FESP-RJ. Questão 13 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: D. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista a crase com “aquele”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-029",
+      "frase": "O desrespeito à sinalização é uma das transgressões praticadas pelos condutores de motocicletas.",
+      "destaque": "à sinalização",
+      "correta": true,
+      "explicacao": "O gabarito diz que o item I está correto. “Desrespeito” pede “a”, e “sinalização” admite artigo. O enunciado da própria prova lembra o mesmo fato em “obedece à maioria”: preposição do verbo com o artigo feminino.",
+      "regra": "Regência nominal + artigo feminino.",
+      "fonte": "FJPF. Questão 15 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena O enunciado da questão explica a crase de “obedece à maioria” pelo mesmo mecanismo."
+    },
+    {
+      "id": "crase-030",
+      "frase": "O médico fez referência à uma estatística que não podia servir de base a seu raciocínio.",
+      "destaque": "à uma",
+      "correta": false,
+      "explicacao": "O gabarito diz que o item II está incorreto. Não há crase antes de artigo indefinido: “referência a uma estatística”.",
+      "regra": "Proibido antes de artigo indefinido.",
+      "fonte": "FJPF. Questão 15 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo e o comentário da Vunesp/Jundiaí: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-031",
+      "frase": "No momento do acidente, o motoqueiro estava sem capacete, pois ia à sua empresa para pegá-lo.",
+      "destaque": "à sua",
+      "correta": true,
+      "explicacao": "O gabarito diz que o item III está correto, embora a crase seja facultativa. Antes de possessivo feminino singular, as duas formas são aceitas: “a sua empresa” e “à sua empresa”. A frase, como está, não é erro.",
+      "regra": "Crase facultativa antes de possessivo feminino singular.",
+      "fonte": "FJPF. Questão 15 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista esse caso facultativo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-032",
+      "frase": "É preciso que a sociedade diga não à essa violência desmedida praticada diariamente nas áreas urbanas.",
+      "destaque": "à essa",
+      "correta": false,
+      "explicacao": "O gabarito diz que o item IV está incorreto. Não há crase antes do demonstrativo “essa”. O correto é “a essa violência”.",
+      "regra": "Sem crase antes de “essa”.",
+      "fonte": "FJPF. Questão 15 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “a estas reflexões”, não “à estas”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-033",
+      "frase": "O papagaio estava à distância de 10 metros da gaiola.",
+      "destaque": "à distância",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra frase como a do acento mal colocado. Com a distância determinada (“de 10 metros”), há crase. Sem determinação, escreve-se “a distância”.",
+      "regra": "“Distância” determinada leva crase.",
+      "fonte": "NCE-UFRJ. Questão 16 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria: casa, terra e distância levam crase quando especificadas. https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-034",
+      "frase": "O bicho não tinha direito à água nem a alimento.",
+      "destaque": "à água",
+      "correta": false,
+      "explicacao": "É a frase do gabarito. Os termos coordenados precisam do mesmo tratamento: ou “à água nem ao alimento”, com artigo nos dois, ou “a água nem a alimento”, sem artigo. A crase só no primeiro quebra o paralelismo.",
+      "regra": "Paralelismo entre termos coordenados.",
+      "fonte": "NCE-UFRJ. Questão 16 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria cobra o mesmo paralelismo em “à nutricionista e ao nutrólogo”: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-035",
+      "frase": "Deve-se à conscientização a diminuição do número de animais em cativeiro.",
+      "destaque": "à conscientização",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Dever-se” pede “a”, e “conscientização” admite artigo. O “a” de “a diminuição” é artigo do sujeito, não crase.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 16 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-036",
+      "frase": "Entregou-se à polícia o caçador clandestino.",
+      "destaque": "à polícia",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Entregar-se” pede “a”, e “polícia” admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 16 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-037",
+      "frase": "adequar programas de qualidade a uma cultura empresarial moderna.",
+      "destaque": "a uma",
+      "correta": true,
+      "explicacao": "O gabarito diz que a crase ocorre em outra alteração, não nesta. Antes de “uma” não há acento grave.",
+      "regra": "Sem crase antes de artigo indefinido.",
+      "fonte": "FJPF. Questão 17 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: proibido antes de artigo indefinido. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-038",
+      "frase": "adequar programas de qualidade a esta nova situação propícia para as empresas.",
+      "destaque": "a esta",
+      "correta": true,
+      "explicacao": "O gabarito diz que a crase ocorre em outra alteração. Antes do demonstrativo “esta” não há crase.",
+      "regra": "Sem crase antes de “esta”.",
+      "fonte": "FJPF. Questão 17 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: não há crase antes de “esta/essa”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-039",
+      "frase": "adequar programas de qualidade a nova dimensão tecnológica das empresas.",
+      "destaque": "a nova",
+      "correta": false,
+      "explicacao": "É a alteração do gabarito: a frase está incorreta justamente porque a crase ocorre e o acento foi omitido. “Adequar a” + “a nova dimensão” = “à nova dimensão”.",
+      "regra": "Omissão da crase obrigatória.",
+      "fonte": "FJPF. Questão 17 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-040",
+      "frase": "De segunda à sexta, trabalho das oito às quinze.",
+      "destaque": "à sexta",
+      "correta": false,
+      "explicacao": "O gabarito diz que o acento não está inteiramente correto neste item. “De segunda” usa só a preposição; por paralelismo, o segundo termo é “a sexta”, sem crase. “Das oito às quinze” seguiria outro par, “das… às…”.",
+      "regra": "Paralelismo: de… a…, não de… à…",
+      "fonte": "ESPCEX. Questão 18 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Paralelismo comentado em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
+    },
+    {
+      "id": "crase-041",
+      "frase": "Devo à minha persistência a promoção conseguida.",
+      "destaque": "à minha",
+      "correta": true,
+      "explicacao": "O gabarito diz que o acento está inteiramente correto neste item. Antes de possessivo feminino singular a crase é facultativa, e a forma com acento é aceita.",
+      "regra": "Crase facultativa antes de possessivo feminino singular.",
+      "fonte": "ESPCEX. Questão 18 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista esse caso facultativo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-042",
+      "frase": "Não fique aí à toa; dirija-se àquele guichê.",
+      "destaque": "à toa",
+      "correta": true,
+      "explicacao": "O gabarito diz que o acento está inteiramente correto neste item. “À toa” é locução adverbial feminina. “Àquele” funde a preposição de “dirigir-se” com “aquele”.",
+      "regra": "Locução adverbial feminina e crase com “aquele”.",
+      "fonte": "ESPCEX. Questão 18 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: B. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista “à toa” e a crase com “aquele”: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-043",
+      "frase": "Augusto, irás a Petrópolis ou a Valença?",
+      "destaque": "a Petrópolis",
+      "correta": true,
+      "explicacao": "O gabarito não é esta frase: aqui não falta crase. Petrópolis e Valença não admitem artigo (volto de Petrópolis, volto de Valença).",
+      "regra": "Cidade sem artigo: sem crase.",
+      "fonte": "EFOMM. Questão 19 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Teste “volto de / volto da” comentado em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
+    },
+    {
+      "id": "crase-044",
+      "frase": "Chegou a casa exausto, após um dia de muito trabalho.",
+      "destaque": "a casa",
+      "correta": true,
+      "explicacao": "O gabarito não aponta falta de crase aqui. “Casa”, como lar próprio, não leva artigo.",
+      "regra": "“Casa” sem especificador: sem crase.",
+      "fonte": "EFOMM. Questão 19 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria: “Fui a casa”, não “Fui à casa”. https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-045",
+      "frase": "A reunião começará a uma hora.",
+      "destaque": "a uma hora",
+      "correta": false,
+      "explicacao": "É o item do gabarito: falta o acento. Hora determinada leva crase: “à uma hora”. Não se confunde com “daqui a uma hora”, intervalo futuro, sem crase.",
+      "regra": "Crase nas horas determinadas.",
+      "fonte": "EFOMM. Questão 19 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: há crase nas horas, exceção entre os numerais. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-046",
+      "frase": "Vendem-se roupas para meninas de 1 a 10 anos de idade.",
+      "destaque": "1 a 10",
+      "correta": true,
+      "explicacao": "O gabarito não aponta falta de crase. Antes de numeral que não seja hora, não há acento grave.",
+      "regra": "Sem crase antes de numeral (exceto hora).",
+      "fonte": "EFOMM. Questão 19 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: sem crase antes de numeral, salvo horas. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-047",
+      "frase": "E assim, dia a dia, hora a hora, minuto a minuto, vamos cumprindo a missão de que Deus nos encarregou.",
+      "destaque": "dia a dia",
+      "correta": true,
+      "explicacao": "O gabarito não aponta falta de crase. Entre palavras repetidas o “a” é só preposição.",
+      "regra": "Palavras repetidas: sem crase.",
+      "fonte": "EFOMM. Questão 19 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “dia a dia”, não “dia à dia”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-048",
+      "frase": "A referência à clonagem de Dolly serve como um alerta no mundo científico.",
+      "destaque": "à clonagem",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra frase como a do acento mal empregado. “Referência” pede “a”, e “clonagem” admite artigo.",
+      "regra": "Regência nominal + artigo feminino.",
+      "fonte": "FJPF. Questão 23 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-049",
+      "frase": "Em resposta às perguntas sobre clonagem humana, disse que o experimento seria ótimo.",
+      "destaque": "às perguntas",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Resposta” pede “a”, e “perguntas” está no feminino plural determinado.",
+      "regra": "Preposição “a” + artigo “as”.",
+      "fonte": "FJPF. Questão 23 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-050",
+      "frase": "As pesquisas sobre clonagem de animais estão sendo revistas uma à uma.",
+      "destaque": "uma à uma",
+      "correta": false,
+      "explicacao": "É a frase do gabarito. Entre palavras repetidas não há crase. O correto é “uma a uma”.",
+      "regra": "Palavras repetidas: sem crase.",
+      "fonte": "FJPF. Questão 23 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: entre palavras repetidas a crase não é admitida. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-051",
+      "frase": "O cientista procedeu à análise dos métodos de clonagem animal.",
+      "destaque": "à análise",
+      "correta": true,
+      "explicacao": "O gabarito não marca esta frase como erro. “Proceder” pede “a”, e “análise” admite artigo.",
+      "regra": "Regência verbal + artigo feminino.",
+      "fonte": "FJPF. Questão 23 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-052",
+      "frase": "Quando iremos à Portugal?",
+      "destaque": "à Portugal",
+      "correta": false,
+      "explicacao": "É a opção do gabarito. Portugal não admite artigo: vai-se a Portugal, volta-se de Portugal. Não há crase.",
+      "regra": "Topônimo sem artigo: sem crase.",
+      "fonte": "PUC-RJ. Questão 24 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Teste “volto de” comentado em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
+    },
+    {
+      "id": "crase-053",
+      "frase": "Terminei o trabalho às 11 horas da noite.",
+      "destaque": "às 11 horas",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra opção como erro. Hora determinada leva crase.",
+      "regra": "Crase nas horas determinadas.",
+      "fonte": "PUC-RJ. Questão 24 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo inclui “às 20h” entre os casos de crase. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-054",
+      "frase": "Hoje distribuíram balas às crianças do bairro.",
+      "destaque": "às crianças",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra opção como erro. “Distribuir” pede “a”, e “crianças” admite o artigo plural.",
+      "regra": "Preposição “a” + artigo “as”.",
+      "fonte": "PUC-RJ. Questão 24 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-055",
+      "frase": "Ele não compareceu à reunião de sexta-feira.",
+      "destaque": "à reunião",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra opção como erro. “Comparecer” pede “a”, e “reunião” admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "PUC-RJ. Questão 24 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-056",
+      "frase": "Atribui-se à Sérgio Buarque uma visão otimista do Brasil.",
+      "destaque": "à Sérgio",
+      "correta": false,
+      "explicacao": "O gabarito diz que só outra opção está correta. Não há crase antes de nome masculino. “Sérgio” não é caso de “à moda de”.",
+      "regra": "Sem crase antes de palavra masculina.",
+      "fonte": "CESGRANRIO. Questão 26 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: não há crase diante de palavra masculina, salvo “à moda de”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-057",
+      "frase": "O autor refere-se, no texto, à uma monumental desigualdade.",
+      "destaque": "à uma",
+      "correta": false,
+      "explicacao": "O gabarito diz que só outra opção está correta. Não há crase antes de “uma”.",
+      "regra": "Proibido antes de artigo indefinido.",
+      "fonte": "CESGRANRIO. Questão 26 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Comentário da Vunesp 2022 (Jundiaí) por Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-058",
+      "frase": "O Brasil passou a ser entendido à partir desses estudos.",
+      "destaque": "à partir",
+      "correta": false,
+      "explicacao": "O gabarito diz que só outra opção está correta. Não há crase antes de verbo. O correto é “a partir”.",
+      "regra": "Sem crase antes de verbo.",
+      "fonte": "CESGRANRIO. Questão 26 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “a entender”, não “à entender”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-059",
+      "frase": "O povo brasileiro é dado à festas folclóricas.",
+      "destaque": "à festas",
+      "correta": false,
+      "explicacao": "O gabarito diz que só outra opção está correta. “À” singular não combina com substantivo no plural. O correto é “a festas” ou “às festas”.",
+      "regra": "“A” singular antes de palavra no plural.",
+      "fonte": "CESGRANRIO. Questão 26 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “à empresas” está errado. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-060",
+      "frase": "Muitos universitários recorrem às pesquisas destes dois autores.",
+      "destaque": "às pesquisas",
+      "correta": true,
+      "explicacao": "É a opção do gabarito. “Recorrer” pede “a”, e “pesquisas” admite o artigo plural.",
+      "regra": "Preposição “a” + artigo “as”.",
+      "fonte": "CESGRANRIO. Questão 26 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: E. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-061",
+      "frase": "Dedicava-se a crônica semanal com prazer.",
+      "destaque": "a crônica",
+      "correta": false,
+      "explicacao": "É a frase do gabarito: o “a” deve receber crase. “Dedicar-se” pede “a”, e “crônica” admite artigo: “à crônica”.",
+      "regra": "Omissão da crase obrigatória.",
+      "fonte": "CESGRANRIO. Questão 27 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-062",
+      "frase": "Pegou um lápis e pôs-se a trabalhar.",
+      "destaque": "a trabalhar",
+      "correta": true,
+      "explicacao": "O gabarito diz que só outra frase precisa de crase. Antes de verbo não há acento grave.",
+      "regra": "Sem crase antes de verbo.",
+      "fonte": "CESGRANRIO. Questão 27 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: sem crase antes de verbo. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-063",
+      "frase": "Leu o texto de ponta a ponta.",
+      "destaque": "ponta a ponta",
+      "correta": true,
+      "explicacao": "O gabarito diz que só outra frase precisa de crase. Entre palavras repetidas não há crase.",
+      "regra": "Palavras repetidas: sem crase.",
+      "fonte": "CESGRANRIO. Questão 27 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: palavras repetidas não levam crase. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-064",
+      "frase": "A crônica fazia referência a pessoas comuns.",
+      "destaque": "a pessoas",
+      "correta": true,
+      "explicacao": "O gabarito diz que só outra frase precisa de crase. “A” singular antes de plural, sem artigo, não leva acento: sentido genérico.",
+      "regra": "“A” singular antes de plural indeterminado.",
+      "fonte": "CESGRANRIO. Questão 27 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “a empresas”, sem acento, no plural genérico. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-065",
+      "frase": "Trata-se de um relatório referente à dívidas antigas da União.",
+      "destaque": "à dívidas",
+      "correta": false,
+      "explicacao": "É o item do gabarito. “À” singular diante de plural está errado. O correto é “a dívidas” ou “às dívidas”.",
+      "regra": "“A” singular antes de palavra no plural.",
+      "fonte": "NCE-UFRJ. Questão 30 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: “à empresas” está errado. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-066",
+      "frase": "Essas medidas obedecem às normas da ABNT.",
+      "destaque": "às normas",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra frase como erro. “Obedecer” pede “a”, e “normas” admite artigo plural. A própria questão 15 da compilação explica esse mecanismo em “obedece à maioria”.",
+      "regra": "“Obedecer a” + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 30 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena A questão 15 (FJPF), na mesma compilação, explica a crase de “obedecer” + artigo."
+    },
+    {
+      "id": "crase-067",
+      "frase": "Apesar de a norma à qual V.Sª se refere ser facultativa, todos os técnicos de que temos notícias a seguem.",
+      "destaque": "à qual",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra frase como erro. “Referir-se” pede “a”, que se funde ao “a” de “a qual”. O “a” de “apesar de a norma” é artigo do sujeito e fica sem crase, como está.",
+      "regra": "Preposição “a” + “a qual”.",
+      "fonte": "NCE-UFRJ. Questão 30 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo lista a crase com “a qual” e “as quais”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-068",
+      "frase": "A plateia assistia entusiasmada à conferência do filósofo.",
+      "destaque": "à conferência",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra frase como erro. “Assistir”, no sentido de ver, pede “a”, e “conferência” admite artigo.",
+      "regra": "“Assistir a” (ver) + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 30 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: A. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-069",
+      "frase": "Servimo-nos da presente para informar à V.Sª que seu relatório será avaliado até o final do mês de abril.",
+      "destaque": "à V.Sª",
+      "correta": false,
+      "explicacao": "O gabarito indica outra frase como a correta, logo esta não está. “Vossa Senhoria” não admite artigo: “informar a V.Sª”.",
+      "regra": "Sem crase antes de pronome de tratamento.",
+      "fonte": "NCE-UFRJ. Questão 31 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena José Maria: Vossa Senhoria não admite artigo. https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-070",
+      "frase": "Em atendimento as instruções dos senhores membros da Comissão, informamos que a receita não chegou a gerar superávit.",
+      "destaque": "as instruções",
+      "correta": false,
+      "explicacao": "O gabarito indica outra frase como a correta. “Atendimento” pede “a”, e “instruções” admite artigo: faltou o acento em “às instruções”.",
+      "regra": "Omissão da crase no plural.",
+      "fonte": "NCE-UFRJ. Questão 31 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-071",
+      "frase": "O presidente submeteu à deliberação do colegiado os assuntos previstos na pauta da reunião.",
+      "destaque": "à deliberação",
+      "correta": true,
+      "explicacao": "É a frase que o gabarito aponta como correta. “Submeter” pede “a”, e “deliberação” admite artigo.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "NCE-UFRJ. Questão 31 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-072",
+      "frase": "São estas as medidas à serem tomadas.",
+      "destaque": "à serem",
+      "correta": false,
+      "explicacao": "O gabarito indica outra frase como a correta. Não há crase antes de verbo: “a serem tomadas”.",
+      "regra": "Sem crase antes de verbo.",
+      "fonte": "NCE-UFRJ. Questão 31 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: sem crase antes de verbo. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-073",
+      "frase": "Fomos autorizados à proceder a emissão de uma cota extra no valor de R$ 65,00 para a cobertura do referido saldo devedor.",
+      "destaque": "à proceder",
+      "correta": false,
+      "explicacao": "O gabarito indica outra frase como a correta. Não há crase antes de verbo: “autorizados a proceder”.",
+      "regra": "Sem crase antes de verbo.",
+      "fonte": "NCE-UFRJ. Questão 31 do capítulo de crase em Décio Sena, 900 questões de gramática aplicada (compilação de itens de prova). Gabarito publicado: C. https://www.yumpu.com/pt/document/view/64004963/900-questoes-gramatica-aplicada-para-concursos-decio-sena Adriana Figueiredo: sem crase antes de verbo. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-074",
+      "frase": "O país chegou às temperaturas negativas por causa de uma massa polar.",
+      "destaque": "às temperaturas",
+      "correta": true,
+      "explicacao": "Gabarito da banca: alternativa A. “Chegar” pede “a”, e “temperaturas” admite o artigo plural. O comentário de Adriana Figueiredo descreve essa fusão.",
+      "regra": "Preposição “a” + artigo “as”.",
+      "fonte": "VUNESP – 2022 – Prefeitura de Jundiaí-SP – Analista de Planejamento. Gabarito: A. Comentário de Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-075",
+      "frase": "O alerta da frente fria estava relacionado à uma massa polar que viria.",
+      "destaque": "à uma",
+      "correta": false,
+      "explicacao": "A banca não marca esta alternativa. O comentário aponta o erro: não se usa crase antes de artigo indefinido.",
+      "regra": "Proibido antes de artigo indefinido.",
+      "fonte": "VUNESP – 2022 – Prefeitura de Jundiaí-SP. Gabarito da questão: A, não esta alternativa. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-076",
+      "frase": "Em São Paulo, a temperatura chegou à 7,9°C, com sensação de 2ºC.",
+      "destaque": "à 7,9°C",
+      "correta": false,
+      "explicacao": "A banca não marca esta alternativa. O comentário diz que o numeral não pede artigo feminino, embora “chegar” peça preposição.",
+      "regra": "Sem crase antes de numeral que não é hora.",
+      "fonte": "VUNESP – 2022 – Prefeitura de Jundiaí-SP. Gabarito: A. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-077",
+      "frase": "Com o frio, os voluntários foram à ruas onde há população vulnerável.",
+      "destaque": "à ruas",
+      "correta": false,
+      "explicacao": "A banca não marca esta alternativa. O comentário diz que há só a preposição “a” antes do plural, sem artigo. Não ocorre crase.",
+      "regra": "“A” singular antes de palavra no plural.",
+      "fonte": "VUNESP – 2022 – Prefeitura de Jundiaí-SP. Gabarito: A. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-078",
+      "frase": "É preciso voltar-se à um planejamento urbano pensando nos desassistidos.",
+      "destaque": "à um",
+      "correta": false,
+      "explicacao": "A banca não marca esta alternativa. O comentário aponta crase proibida antes de artigo indefinido; “um” ainda é masculino.",
+      "regra": "Sem crase antes de “um”.",
+      "fonte": "VUNESP – 2022 – Prefeitura de Jundiaí-SP. Gabarito: A. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-079",
+      "frase": "Em se tratando de carreira ou de relações românticas, a tendência é sempre a mesma: apego à falível ideia de que há alguém ou algo perfeito.",
+      "destaque": "à falível",
+      "correta": true,
+      "explicacao": "O item do Cebraspe dizia que essa crase era facultativa. Gabarito: errado. O comentário explica que a crase é obrigatória: “apego” pede “a”, e “ideia” admite artigo. Não é caso de nome próprio, possessivo ou “até”.",
+      "regra": "Crase obrigatória, não facultativa.",
+      "fonte": "CESPE/CEBRASPE – 2022 – BANRISUL – Analista de Segurança da TI. Gabarito do item: errado. Comentário de Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-080",
+      "frase": "A singularidade da competição também ficou associada a seu resultado e à divulgação do nome do vencedor.",
+      "destaque": "à divulgação",
+      "correta": true,
+      "explicacao": "A frase da prova já traz a crase, e o gabarito (B, “propaganda”) confirma que o acento se mantém com outro feminino singular. O comentário: “associada” pede “a”, e “divulgação” admite artigo.",
+      "regra": "Regência nominal + artigo feminino.",
+      "fonte": "FCC – 2022 – TRT da 22.ª Região (PI) – Técnico Judiciário. Gabarito: B. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-081",
+      "frase": "Não se deve dar importância a chamada da capa da revista.",
+      "destaque": "a chamada",
+      "correta": false,
+      "explicacao": "Gabarito: C. O comentário diz que “dar” pede objeto indireto e “chamada” aceita artigo, então falta o acento: “à chamada”.",
+      "regra": "Omissão da crase obrigatória.",
+      "fonte": "CESGRANRIO – 2010 – Petrobras – Advogado Júnior. Gabarito: C. Comentário de Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-082",
+      "frase": "Os livros publicados por universidades devem ser levados a sério.",
+      "destaque": "a sério",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra opção. O comentário classifica “a sério” como locução adverbial masculina, sem crase.",
+      "regra": "Locução masculina: sem crase.",
+      "fonte": "CESGRANRIO – 2010 – Petrobras – Advogado Júnior. Gabarito: C, não esta opção. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-083",
+      "frase": "Mas a dor de dente pode passar a ser um problema.",
+      "destaque": "a ser",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra opção. O comentário diz que esse “a” é só a preposição da locução verbal: verbo não vem antecedido de artigo.",
+      "regra": "Sem crase antes de verbo.",
+      "fonte": "CESGRANRIO – 2010 – Petrobras – Advogado Júnior. Gabarito: C. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-084",
+      "frase": "Fui à casa trocar de roupa.",
+      "destaque": "à casa",
+      "correta": false,
+      "explicacao": "Gabarito da questão: E, não esta alternativa. José Maria explica que “casa”, sem dizer qual é, não leva crase. O certo é “Fui a casa”. Com especificador: “Fui à casa da minha mãe”.",
+      "regra": "“Casa” sem especificador: sem crase.",
+      "fonte": "AVANÇASP – 2025. Questão comentada por José Maria. Gabarito: E. https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-085",
+      "frase": "André tem aversão a brigas.",
+      "destaque": "a brigas",
+      "correta": true,
+      "explicacao": "É a alternativa do gabarito: não há erro de crase. “Aversão” pede “a”, e “brigas”, no plural genérico, está sem artigo. Não há fusão.",
+      "regra": "Preposição sem artigo, plural genérico.",
+      "fonte": "AVANÇASP – 2025. Gabarito: E. Comentário do conjunto em José Maria: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-086",
+      "frase": "A professora a qual me refiro não leciona mais.",
+      "destaque": "a qual",
+      "correta": false,
+      "explicacao": "O gabarito diz que a única frase sem erro é outra. “Referir-se” pede “a”, que se funde a “a qual”: “à qual”.",
+      "regra": "Omissão da crase com “a qual”.",
+      "fonte": "AVANÇASP – 2025. Gabarito: E, não esta alternativa. A crase com “a qual” está em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página da questão: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-087",
+      "frase": "Ele entregou o dossiê à Vossa Excelência?",
+      "destaque": "à Vossa",
+      "correta": false,
+      "explicacao": "O gabarito diz que a única frase sem erro é outra. José Maria afirma que “Vossa Excelência” não admite artigo, logo não há crase. A exceção que ele registra é “senhora”, “dona” e “madame”.",
+      "regra": "Sem crase antes de “Vossa Excelência”.",
+      "fonte": "AVANÇASP – 2025. Gabarito: E. Explicação de José Maria sobre pronome de tratamento: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-088",
+      "frase": "Ano que vem, vou à Santo André em um congresso de nutrição.",
+      "destaque": "à Santo",
+      "correta": false,
+      "explicacao": "O gabarito diz que a única frase sem erro é outra. Santo André não admite artigo feminino: vai-se a Santo André, volta-se de Santo André.",
+      "regra": "Cidade sem artigo: sem crase.",
+      "fonte": "AVANÇASP – 2025. Gabarito: E. Teste “volto de” comentado em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/. Página da questão: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-089",
+      "frase": "Ele trabalhava de sol à sol.",
+      "destaque": "à sol",
+      "correta": false,
+      "explicacao": "O gabarito da questão é outra alternativa. Entre palavras repetidas não há crase; “sol” ainda é masculino. O correto é “de sol a sol”.",
+      "regra": "Palavras repetidas e palavra masculina.",
+      "fonte": "AVANÇASP – 2025, segunda questão. Gabarito: C, não esta alternativa. Regra das repetidas em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-090",
+      "frase": "Dedicou o prêmio à essa professora.",
+      "destaque": "à essa",
+      "correta": false,
+      "explicacao": "O gabarito é outra alternativa. Não há crase antes de “essa”.",
+      "regra": "Sem crase antes de “essa”.",
+      "fonte": "AVANÇASP – 2025. Gabarito: C. Regra em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-091",
+      "frase": "A reunião começou, impreterivelmente, à uma.",
+      "destaque": "à uma",
+      "correta": true,
+      "explicacao": "É a alternativa do gabarito: esta frase admite crase. “À uma” indica uma hora, com “hora” subentendida. É a exceção das horas, não o “uma” indefinido de “à uma norma”.",
+      "regra": "Crase na hora determinada, com “hora” subentendida.",
+      "fonte": "AVANÇASP – 2025. Gabarito: C. Adriana Figueiredo: crase nas horas. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-092",
+      "frase": "Comunicarei à você sobre o andamento do processo.",
+      "destaque": "à você",
+      "correta": false,
+      "explicacao": "O gabarito é outra alternativa. Não há crase antes de pronome pessoal. O correto é “a você”.",
+      "regra": "Sem crase antes de pronome pessoal.",
+      "fonte": "AVANÇASP – 2025. Gabarito: C. Adriana Figueiredo: “a ele”, não “à ele”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-093",
+      "frase": "Chegamos à aquela conclusão, depois de horas de debate.",
+      "destaque": "à aquela",
+      "correta": false,
+      "explicacao": "O gabarito é outra alternativa. José Maria mostra que a fusão é obrigatória e se escreve numa só forma: “àquela”, não “à aquela”. O teste que ele usa é trocar por “esta”: “chegamos a esta conclusão”, o que revela a preposição.",
+      "regra": "Crase com “aquela” se escreve “àquela”.",
+      "fonte": "AVANÇASP – 2025. Gabarito: C. Explicação de José Maria sobre “àquela”: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-094",
+      "frase": "Nos períodos de férias escolares, cidades litorâneas tendem à apresentar maior fluxo de carros.",
+      "destaque": "à apresentar",
+      "correta": false,
+      "explicacao": "Gabarito da Vunesp: B, não esta alternativa. Não há crase antes de verbo.",
+      "regra": "Sem crase antes de verbo.",
+      "fonte": "VUNESP – 2024. Gabarito: B, reproduzido por José Maria. Regra em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-095",
+      "frase": "Tem havido um crescimento no número de visitantes em relação à mesma estação do ano.",
+      "destaque": "à mesma",
+      "correta": true,
+      "explicacao": "É a alternativa do gabarito. “Em relação” pede “a”, e “mesma estação” admite artigo: “à mesma estação”.",
+      "regra": "Preposição “a” + artigo feminino.",
+      "fonte": "VUNESP – 2024. Gabarito: B. Página de José Maria: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase. Regra geral em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-096",
+      "frase": "Fernando de Noronha é uma ilha pernambucana conhecida pela restrição imposta à turistas.",
+      "destaque": "à turistas",
+      "correta": false,
+      "explicacao": "O gabarito é outra alternativa. “À” singular antes de plural não forma crase.",
+      "regra": "“A” singular antes de palavra no plural.",
+      "fonte": "VUNESP – 2024. Gabarito: B. Regra em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-097",
+      "frase": "Turistas que visitam a praia de Porto de Galinhas se dirigem à ela para ter passar momentos de lazer.",
+      "destaque": "à ela",
+      "correta": false,
+      "explicacao": "O gabarito é outra alternativa. Não há crase antes de pronome pessoal: “a ela”.",
+      "regra": "Sem crase antes de pronome pessoal.",
+      "fonte": "VUNESP – 2024. Gabarito: B. Adriana Figueiredo: “pedi a ele”, não “à ele”. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-098",
+      "frase": "Devem-se projetar às cidades para garantir mobilidade e comodidade aos seus habitantes.",
+      "destaque": "às cidades",
+      "correta": false,
+      "explicacao": "O gabarito é outra alternativa. “Projetar” não pede a preposição “a”; “as cidades” é objeto direto, só com artigo. O acento grave está indevido.",
+      "regra": "Sem preposição “a”, não há crase.",
+      "fonte": "VUNESP – 2024. Gabarito: B. A crase exige preposição “a” mais artigo, conforme Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-099",
+      "frase": "Referiu-se à nutricionista e não a nutrólogo.",
+      "destaque": "à nutricionista",
+      "correta": false,
+      "explicacao": "Gabarito da Quadrix: esta é a única alternativa incorreta. José Maria explica a quebra de paralelismo: ou “à nutricionista e ao nutrólogo”, com artigo nos dois, ou “a nutricionista e a nutrólogo”, sem artigo.",
+      "regra": "Paralelismo entre termos coordenados.",
+      "fonte": "QUADRIX – 2024. Gabarito: A. Comentário de José Maria: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-100",
+      "frase": "O candidato obedeceu às regras do certame.",
+      "destaque": "às regras",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra alternativa como a incorreta. “Obedecer” pede “a”, e “regras” admite artigo plural.",
+      "regra": "“Obedecer a” + artigo feminino.",
+      "fonte": "QUADRIX – 2024. Gabarito: A, não esta alternativa. Página: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase. Regra geral: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-101",
+      "frase": "A nutricionista foi à Bahia, conhecer Salvador.",
+      "destaque": "à Bahia",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra alternativa como a incorreta. A Bahia admite artigo: vai-se à Bahia, volta-se da Bahia.",
+      "regra": "Topônimo que admite artigo.",
+      "fonte": "QUADRIX – 2024. Gabarito: A. Teste “volto da” em https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/. Página da questão: https://www.direcaoconcursos.com.br/noticias/concurso-publico-questoes-comentadas-crase"
+    },
+    {
+      "id": "crase-102",
+      "frase": "No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à disposição dos usuários e das autoridades.",
+      "destaque": "à disposição",
+      "correta": true,
+      "explicacao": "O comentário de Adriana Figueiredo diz que o acento de “à disposição de” está correto porque se trata de locução prepositiva feminina. A questão pede o mesmo fator, não contesta o acento.",
+      "regra": "Locução prepositiva feminina.",
+      "fonte": "FGV – 2018 – TJ-AL – Técnico Judiciário. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-103",
+      "frase": "Saiu à procura da namorada.",
+      "destaque": "à procura",
+      "correta": true,
+      "explicacao": "Gabarito: D. O comentário diz que “à procura” é locução prepositiva feminina, o mesmo caso de “à disposição de”. O acento está correto.",
+      "regra": "Locução prepositiva feminina.",
+      "fonte": "FGV – 2018 – TJ-AL – Técnico Judiciário. Gabarito: D. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-104",
+      "frase": "Pagar à vista é coisa rara hoje em dia.",
+      "destaque": "à vista",
+      "correta": true,
+      "explicacao": "O comentário classifica “à vista” como locução adverbial de modo, com crase correta. A alternativa não é o gabarito só porque a questão pedia locução prepositiva, não porque o acento esteja errado.",
+      "regra": "Locução adverbial feminina de modo.",
+      "fonte": "FGV – 2018 – TJ-AL – Técnico Judiciário. Comentário de Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-105",
+      "frase": "Entregou o livro à aluna.",
+      "destaque": "à aluna",
+      "correta": true,
+      "explicacao": "O comentário diz que a crase vem da regência: entrega-se o livro a alguém, e “aluna” admite artigo. O acento está correto.",
+      "regra": "Regência + artigo feminino.",
+      "fonte": "FGV – 2018 – TJ-AL – Técnico Judiciário. Comentário: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-106",
+      "frase": "Recebe o acento grave o “a” diante de palavras masculinas, assim como: à óleo, à prazo.",
+      "destaque": "à prazo",
+      "correta": false,
+      "explicacao": "Gabarito: esta afirmativa é a incorreta. O comentário diz que não se usa crase diante de palavra masculina: “a prazo”, “a pé”, “a cavalo”, “a lápis”. O “a” é só preposição. A exceção que o comentário registra é “à moda de” subentendida.",
+      "regra": "Sem crase antes de palavra masculina.",
+      "fonte": "IBFC – 2023 – SEAD-GO – Técnico Ambiental. Gabarito: A. Comentário de Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-107",
+      "frase": "Recebe o acento grave o “a” inicial das locuções adverbiais, tais como: à esquerda, à direita.",
+      "destaque": "à esquerda",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra afirmativa como a incorreta, e o comentário diz que as demais estão corretas. “À esquerda” e “à direita” são locuções adverbiais femininas.",
+      "regra": "Locução adverbial feminina.",
+      "fonte": "IBFC – 2023 – SEAD-GO. Gabarito: A. Comentário: as demais alternativas estão corretas. https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    },
+    {
+      "id": "crase-108",
+      "frase": "Recebe o acento grave o “a” inicial das locuções conjuntivas, exemplos: à medida que, à proporção que, formadas com palavras femininas.",
+      "destaque": "à medida",
+      "correta": true,
+      "explicacao": "O gabarito aponta outra afirmativa como a incorreta. Adriana Figueiredo lista “à medida que” entre as locuções conjuntivas com crase, e o comentário confirma a alternativa.",
+      "regra": "Locução conjuntiva feminina.",
+      "fonte": "IBFC – 2023 – SEAD-GO. Gabarito: A. Lista de locuções em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
+    }
+  ]
+}
