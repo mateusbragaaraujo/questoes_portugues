@@ -1,6 +1,6 @@
 # Banco de questões
 
-Cada tema fica num arquivo JSON: `crase.json` e `hifen.json`. O programa lê a lista `questoes` e sorteia 10 itens sem repetir na rodada.
+Cada tema fica num arquivo JSON: `crase.json`, `hifen.json` e `sintaxe.json`. O programa lê a lista `questoes` e sorteia 10 itens sem repetir na rodada.
 
 ## O que entra no banco
 
@@ -12,7 +12,7 @@ Não reescreva a frase para “ficar mais clara”. Se a prova só trouxe a pala
 
 | Campo | O que é |
 | --- | --- |
-| `id` | Identificador único no tema, no formato `crase-001` ou `hifen-001`. |
+| `id` | Identificador único no tema, no formato `crase-001`, `hifen-001` ou `sintaxe-001`. |
 | `frase` | Texto como está na prova ou na alternativa. |
 | `destaque` | Trecho de `frase` que o programa sublinha. Precisa aparecer uma única vez. |
 | `correta` | `true` se esse emprego, do jeito que está escrito, está de acordo com a norma; `false` se está errado. O valor segue o gabarito, não uma impressão. |
@@ -45,3 +45,4 @@ Exemplo:
 
 - Crase: alternativas de provas reproduzidas no capítulo de crase de *900 questões de gramática aplicada*, de Décio Sena, e questões comentadas de FGV, Cebraspe, FCC, Vunesp, Cesgranrio, IBFC, Quadrix e Avança SP. A regra citada em cada item aponta o comentário ou a gramática usada.
 - Hífen: questões de 2018 e 2019 comentadas por Décio Terror (FUNDEP, NC-UFPR, FUNDATEC, IBGP, Funrio, FUMARC, FGV, AOCP, UFRR, FCM e Gestão de Concursos), conferidas com a Base XV e a Base XVI do Acordo Ortográfico de 1990 e, nos compostos aglutinados e nas locuções, com o texto de Evanildo Bechara na ABL.
+- Análise sintática: enunciados em que a frase analisada está no próprio item, com gabarito publicado por Avança SP, EEAR, FCC, UFRJ, CETREDE, Vunesp, FEPESE, IADES, Consulplan, Cespe/Cebraspe, FAUEL, IBFC, IESES, IDECAN, FGV, FUNCAB, IBADE, IBEG, Instituto Machado de Assis e MS Concursos. Em análise sintática, `correta` diz se a classificação destacada confere com esse gabarito.

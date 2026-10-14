@@ -9,6 +9,12 @@ from tkinter import messagebox
 from questoes_portugues.banco import carregar_tudo
 from questoes_portugues.sessao import Sessao, RodadaEncerrada
 
+TITULOS = {
+    "crase": "Crase",
+    "hifen": "Hífen",
+    "sintaxe": "Análise sintática",
+}
+
 CORES = {
     "fundo": "#f4efe4",
     "cartao": "#fffdf8",
@@ -107,9 +113,14 @@ class Aplicativo:
                 bg=CORES["erro_fundo"],
                 fg=CORES["erro_tinta"],
             )
-        julgamento = "certo" if questao["correta"] else "errado"
+        if self.tema == "sintaxe":
+            estado = "certa" if questao["correta"] else "errada"
+            texto_julgamento = f"Pela análise da prova, esta classificação está {estado}."
+        else:
+            julgamento = "certo" if questao["correta"] else "errado"
+            texto_julgamento = f"Pela norma, este emprego está {julgamento}."
         self.rotulo_julgamento.configure(
-            text=f"Pela norma, este emprego está {julgamento}.",
+            text=texto_julgamento,
             bg=self.painel_feedback.cget("bg"),
             fg=CORES["tinta"],
         )
@@ -139,10 +150,15 @@ class Aplicativo:
     def _mostrar_questao(self) -> None:
         assert self.sessao is not None and self.tema is not None
         questao = self.sessao.atual()
-        titulo = "Crase" if self.tema == "crase" else "Hífen"
+        titulo = TITULOS.get(self.tema, self.tema)
         self.rotulo_progresso.configure(
             text=f"{titulo}  ·  questão {self.sessao.numero} de {self.sessao.tamanho}"
         )
+        if self.tema == "sintaxe":
+            pergunta = "A classificação destacada está correta?"
+        else:
+            pergunta = "O trecho em destaque está de acordo com a norma?"
+        self.rotulo_pergunta.configure(text=pergunta)
         self._escrever_frase(questao["frase"], questao["destaque"])
         self.faixa_feedback.pack_forget()
         self.botao_certo.configure(state="normal")
@@ -158,14 +174,15 @@ class Aplicativo:
         texto.insert("1.0", frase[:inicio])
         texto.insert("end", destaque, "destaque")
         texto.insert("end", frase[fim:])
-        texto.configure(state="disabled")
+        linhas = max(3, min(8, len(frase) // 48 + 1))
+        texto.configure(state="disabled", height=linhas)
 
     def _mostrar_resultado(self) -> None:
         assert self.sessao is not None and self.tema is not None
         acertos, total = self.sessao.pontuacao()
         self._limpar()
         self.quadro_resultado.pack(fill="both", expand=True)
-        titulo = "Crase" if self.tema == "crase" else "Hífen"
+        titulo = TITULOS.get(self.tema, self.tema)
         self.rotulo_tema_final.configure(text=titulo)
         self.rotulo_pontos.configure(text=f"{acertos}/{total}")
         self.rotulo_comentario.configure(text=_comentario(acertos, total))
@@ -184,7 +201,7 @@ class Aplicativo:
         ).pack(anchor="w")
         tk.Label(
             miolo,
-            text="Treino de crase e de hífen com frases de prova.\nDez questões por rodada, sem repetir.",
+            text="Treino de crase, de hífen e de análise sintática com frases de prova.\nDez questões por rodada, sem repetir.",
             font=self.fonte_ui,
             bg=CORES["fundo"],
             fg=CORES["mudo"],
@@ -193,8 +210,9 @@ class Aplicativo:
 
         botoes = tk.Frame(miolo, bg=CORES["fundo"])
         botoes.pack(fill="x")
-        self._botao_tema(botoes, "Crase", "crase").pack(side="left", padx=(0, 12))
-        self._botao_tema(botoes, "Hífen", "hifen").pack(side="left")
+        self._botao_tema(botoes, "Crase", "crase").pack(fill="x", pady=(0, 10))
+        self._botao_tema(botoes, "Hífen", "hifen").pack(fill="x", pady=(0, 10))
+        self._botao_tema(botoes, "Análise sintática", "sintaxe").pack(fill="x")
 
         tk.Label(
             miolo,
@@ -215,7 +233,7 @@ class Aplicativo:
             activeforeground=CORES["branco"],
             relief="flat",
             cursor="hand2",
-            width=16,
+            width=22,
             height=2,
             command=lambda: self.iniciar(tema),
         )
@@ -272,13 +290,14 @@ class Aplicativo:
         self.texto_frase.pack(fill="x")
         self.texto_frase.configure(state="disabled")
 
-        tk.Label(
+        self.rotulo_pergunta = tk.Label(
             self.quadro_questao,
             text="O trecho em destaque está de acordo com a norma?",
             font=self.fonte_ui,
             bg=CORES["fundo"],
             fg=CORES["mudo"],
-        ).pack(anchor="w", pady=(16, 8))
+        )
+        self.rotulo_pergunta.pack(anchor="w", pady=(16, 8))
 
         acoes = tk.Frame(self.quadro_questao, bg=CORES["fundo"])
         acoes.pack(fill="x")
