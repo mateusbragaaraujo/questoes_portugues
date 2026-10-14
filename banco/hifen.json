@@ -830,6 +830,96 @@
       "explicacao": "Está na alternativa do gabarito. Décio Terror: numeral “meia” e substantivo “verdade”, composto com hífen na norma brasileira.",
       "regra": "Base XV: composto de numeral e substantivo.",
       "fonte": "UFPR – 2018 – COREN-PR. Gabarito: B. Comentário de Décio Terror Filho (Estratégia Concursos): https://www.estrategiaconcursos.com.br/curso/main/downloadPDF/?aula=835970. Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-093",
+      "frase": "eletro-ótica",
+      "destaque": "eletro-ótica",
+      "correta": true,
+      "explicacao": "A prova pede a palavra escrita corretamente e o gabarito é E. “Eletro” termina em “o” e “ótica” começa por “o”. Vogais iguais exigem hífen. O Acordo traz “eletro-ótica” como exemplo. As outras alternativas separam o que se aglutina: “antiaéreo”, “aeroespacial”, “autoaprendizagem” e “contrarregra”.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "Avança SP – 2025 – Prefeitura de São Miguel Arcanjo-SP. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/1132049 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: eletro-ótica."
+    },
+    {
+      "id": "hifen-094",
+      "frase": "Pan-americano",
+      "destaque": "Pan-americano",
+      "correta": true,
+      "explicacao": "A prova pede o hífen correto e o gabarito é C. “Pan-” leva hífen antes de vogal, “m” ou “n”. O Acordo exemplifica “pan-africano”. “Anti-semita”, “auto-aprendizagem” e “micro-radiografia” estão errados: o certo é “antissemita”, “autoaprendizagem” e “microrradiografia”.",
+      "regra": "Base XVI, “c”: “pan-” antes de vogal.",
+      "fonte": "IBAM – 2025 – Prefeitura de Bebedouro-SP. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1121890 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-095",
+      "frase": "Anti-rábico",
+      "destaque": "Anti-rábico",
+      "correta": false,
+      "explicacao": "A prova pede a grafia incorreta e o gabarito é A. “Anti” termina em vogal e “rábico” começa por “r”: a consoante dobra e o hífen cai, “antirrábico”. As demais estão certas: “semi-interno”, “micro-ônibus” e “anti-inflacionário”.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "IVIN – 2025 – Prefeitura de Cajazeiras do Piauí-PI. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/1096693 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-096",
+      "frase": "Na pesquisa, os alunos discorreram sobre a história da cultura luso-brasileira.",
+      "destaque": "luso-brasileira",
+      "correta": true,
+      "explicacao": "A prova pede a alternativa em que o hífen está certo e o gabarito é B. “Luso-brasileira” é adjetivo composto de dois gentílicos, com hífen. As outras falham: “mão-de-obra” é locução, “manda-chuva” se aglutina em “mandachuva” e “dia-a-dia” perdeu o hífen.",
+      "regra": "Base XV: adjetivo composto de gentílicos.",
+      "fonte": "MS Concursos – 2023 – Prefeitura de Turvelândia-GO – Executor Administrativo. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/949176 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-097",
+      "frase": "arco-íris",
+      "destaque": "arco-íris",
+      "correta": true,
+      "explicacao": "A prova pede os termos grafados com hífen, como “arranha-céu”, e o gabarito é C. “Arco-íris” é composto por justaposição, com acento próprio em cada elemento. Na mesma alternativa, “bem-aventurado” e “decreto-lei” também levam hífen.",
+      "regra": "Base XV: justaposição sem elemento de ligação.",
+      "fonte": "Vunesp – 2023 – DPE-SP – Oficial de Defensoria. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/947164 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-098",
+      "frase": "Semi-interno",
+      "destaque": "Semi-interno",
+      "correta": true,
+      "explicacao": "A prova pede o emprego correto do hífen e o gabarito é D. “Semi” termina em “i” e “interno” começa por “i”. O Acordo exemplifica “semi-interno”. “Infraestrutura”, “autoaprendizagem”, “socioeconômico” e “extraoficial” não levam hífen.",
+      "regra": "Base XVI, “b”: vogais iguais exigem hífen.",
+      "fonte": "FAUEL – 2022 – Câmara de Sertanópolis-PR. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1057345 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: semi-interno."
+    },
+    {
+      "id": "hifen-099",
+      "frase": "Auto-aprendizagem",
+      "destaque": "Auto-aprendizagem",
+      "correta": false,
+      "explicacao": "A prova aponta “macro-componentes” como grafia errada e pede outra no mesmo caso. O gabarito é D. “Auto” termina em “o” e “aprendizagem” começa por “a”, vogais diferentes: o certo é “autoaprendizagem”, exemplo do Acordo.",
+      "regra": "Base XVI: vogais diferentes se aglutinam.",
+      "fonte": "FUNDATEC – 2023 – Prefeitura de Campo Bom-RS – Professor da Educação Infantil. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/946774 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: autoaprendizagem."
+    },
+    {
+      "id": "hifen-100",
+      "frase": "contra-regra",
+      "destaque": "contra-regra",
+      "correta": false,
+      "explicacao": "A prova pede a alternativa incorreta e o gabarito é D. “Contra” termina em vogal e “regra” começa por “r”: a consoante dobra, sem hífen, “contrarregra”. O Acordo usa essa palavra como exemplo, ao lado de “microrradiografia” e “extrarregular”, que completam a mesma alternativa.",
+      "regra": "Base XVI: vogal + “r”, consoante dobrada.",
+      "fonte": "MS Concursos – 2023 – Prefeitura de Turvelândia-GO. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/959200 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: contrarregra."
+    },
+    {
+      "id": "hifen-101",
+      "frase": "mal-habituado",
+      "destaque": "mal-habituado",
+      "correta": true,
+      "explicacao": "No texto, “mal-amada” leva hífen. A prova pede outra palavra que também deve levar, e o gabarito é C. “Mal” se hifeniza antes de vogal ou “h”. O Priberam registra “mal-habituado”. “Malnascido”, “malmandado”, “malcriado” e “malfalante” não levam hífen.",
+      "regra": "Base XV: “mal” + vogal ou “h”.",
+      "fonte": "FUNDATEC – 2022 – Prefeitura de Caxias do Sul-RS – Agente Administrativo. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1056308 Priberam, verbete “mal-habituado”: https://dicionario.priberam.org/mal-habituado Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990"
+    },
+    {
+      "id": "hifen-102",
+      "frase": "Super-resistente",
+      "destaque": "Super-resistente",
+      "correta": true,
+      "explicacao": "A prova pede a única grafia sem incorreção e o gabarito é D. “Super-” leva hífen antes de “r”, como em “super-revista”. “Geopolítica”, “autopeça” e “microcomputador” se escrevem sem hífen.",
+      "regra": "Base XVI, “d”: “super-” + “r”.",
+      "fonte": "IVIN – 2025 – Prefeitura de Cajazeiras do Piauí-PI. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1108236 Texto do Acordo Ortográfico de 1990: http://www.portaldalinguaportuguesa.org/?action=acordo&version=1990 Exemplo oficial: super-revista."
     }
   ]
 }
