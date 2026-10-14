@@ -4,7 +4,7 @@
       "frase": "“O próximo da fila já pode se dirigir ao caixa.” Nessa sentença, “próximo” é adjetivo substantivado com papel de sujeito.",
       "destaque": "adjetivo substantivado",
       "correta": true,
-      "explicacao": "O gabarito é D. “Próximo” deixa de funcionar como adjetivo e vira o núcleo do sujeito de “pode”. Nas outras sentenças o núcleo é substantivo: flores, contraste, tintureiro, remetente.",
+      "explicacao": "O gabarito é D. “Próximo” deixa de funcionar como adjetivo e vira o núcleo do sujeito de “pode”. Em “flores”, “contraste” e “tintureiro”, o núcleo do sujeito é substantivo. Em “Pensava”, o sujeito não é “remetente”: fica oculto.",
       "regra": "Adjetivo substantivado no sujeito.",
       "fonte": "Avança SP – 2025. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1132160",
       "id": "sintaxe-001"
@@ -400,7 +400,7 @@
       "frase": "“As imagens da festa se transformavam a sua frente.” “As imagens da festa” é sujeito composto.",
       "destaque": "sujeito composto",
       "correta": false,
-      "explicacao": "O gabarito exclui a afirmativa I. O núcleo é um só, “imagens”. “Da festa” é adjunto adnominal. Sujeito composto teria mais de um núcleo.",
+      "explicacao": "O gabarito exclui a afirmativa I. O núcleo é um só, “imagens”. Sujeito composto teria mais de um núcleo.",
       "regra": "Sujeito simples.",
       "fonte": "IDECAN – 2017. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/591969",
       "id": "sintaxe-045"
@@ -553,7 +553,7 @@
       "frase": "“Ao tomar banho, feche a torneira enquanto se ensaboar.” Todas as orações contêm predicado verbal.",
       "destaque": "predicado verbal",
       "correta": true,
-      "explicacao": "O gabarito é E. “Tomar”, “feche” e “ensaboar” têm complemento ou adjunto, sem predicativo. O predicado de cada oração é verbal.",
+      "explicacao": "O gabarito é E. “Banho” e “a torneira” são objetos diretos. “Ensaboar-se” não atribui predicativo ao sujeito. O predicado de cada oração é verbal.",
       "regra": "Predicado verbal.",
       "fonte": "IBEG – 2014. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/476985",
       "id": "sintaxe-062"
@@ -627,7 +627,7 @@
       "correta": true,
       "explicacao": "O gabarito é C. “Meu nobre perdigueiro” chama o interlocutor e fica fora do sujeito e do predicado. O sujeito de “vem” é oculto, “tu”.",
       "regra": "Vocativo.",
-      "fonte": "CONSESP – 2011. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/384348",
+      "fonte": "Conrio – 2014 – Prefeitura de Nhandeara. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/384348",
       "id": "sintaxe-070"
     },
     {
