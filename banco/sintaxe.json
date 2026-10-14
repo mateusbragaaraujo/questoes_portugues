@@ -274,8 +274,8 @@
       "frase": "No período “Sobe uma classe e dentro dela elevam-se muitos aspirantes a essa camada”, “uma classe” e “muitos aspirantes a essa camada” são sujeitos.",
       "destaque": "são sujeitos",
       "correta": true,
-      "explicacao": "O gabarito é Certo. “Uma classe” é o sujeito de “sobe”. “Muitos aspirantes a essa camada” é o sujeito de “elevam-se”.",
-      "regra": "Sujeito de verbo na voz ativa e na passiva pronominal.",
+      "explicacao": "O gabarito é Certo. “Uma classe” é o sujeito de “sobe”. “Muitos aspirantes a essa camada” é o sujeito de “elevam-se”: o verbo concorda com esse substantivo.",
+      "regra": "Sujeito de cada uma das duas orações.",
       "fonte": "Cespe/Cebraspe – 2018. Gabarito: Certo. https://www.estudegratis.com.br/questao-de-concurso/704577",
       "id": "sintaxe-031"
     },
@@ -310,7 +310,7 @@
       "frase": "“Qualquer colisão com outros objetos - mesmo partículas de terra ou gelo - poderia provocar danos.” O sujeito é “qualquer colisão com outros objetos”.",
       "destaque": "qualquer colisão com outros objetos",
       "correta": true,
-      "explicacao": "O gabarito é B. O núcleo é “colisão”. “Com outros objetos” é adjunto adnominal, e “danos” é o objeto direto de “provocar”.",
+      "explicacao": "O gabarito é B. O núcleo do sujeito é “colisão”. O travessão só intercala um esclarecimento, “mesmo partículas de terra ou gelo”. “Danos” é o objeto direto de “provocar”.",
       "regra": "Sujeito simples.",
       "fonte": "FAUEL – 2017. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/613764",
       "id": "sintaxe-035"
@@ -319,8 +319,8 @@
       "frase": "“Qualquer colisão com outros objetos - mesmo partículas de terra ou gelo - poderia provocar danos.” O sujeito é “outros objetos”.",
       "destaque": "é “outros objetos”",
       "correta": false,
-      "explicacao": "O gabarito é B. “Outros objetos” apenas especifica “colisão”. O sujeito de “poderia provocar” é “qualquer colisão com outros objetos”.",
-      "regra": "Adjunto adnominal não é o sujeito.",
+      "explicacao": "O gabarito é B. “Outros objetos” vem preso a “colisão” pela preposição “com”. O sujeito de “poderia provocar” é “qualquer colisão com outros objetos”.",
+      "regra": "O termo preposicionado não é o sujeito.",
       "fonte": "FAUEL – 2017. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/613764",
       "id": "sintaxe-036"
     },
