@@ -976,976 +976,976 @@
       "fonte": "IBFC – 2023 – SEAD-GO. Gabarito: A. Lista de locuções em Adriana Figueiredo: https://professora.adrianafigueiredocursos.com.br/blog/portugues-para-concursos-questoes-de-crase-com-gabarito/"
     },
     {
+      "id": "crase-109",
       "frase": "Vou à Brasília dos meus sonhos.",
       "destaque": "à Brasília",
       "correta": true,
       "explicacao": "O gabarito é a alternativa A. “Brasília” especificada por “dos meus sonhos” passa a admitir artigo: volto da Brasília dos meus sonhos, logo vou à Brasília. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-109"
+      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-110",
       "frase": "Nosso expediente é de segunda à sexta.",
       "destaque": "à sexta",
       "correta": false,
       "explicacao": "Não é a alternativa do gabarito. “De segunda” traz só a preposição; por paralelismo, o segundo termo é “a sexta”, sem crase. fonte: grok",
       "regra": "Paralelismo: de… a…, não de… à…",
-      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-110"
+      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-111",
       "frase": "Pretendo viajar a Paraíba.",
       "destaque": "a Paraíba",
       "correta": false,
       "explicacao": "Não é o gabarito. “Paraíba” admite artigo: volta-se da Paraíba, portanto viaja-se à Paraíba. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-111"
+      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-112",
       "frase": "Ele gosta de bife à cavalo.",
       "destaque": "à cavalo",
       "correta": false,
       "explicacao": "Não é o gabarito. “Cavalo” é masculino, e não há “à moda de” subentendida. O emprego fica “a cavalo”, sem crase. fonte: grok",
       "regra": "Sem crase antes de palavra masculina.",
-      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-112"
+      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-113",
       "frase": "Ele tem dinheiro à valer.",
       "destaque": "à valer",
       "correta": false,
       "explicacao": "Não é o gabarito. “A valer” é expressão invariável, sem artigo feminino. Não há crase. fonte: grok",
       "regra": "Sem crase em expressão invariável.",
-      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-113"
+      "fonte": "FGV – 2008 – Senado Federal. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-114",
       "frase": "Essa proposta convém à todos.",
       "destaque": "à todos",
       "correta": false,
       "explicacao": "Não é o gabarito. “Todos” não admite artigo feminino. O verbo pede só a preposição: “convém a todos”. fonte: grok",
       "regra": "Sem crase antes de pronome masculino.",
-      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-114"
+      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-115",
       "frase": "O governo aumentou à quantidade de subsídios.",
       "destaque": "à quantidade",
       "correta": false,
       "explicacao": "Não é o gabarito. “Aumentar” é transitivo direto: “aumentou a quantidade”, artigo sem preposição, sem crase. fonte: grok",
       "regra": "Artigo sem preposição: sem crase.",
-      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-115"
+      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-116",
       "frase": "A empresa considerou a oferta inferior à outra.",
       "destaque": "à outra",
       "correta": true,
       "explicacao": "É a alternativa do gabarito. “Inferior” pede “a”, e “outra” retoma oferta, feminino determinado: a + a = à. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-116"
+      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-117",
       "frase": "Ele está propenso à deixar o cargo.",
       "destaque": "à deixar",
       "correta": false,
       "explicacao": "Não é o gabarito. Não há crase antes de verbo no infinitivo. O correto é “propenso a deixar”. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-117"
+      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-118",
       "frase": "Não vou aderir à modismos passageiros.",
       "destaque": "à modismos",
       "correta": false,
       "explicacao": "Não é o gabarito. “À” no singular não se funde com substantivo no plural. Cabe “a modismos” ou “aos modismos”. fonte: grok",
       "regra": "“A” singular antes de palavra no plural.",
-      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-118"
+      "fonte": "Cesgranrio – 2010 – TJ-RO. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-119",
       "frase": "É preciso comparecer a festas.",
       "destaque": "a festas",
       "correta": true,
       "explicacao": "A frase está escrita de acordo com a norma. “Festas” no plural, sem artigo, recebe só a preposição de “comparecer”. fonte: grok",
       "regra": "Preposição sem artigo, diante de plural genérico.",
-      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-119"
+      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-120",
       "frase": "Vai pagar a perder de vista.",
       "destaque": "a perder",
       "correta": true,
       "explicacao": "A expressão “a perder de vista” não leva crase: “perder” é verbo, e não há artigo feminino. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-120"
+      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-121",
       "frase": "Gostava de andar a cavalo.",
       "destaque": "a cavalo",
       "correta": true,
       "explicacao": "É a alternativa do gabarito, e a grafia está certa. “Cavalo” é masculino: “a cavalo”, sem acento grave. fonte: grok",
       "regra": "Sem crase antes de palavra masculina.",
-      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-121"
+      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-122",
       "frase": "Viajou a Brasília.",
       "destaque": "a Brasília",
       "correta": true,
       "explicacao": "A frase está certa. “Brasília”, sem especificador, não admite artigo: volta-se de Brasília, vai-se a Brasília. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-122"
+      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-123",
       "frase": "Vai começar a viajar.",
       "destaque": "a viajar",
       "correta": true,
-      "explicacao": "A frase está certa. Antes de infinitivo não há artigo, logo não há crase. fonte: grok",
+      "explicacao": "A frase está certa. “Viajar” é infinitivo e não admite artigo. Sem artigo, a preposição “a” não se funde e não há crase. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-123"
+      "fonte": "Vunesp – 2010 – TJ-SP. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-124",
       "frase": "Doenças ocasionadas pelo uso de pesticidas em alimentos podem levar a morte.",
       "destaque": "a morte",
       "correta": false,
-      "explicacao": "Não é o gabarito. “Levar” pede “a”, e “morte” admite artigo: “levar à morte”. fonte: grok",
+      "explicacao": "Não é o gabarito. No contexto da prova, “levar a” pede preposição e “morte” admite artigo: a forma pedida é “levar à morte”. fonte: grok",
       "regra": "Omissão da crase obrigatória.",
-      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-124"
+      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-125",
       "frase": "As pessoas são obrigadas à parar de comer alimentos com agrotóxicos.",
       "destaque": "à parar",
       "correta": false,
-      "explicacao": "Não é o gabarito. “Parar” é verbo. Não se usa crase antes de infinitivo. fonte: grok",
+      "explicacao": "Não é o gabarito. “Parar” é verbo no infinitivo. Não se usa crase antes de infinitivo; o correto é “obrigadas a parar”. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-125"
+      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-126",
       "frase": "Os dados da pesquisa da Anvisa referem-se a alimentos in natura.",
       "destaque": "a alimentos",
       "correta": true,
       "explicacao": "É a alternativa do gabarito. “Alimentos” é masculino plural: “referem-se a alimentos”, sem crase. fonte: grok",
       "regra": "Sem crase antes de palavra masculina.",
-      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-126"
+      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-127",
       "frase": "A medida que as pesquisas avançam, mais testes com animais são feitos.",
       "destaque": "A medida",
       "correta": false,
       "explicacao": "Não é o gabarito. A locução proporcional é “à medida que”, com crase. “A medida que” omite o acento. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-127"
+      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-128",
       "frase": "Os trabalhadores rurais devem se submeter à uma avaliação médica constante.",
       "destaque": "à uma",
       "correta": false,
       "explicacao": "Não é o gabarito. Não há crase antes de artigo indefinido. O correto é “a uma avaliação”. fonte: grok",
       "regra": "Proibido antes de artigo indefinido.",
-      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-128"
+      "fonte": "Vunesp – 2011 – Cremesp. Gabarito: C. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "ofereceram à equipe chilena de salvamento",
+      "id": "crase-129",
+      "frase": "Não se pode esquecer a ajuda técnica e material que os Estados Unidos, Canadá e China ofereceram à equipe chilena de salvamento.",
       "destaque": "à equipe",
       "correta": true,
-      "explicacao": "O gabarito justifica o acento: “oferecer” pede “a”, e “equipe” admite o artigo feminino. fonte: grok",
+      "explicacao": "O gabarito da FGV justifica o acento nesse trecho do texto. “Oferecer” pede a preposição “a”, e “equipe” admite o artigo feminino: a + a = à. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-129"
+      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: A. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-130",
       "frase": "O autor se comparou à alguém que tem boa memória.",
       "destaque": "à alguém",
       "correta": false,
-      "explicacao": "Não é o gabarito. Não há crase antes do pronome indefinido “alguém”. fonte: grok",
+      "explicacao": "Não é o gabarito. “Alguém” é pronome indefinido e não admite artigo. “Comparar-se” pede só a preposição: “a alguém”. fonte: grok",
       "regra": "Sem crase antes de pronome indefinido.",
-      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-130"
+      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-131",
       "frase": "Ele se referiu às pessoas de boa memória.",
       "destaque": "às pessoas",
       "correta": true,
       "explicacao": "É a alternativa do gabarito. “Referir-se” pede “a”, e “pessoas” está no feminino plural: às. fonte: grok",
       "regra": "Preposição “a” + artigo “as”.",
-      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-131"
+      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-132",
       "frase": "As pessoas aludem à uma causa específica.",
       "destaque": "à uma",
       "correta": false,
       "explicacao": "Não é o gabarito. “Uma” é artigo indefinido. A crase não ocorre: “aludem a uma causa”. fonte: grok",
       "regra": "Proibido antes de artigo indefinido.",
-      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-132"
+      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-133",
       "frase": "Ele passou a ser entendido à partir de suas reflexões sobre a memória.",
       "destaque": "à partir",
       "correta": false,
       "explicacao": "Não é o gabarito. “A partir de” é locução sem crase: “partir” não admite artigo. fonte: grok",
       "regra": "Sem crase em “a partir de”.",
-      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-133"
+      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-134",
       "frase": "Os livros foram entregues à ele.",
       "destaque": "à ele",
       "correta": false,
       "explicacao": "Não é o gabarito. Não há crase antes de pronome pessoal. O correto é “entregues a ele”. fonte: grok",
       "regra": "Sem crase antes de pronome pessoal.",
-      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-134"
+      "fonte": "FGV – 2010 – DETRAN-RN. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "A erupção provocou perdas à economia europeia.",
+      "id": "crase-135",
+      "frase": "A erupção de um vulcão provocou perdas à economia europeia.",
       "destaque": "à economia",
       "correta": true,
-      "explicacao": "O gabarito preenche a primeira lacuna com “à”. “Perdas” pede “a”, e “economia” admite artigo. fonte: grok",
+      "explicacao": "O gabarito da FCC preenche a primeira lacuna com “à”. “Perda” pede “a”, e “economia” admite o artigo feminino: a + a = à. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "FCC – 2010 – TRT da 9.ª Região. Gabarito: E. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-135"
+      "fonte": "FCC – 2010 – TRT da 9.ª Região. Gabarito: E. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "As perdas foram superiores àquelas trazidas pelos atentados de 2001.",
+      "id": "crase-136",
+      "frase": "As perdas foram bem superiores àquelas trazidas pelos atentados terroristas de 2001.",
       "destaque": "àquelas",
       "correta": true,
-      "explicacao": "O gabarito preenche a segunda lacuna com “àquelas”. “Superiores” pede “a”, que se funde ao a de “aquelas”. fonte: grok",
+      "explicacao": "O gabarito preenche a segunda lacuna com “àquelas”. “Superior” pede a preposição “a”, que se funde ao “a” inicial do demonstrativo. fonte: grok",
       "regra": "Crase com pronome demonstrativo.",
-      "fonte": "FCC – 2010 – TRT da 9.ª Região. Gabarito: E. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-136"
+      "fonte": "FCC – 2010 – TRT da 9.ª Região. Gabarito: E. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "O fato obrigou a ONU a criar um plano de redução de riscos.",
+      "id": "crase-137",
+      "frase": "O fato obrigou a ONU a criar um plano internacional de redução dos riscos de acidentes.",
       "destaque": "a criar",
       "correta": true,
-      "explicacao": "O gabarito preenche a terceira lacuna com “a”, sem acento. “Criar” é infinitivo, e não há crase. fonte: grok",
+      "explicacao": "O gabarito preenche a terceira lacuna com “a”, sem acento. “Criar” é infinitivo e não admite artigo, portanto não há crase. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "FCC – 2010 – TRT da 9.ª Região. Gabarito: E. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-137"
+      "fonte": "FCC – 2010 – TRT da 9.ª Região. Gabarito: E. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "Há mudanças a serem sugeridas à construtora.",
+      "id": "crase-138",
+      "frase": "Deve haver muitas mudanças neste projeto a serem sugeridas à construtora.",
       "destaque": "à construtora",
       "correta": true,
-      "explicacao": "O gabarito traz “à” antes de “construtora”. “Sugeridas” pede “a”, e o substantivo feminino admite artigo. fonte: grok",
+      "explicacao": "O gabarito da ACAFE traz “à” antes de “construtora”. “Sugeridas” pede “a”, e o substantivo feminino determinado admite artigo. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-138"
+      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "quanto às regras do novo código de posturas municipais",
+      "id": "crase-139",
+      "frase": "O projeto será alterado principalmente quanto às regras do novo código de posturas municipais.",
       "destaque": "às regras",
       "correta": true,
-      "explicacao": "O gabarito preenche a lacuna de “quanto” com “às”. “Quanto” pede “a”, e “regras” está no feminino plural. fonte: grok",
+      "explicacao": "O gabarito preenche “quanto” com “às”. A locução “quanto a” pede preposição, e “regras” está no feminino plural: a + as = às. fonte: grok",
       "regra": "Preposição “a” + artigo “as”.",
-      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-139"
+      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "pode identificar rapidamente as adaptações necessárias",
+      "id": "crase-140",
+      "frase": "O arquiteto pode identificar rapidamente as adaptações necessárias.",
       "destaque": "as adaptações",
       "correta": true,
-      "explicacao": "O gabarito fecha com “as”, sem acento. “Identificar” é transitivo direto: artigo, não crase. fonte: grok",
+      "explicacao": "O gabarito fecha a frase com “as”, sem acento. “Identificar” é transitivo direto: o “as” é só artigo, não há preposição nem crase. fonte: grok",
       "regra": "Artigo sem preposição: sem crase.",
-      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-140"
+      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: B. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
-      "frase": "O processo chegará às mãos do Presidente.",
+      "id": "crase-141",
+      "frase": "Assim que o processo chegar às mãos do Presidente, o mandato pode ser cassado.",
       "destaque": "às mãos",
       "correta": true,
-      "explicacao": "O gabarito preenche a última lacuna com “às”. “Chegar” pede “a”, e “mãos” admite o artigo plural. fonte: grok",
+      "explicacao": "O gabarito preenche a última lacuna com “às”. “Chegar” pede “a”, e “mãos” admite o artigo feminino plural. fonte: grok",
       "regra": "Preposição “a” + artigo “as”.",
-      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: D. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html",
-      "id": "crase-141"
+      "fonte": "ACAFE – 2010 – Polícia Civil de SC. Gabarito: D. http://portugues-concursos.blogspot.com/2014/04/exercicios-sobre-crase-concurso-oficial.html"
     },
     {
+      "id": "crase-142",
       "frase": "O atendimento ao público ocorre de segunda à sexta-feira.",
       "destaque": "à sexta-feira",
       "correta": false,
-      "explicacao": "A resolução elimina a alternativa: “de segunda” traz só a preposição, então o fim do intervalo é “a sexta-feira”, sem crase.",
+      "explicacao": "A resolução elimina a alternativa: “de segunda” traz só a preposição, então o fim do intervalo é “a sexta-feira”, sem crase. fonte: grok",
       "regra": "Paralelismo: de… a…, não de… à…",
-      "fonte": "FCC. Gabarito comentado: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-142"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-143",
       "frase": "O evento será realizado das 14h a 18h na sede do órgão.",
       "destaque": "a 18h",
       "correta": false,
-      "explicacao": "A resolução aponta a quebra de simetria. “Das” já é de + as; o segundo termo tem de ser “às 18h”.",
+      "explicacao": "A resolução aponta a quebra de simetria. “Das” já é de + as; o segundo termo tem de ser “às 18h”. fonte: grok",
       "regra": "Paralelismo de horário: de… a… ou das… às…",
-      "fonte": "FCC. Gabarito comentado: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-143"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-144",
       "frase": "A exposição estará aberta ao público de 10 às 22 horas.",
       "destaque": "às 22",
       "correta": false,
-      "explicacao": "A resolução chama isso de hipercorreção. O intervalo começa com “de”, então termina em “a 22 horas”, sem crase.",
+      "explicacao": "A resolução chama isso de hipercorreção. O intervalo começa com “de”, então termina em “a 22 horas”, sem crase. fonte: grok",
       "regra": "Paralelismo de horário: de… a… ou das… às…",
-      "fonte": "FCC. Gabarito comentado: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-144"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-145",
       "frase": "A reunião foi transferida para às 15 horas.",
       "destaque": "às 15",
       "correta": false,
-      "explicacao": "A resolução elimina a alternativa: “para” já é preposição, e “para às” repete o nexo. O texto corrige para “para as 15 horas”.",
+      "explicacao": "A resolução elimina a alternativa: “para” já é preposição, e “para às” repete o nexo. O texto corrige para “para as 15 horas”. fonte: grok",
       "regra": "Sem crase depois de outra preposição.",
-      "fonte": "FCC. Gabarito comentado: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-145"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-146",
       "frase": "O expediente será mantido das 8h às 17h sem interrupções.",
       "destaque": "às 17h",
       "correta": true,
-      "explicacao": "É o gabarito comentado. “Das 8h” corresponde a “às 17h”: de + as no início, a + as no fim.",
+      "explicacao": "É o gabarito comentado. “Das 8h” corresponde a “às 17h”: de + as no início, a + as no fim. fonte: grok",
       "regra": "Paralelismo de horário: de… a… ou das… às…",
-      "fonte": "FCC. Gabarito comentado: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-146"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Questão de paralelismo horário. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-147",
       "frase": "O diretor referiu-se àquelas propostas apresentadas ontem.",
       "destaque": "àquelas",
       "correta": true,
-      "explicacao": "O gabarito comentado preenche a primeira lacuna com “àquelas”. “Referir-se” pede “a”, que se funde ao pronome.",
+      "explicacao": "O gabarito comentado preenche a primeira lacuna com “àquelas”. “Referir-se” pede “a”, que se funde ao pronome. fonte: grok",
       "regra": "Crase com pronome demonstrativo.",
-      "fonte": "FGV. Gabarito comentado: C. Questão de pronome demonstrativo. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-147"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FGV. Gabarito: C. Questão de pronome demonstrativo. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-148",
       "frase": "O diretor não fez menção aos projetos do setor financeiro.",
       "destaque": "aos projetos",
       "correta": true,
-      "explicacao": "O gabarito comentado usa “aos”. “Menção” pede “a”, e “projetos” é masculino plural: a + os, sem acento grave.",
+      "explicacao": "O gabarito comentado usa “aos”. “Menção” pede “a”, e “projetos” é masculino plural: a + os, sem acento grave. fonte: grok",
       "regra": "Preposição “a” + artigo masculino: sem crase.",
-      "fonte": "FGV. Gabarito comentado: C. Questão de pronome demonstrativo. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-148"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FGV. Gabarito: C. Questão de pronome demonstrativo. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-149",
       "frase": "A comitiva oficial viajará à Roma dos césares para participar de um congresso internacional.",
       "destaque": "à Roma",
       "correta": true,
-      "explicacao": "O item foi julgado certo. “Viajar” pede “a”, e “Roma” especificada por “dos césares” admite artigo.",
+      "explicacao": "O item foi julgado certo. “Viajar” pede “a”, e “Roma” especificada por “dos césares” admite artigo. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Cebraspe. Gabarito comentado: CERTO. Item de topônimo especificado. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-149"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cebraspe. Gabarito: CERTO. Item de topônimo especificado. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-150",
       "frase": "Chegamos à uma conclusão satisfatória.",
       "destaque": "à uma",
       "correta": false,
-      "explicacao": "A resolução marca a alternativa como incorreta. Não há crase antes do artigo indefinido “uma”.",
+      "explicacao": "A resolução marca a alternativa como incorreta. Não há crase antes do artigo indefinido “uma”. fonte: grok",
       "regra": "Proibido antes de artigo indefinido.",
-      "fonte": "Vunesp. Gabarito comentado: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-150"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Vunesp. Gabarito: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-151",
       "frase": "Entreguei os documentos à secretária do diretor.",
       "destaque": "à secretária",
       "correta": true,
-      "explicacao": "A resolução reconhece a crase como fusão regular: “entregar” pede “a”, e “secretária” admite artigo. O motivo não é o do gabarito, mas a grafia está certa.",
+      "explicacao": "A resolução reconhece a crase como fusão regular: “entregar” pede “a”, e “secretária” admite artigo. O motivo não é o do gabarito, mas a grafia está certa. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "Vunesp. Gabarito comentado: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-151"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Vunesp. Gabarito: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-152",
       "frase": "Ele escreveu o texto à Machado de Assis.",
       "destaque": "à Machado",
       "correta": true,
-      "explicacao": "É o gabarito comentado. A crase vem de “à moda de” subentendida, mesmo diante do nome masculino.",
+      "explicacao": "É o gabarito comentado. A crase vem de “à moda de” subentendida, mesmo diante do nome masculino. fonte: grok",
       "regra": "“À moda de” subentendida.",
-      "fonte": "Vunesp. Gabarito comentado: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-152"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Vunesp. Gabarito: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-153",
       "frase": "Fomos à pé até o centro da cidade.",
       "destaque": "à pé",
       "correta": false,
-      "explicacao": "A resolução corrige para “a pé”. “Pé” é masculino, e não há locução feminina subentendida.",
+      "explicacao": "A resolução corrige para “a pé”. “Pé” é masculino, e não há locução feminina subentendida. fonte: grok",
       "regra": "Sem crase antes de palavra masculina.",
-      "fonte": "Vunesp. Gabarito comentado: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-153"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Vunesp. Gabarito: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-154",
       "frase": "O aluno dedicou-se à leitura dos clássicos.",
       "destaque": "à leitura",
       "correta": true,
-      "explicacao": "A resolução explica a crase pela regência: “dedicar-se” pede “a”, e “leitura” admite o artigo feminino.",
+      "explicacao": "A resolução explica a crase pela regência: “dedicar-se” pede “a”, e “leitura” admite o artigo feminino. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "Vunesp. Gabarito comentado: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-154"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Vunesp. Gabarito: C. Questão de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-155",
       "frase": "Não me refiro à pessoas que não cumprem prazos.",
       "destaque": "à pessoas",
       "correta": false,
-      "explicacao": "A resolução elimina a alternativa. “À” singular não combina com “pessoas” no plural. Cabe “a pessoas” ou “às pessoas”.",
+      "explicacao": "A resolução elimina a alternativa. “À” singular não combina com “pessoas” no plural. Cabe “a pessoas” ou “às pessoas”. fonte: grok",
       "regra": "“A” singular antes de palavra no plural.",
-      "fonte": "Cesgranrio. Gabarito comentado: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-155"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cesgranrio. Gabarito: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-156",
       "frase": "O parecer foi encaminhado à Sua Excelência o Ministro.",
       "destaque": "à Sua",
       "correta": false,
-      "explicacao": "A resolução marca erro. Pronome de tratamento iniciado por “Sua” não admite artigo, logo não há crase.",
+      "explicacao": "A resolução marca erro. Pronome de tratamento iniciado por “Sua” não admite artigo, logo não há crase. fonte: grok",
       "regra": "Sem crase antes de pronome de tratamento.",
-      "fonte": "Cesgranrio. Gabarito comentado: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-156"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cesgranrio. Gabarito: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-157",
       "frase": "O autor dedicou a obra à sua mãe e à Maria.",
       "destaque": "à Maria",
       "correta": true,
-      "explicacao": "É o gabarito comentado. A crase é facultativa antes de nome próprio feminino, e “à Maria” está de acordo com a norma.",
+      "explicacao": "É o gabarito comentado. “Dedicar” pede “a”. Antes de nome feminino como “Maria”, e também antes de “sua mãe”, a crase é facultativa: “à Maria” está de acordo com a norma. fonte: grok",
       "regra": "Crase facultativa antes de nome feminino.",
-      "fonte": "Cesgranrio. Gabarito comentado: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-157"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cesgranrio. Gabarito: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-158",
       "frase": "A decisão foi tomada à portas fechadas.",
       "destaque": "à portas",
       "correta": false,
-      "explicacao": "A resolução corrige o singular antes do plural. Não se escreve “à portas”; cabe “a portas” ou “às portas”.",
+      "explicacao": "A resolução corrige o singular antes do plural. Não se escreve “à portas”; cabe “a portas” ou “às portas”. fonte: grok",
       "regra": "“A” singular antes de palavra no plural.",
-      "fonte": "Cesgranrio. Gabarito comentado: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-158"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cesgranrio. Gabarito: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-159",
       "frase": "O candidato chegou à partir das 8 horas.",
       "destaque": "à partir",
       "correta": false,
-      "explicacao": "A resolução elimina a alternativa. “Partir” é verbo: “a partir das 8 horas”, sem crase.",
+      "explicacao": "A resolução elimina a alternativa. “Partir” é verbo, e “a partir de” é locução sem artigo. A crase de “à partir” está proibida. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "Cesgranrio. Gabarito comentado: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-159"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cesgranrio. Gabarito: C. Questão de crase facultativa. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-160",
       "frase": "O motorista virou à esquerda e seguiu à moda paulistana.",
       "destaque": "à moda",
       "correta": true,
-      "explicacao": "O enunciado comentado traz “à moda paulistana” como locução feminina de modo, com crase obrigatória.",
+      "explicacao": "O enunciado comentado traz “à moda paulistana” como locução feminina de modo, com crase obrigatória. fonte: grok",
       "regra": "Locução adverbial feminina.",
-      "fonte": "Vunesp. Gabarito comentado: C. Enunciado de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-160"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Vunesp. Gabarito: C. Enunciado de “à moda de”. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-161",
       "frase": "O atendimento ao público ocorre de segunda a sexta-feira.",
       "destaque": "a sexta-feira",
       "correta": true,
-      "explicacao": "A resolução indica esta como a forma simétrica: começou com “de”, termina com “a”, sem crase.",
+      "explicacao": "A resolução indica esta como a forma simétrica: começou com “de”, termina com “a”, sem crase. fonte: grok",
       "regra": "Paralelismo: de… a…, não de… à…",
-      "fonte": "FCC. Gabarito comentado: E. Correção da alternativa A. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-161"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Correção da alternativa A. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-162",
       "frase": "O evento será realizado das 14h às 18h na sede do órgão.",
       "destaque": "às 18h",
       "correta": true,
-      "explicacao": "A resolução restaura o paralelismo: “das 14h” pede “às 18h”.",
+      "explicacao": "A resolução restaura o paralelismo. “Das” já é de + as, então o fim do intervalo tem de ser “às 18h”, com crase. fonte: grok",
       "regra": "Paralelismo de horário: de… a… ou das… às…",
-      "fonte": "FCC. Gabarito comentado: E. Correção da alternativa B. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-162"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Correção da alternativa B. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-163",
       "frase": "A exposição estará aberta ao público de 10 a 22 horas.",
       "destaque": "a 22",
       "correta": true,
-      "explicacao": "A resolução corrige o intervalo para “de 10 a 22 horas”, só com preposições, sem crase.",
+      "explicacao": "A resolução corrige o intervalo para “de 10 a 22 horas”. Começou com a preposição “de”, então termina com “a”, sem artigo e sem crase. fonte: grok",
       "regra": "Paralelismo de horário: de… a… ou das… às…",
-      "fonte": "FCC. Gabarito comentado: E. Correção da alternativa C. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-163"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Correção da alternativa C. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-164",
       "frase": "Vou a Brasília.",
       "destaque": "a Brasília",
       "correta": true,
-      "explicacao": "O texto afirma que o certo é “Vou a Brasília”: a cidade não admite artigo, e só há a preposição de “ir”.",
+      "explicacao": "O texto afirma que o certo é “Vou a Brasília”: a cidade não admite artigo, e só há a preposição de “ir”. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-164"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-165",
       "frase": "Vou à Bahia.",
       "destaque": "à Bahia",
       "correta": true,
-      "explicacao": "O texto afirma que o certo é “Vou à Bahia”: volta-se da Bahia, então “ir” funde a preposição ao artigo.",
+      "explicacao": "O texto afirma que o certo é “Vou à Bahia”: volta-se da Bahia, então “ir” funde a preposição ao artigo. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-165"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-166",
       "frase": "Vou à China.",
       "destaque": "à China",
       "correta": true,
-      "explicacao": "O macete do texto: volta-se da China, logo “vou à China”.",
+      "explicacao": "Sérgio Nogueira indica “Vou à China”. Volta-se da China: há artigo feminino, e “ir” pede “a”, logo a crase é obrigatória. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-166"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-167",
       "frase": "Vou a Israel.",
       "destaque": "a Israel",
       "correta": true,
-      "explicacao": "O texto aplica o macete: volta-se de Israel, sem artigo, logo “vou a Israel”.",
-      "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-167"
+      "explicacao": "Sérgio Nogueira aplica o macete da viagem: volta-se de Israel, sem artigo. “Ir” pede só a preposição, e o país não a funde com artigo: “vou a Israel”. fonte: grok",
+      "regra": "Topônimo sem artigo: sem crase.",
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-168",
       "frase": "Vou à Paraíba.",
       "destaque": "à Paraíba",
       "correta": true,
-      "explicacao": "O texto indica “vou à Paraíba”, porque se volta da Paraíba.",
+      "explicacao": "Sérgio Nogueira indica “vou à Paraíba”, porque se volta da Paraíba. O estado admite artigo feminino, e a preposição de “ir” se funde a ele. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-168"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-169",
       "frase": "Vou a Goiás.",
       "destaque": "a Goiás",
       "correta": true,
-      "explicacao": "O texto indica “vou a Goiás”: volta-se de Goiás, sem artigo.",
-      "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-169"
+      "explicacao": "Sérgio Nogueira indica “vou a Goiás”. Volta-se de Goiás, sem artigo definido, então a preposição de “ir” não se funde e não há crase. fonte: grok",
+      "regra": "Topônimo sem artigo: sem crase.",
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-170",
       "frase": "Vou a Curitiba.",
       "destaque": "a Curitiba",
       "correta": true,
-      "explicacao": "O texto indica “vou a Curitiba”, sem crase, porque se volta de Curitiba.",
+      "explicacao": "Sérgio Nogueira indica “vou a Curitiba”, sem crase, porque se volta de Curitiba. A cidade sem especificador não admite artigo. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-170"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-171",
       "frase": "Vou à progressista Curitiba.",
       "destaque": "à progressista",
       "correta": true,
-      "explicacao": "O texto contrapõe a cidade nua à cidade especificada: “à progressista Curitiba”, com artigo e crase.",
+      "explicacao": "O texto contrapõe a cidade nua à cidade especificada: “à progressista Curitiba”, com artigo e crase. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-171"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-172",
       "frase": "Vou à Barra da Tijuca.",
       "destaque": "à Barra",
       "correta": true,
-      "explicacao": "O texto indica crase: volta-se da Barra da Tijuca.",
+      "explicacao": "O texto marca crase em “vou à Barra da Tijuca”, porque se volta da Barra da Tijuca. O topônimo feminino admite artigo. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-172"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-173",
       "frase": "Vou a Botafogo.",
       "destaque": "a Botafogo",
       "correta": true,
-      "explicacao": "O texto indica “vou a Botafogo”, sem crase: volta-se de Botafogo.",
+      "explicacao": "Sérgio Nogueira indica “vou a Botafogo”. Volta-se de Botafogo, sem artigo, então “ir” contribui só com a preposição. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-173"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-174",
       "frase": "Vou à Tijuca.",
       "destaque": "à Tijuca",
       "correta": true,
-      "explicacao": "No exemplo do metrô, o texto marca crase só em “vou à Tijuca”, porque se volta da Tijuca.",
+      "explicacao": "No exemplo do metrô, o texto marca crase só em “vou à Tijuca”, porque se volta da Tijuca. O bairro admite artigo feminino. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-174"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-175",
       "frase": "Vou a Ipanema.",
       "destaque": "a Ipanema",
       "correta": true,
-      "explicacao": "No mesmo exemplo, “vou a Ipanema” fica sem crase: volta-se de Ipanema.",
+      "explicacao": "No mesmo exemplo, “vou a Ipanema” fica sem crase: volta-se de Ipanema. Não há artigo para fundir com a preposição. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-175"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-176",
       "frase": "Uma estrada liga a Suíça à Itália.",
       "destaque": "à Itália",
       "correta": true,
-      "explicacao": "O texto corrige a primeira estrada para “à Itália”: só a Itália, nesse par, admite artigo.",
+      "explicacao": "O texto corrige a primeira estrada para “à Itália”. “Ligar” pede “a”, e “Itália” admite artigo. “Suíça” também admite artigo, mas nesse ponto o “a” é só o artigo do objeto direto, sem preposição. fonte: grok",
       "regra": "Topônimo que admite artigo feminino.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-176"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
-      "frase": "Outra liga a Espanha a Portugal.",
+      "id": "crase-177",
+      "frase": "Outra estrada liga a Espanha a Portugal.",
       "destaque": "a Portugal",
       "correta": true,
-      "explicacao": "O texto deixa “a Portugal” sem crase: volta-se de Portugal, sem artigo.",
+      "explicacao": "O texto deixa “a Portugal” sem crase: volta-se de Portugal, sem artigo. “Espanha” leva artigo, mas como objeto direto de “liga”, não como termo da preposição. fonte: grok",
       "regra": "Topônimo sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-177"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-178",
       "frase": "Vou a Roma.",
       "destaque": "a Roma",
       "correta": true,
-      "explicacao": "O texto diz que o certo é “Vou a Roma”, sem especificador e sem crase.",
+      "explicacao": "O texto diz que o certo é “Vou a Roma”, sem especificador. Volta-se de Roma, sem artigo, portanto sem crase. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-178"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-179",
       "frase": "Vou à antiga Roma.",
       "destaque": "à antiga",
       "correta": true,
-      "explicacao": "O texto contrapõe “à antiga Roma”: o adjetivo faz o nome admitir artigo.",
+      "explicacao": "O texto contrapõe “à antiga Roma”. O adjetivo faz o nome admitir artigo: volta-se da antiga Roma, e a crase passa a ser obrigatória. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-179"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-180",
       "frase": "Vou a Paris.",
       "destaque": "a Paris",
       "correta": true,
-      "explicacao": "O texto indica “Vou a Paris”, porque se volta de Paris.",
+      "explicacao": "O texto indica “Vou a Paris”, porque se volta de Paris. Sem artigo, a preposição de “ir” não recebe acento grave. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-180"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-181",
       "frase": "Vou à Paris dos meus sonhos.",
       "destaque": "à Paris",
       "correta": true,
-      "explicacao": "O texto marca crase quando Paris vem especificada: “à Paris dos meus sonhos”.",
+      "explicacao": "O texto marca crase quando Paris vem especificada. “Dos meus sonhos” faz o nome admitir artigo: “à Paris dos meus sonhos”. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-181"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-182",
       "frase": "Vou a Porto Alegre.",
-      "destaque": "a Porto",
+      "destaque": "a Porto Alegre",
       "correta": true,
-      "explicacao": "O texto indica “Vou a Porto Alegre”, sem crase.",
+      "explicacao": "Sérgio Nogueira indica “Vou a Porto Alegre”. A cidade, sem especificador, não admite artigo: volta-se de Porto Alegre, logo não há crase. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-182"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-183",
       "frase": "Vou à bela Porto Alegre.",
       "destaque": "à bela",
       "correta": true,
-      "explicacao": "O texto indica crase com o adjetivo: “à bela Porto Alegre”.",
+      "explicacao": "O texto indica crase com o adjetivo: “à bela Porto Alegre”. A cidade especificada passa a admitir artigo feminino. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-183"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-184",
       "frase": "Vou a Londres.",
       "destaque": "a Londres",
       "correta": true,
-      "explicacao": "O texto indica “Vou a Londres”: volta-se de Londres, sem artigo.",
+      "explicacao": "O texto indica “Vou a Londres”: volta-se de Londres, sem artigo. A preposição fica sozinha, sem crase. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-184"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-185",
       "frase": "Vou à Londres do Big Ben.",
       "destaque": "à Londres",
       "correta": true,
-      "explicacao": "O texto marca crase na Londres especificada: “à Londres do Big Ben”.",
+      "explicacao": "O texto marca crase na forma especificada “à Londres do Big Ben”. Com o modificador, Londres passa a admitir artigo. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Forma indicada como certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html",
-      "id": "crase-185"
+      "fonte": "Sérgio Nogueira, Dicas de Português, G1, 19/12/2012. Gabarito do artigo: a frase citada está certa. https://g1.globo.com/educacao/blog/dicas-de-portugues/post/saiba-quando-se-deve-usar-a-crase-diante-de-nomes-de-lugar.html"
     },
     {
+      "id": "crase-186",
       "frase": "À medida que o tempo passa, fico mais sábia.",
       "destaque": "À medida",
       "correta": true,
-      "explicacao": "A resposta não aponta esta alternativa como equivocada. “À medida que” é a locução proporcional, com crase.",
+      "explicacao": "A resposta não aponta esta alternativa como equivocada. “À medida que” é a locução proporcional, com crase. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-186"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-187",
       "frase": "Precisamos ler mais na medida em que nos profissionalizamos.",
       "destaque": "na medida",
       "correta": true,
-      "explicacao": "A resposta não marca esta frase como erro. “Na medida em que” é a locução causal, sem crase.",
+      "explicacao": "A resposta não marca esta frase como erro. “Na medida em que” é a locução causal, sem crase. fonte: grok",
       "regra": "Locução causal sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-187"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-188",
       "frase": "À medida em que ganhava peso, perdia suas roupas.",
       "destaque": "À medida em que",
       "correta": false,
-      "explicacao": "É a resposta da questão. A expressão “à medida em que” não existe; a proporcional é “à medida que”, sem “em”.",
-      "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-188"
+      "explicacao": "É a resposta da questão. A proporcional é “à medida que”, sem “em”. “À medida em que” não existe na norma, por isso o emprego está errado. fonte: grok",
+      "regra": "“À medida em que” não é locução.",
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-189",
       "frase": "Na medida em que os produtos forem chegando, faremos o cadastro.",
       "destaque": "Na medida",
       "correta": true,
-      "explicacao": "A resposta não marca esta alternativa como equivocada. A locução causal “na medida em que” está no lugar certo.",
+      "explicacao": "A resposta não marca esta alternativa como equivocada. A locução causal “na medida em que” está no lugar certo. fonte: grok",
       "regra": "Locução causal sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-189"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-190",
       "frase": "À medida que convivemos com pessoas, tornamo-nos mais maduros.",
       "destaque": "À medida",
       "correta": true,
-      "explicacao": "A resposta não aponta erro nesta frase. “À medida que” exprime proporção e leva crase.",
+      "explicacao": "A resposta não aponta erro nesta frase. “À medida que” é locução conjuntiva proporcional: preposição “a” mais o artigo de “medida”. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-190"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-191",
       "frase": "A medida do tecido é essa aqui que eu anotei.",
       "destaque": "A medida",
       "correta": true,
-      "explicacao": "A resposta da questão de proporção não escolhe esta frase: aqui “medida” é substantivo, “a medida”, sem crase.",
+      "explicacao": "A resposta da questão de proporção não escolhe esta frase: aqui “medida” é substantivo, “a medida”, sem crase. fonte: grok",
       "regra": "Artigo sem preposição: sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-191"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-192",
       "frase": "Na medida em que passamos por experiências negativas, tornamo-nos mais desconfiados.",
       "destaque": "Na medida",
       "correta": true,
-      "explicacao": "A resposta reserva a ideia de proporção a outra alternativa. Esta locução causal está bem formada, sem crase.",
+      "explicacao": "A resposta reserva a ideia de proporção a outra alternativa. Esta locução causal está bem formada, sem crase. fonte: grok",
       "regra": "Locução causal sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-192"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-193",
       "frase": "À medida que o tempo passa, gosto mais de você.",
       "destaque": "À medida",
       "correta": true,
-      "explicacao": "É a resposta da questão: “à medida que” exprime proporção e pode ser trocada por “à proporção que”.",
+      "explicacao": "É a resposta da questão: “à medida que” exprime proporção e pode ser trocada por “à proporção que”. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-193"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-194",
       "frase": "Meu filho está na medida certa para a idade dele.",
       "destaque": "na medida",
       "correta": true,
-      "explicacao": "A resposta não trata esta frase como locução proporcional. “Na medida certa” é substantivo, sem crase.",
+      "explicacao": "A resposta não trata esta frase como locução proporcional. “Na medida certa” é substantivo, sem crase. fonte: grok",
       "regra": "Artigo sem preposição: sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-194"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-195",
       "frase": "O trabalho deve ser entregue hoje, na medida em que entramos de férias na segunda.",
       "destaque": "na medida",
       "correta": true,
-      "explicacao": "A resposta não escolhe esta frase como a proporcional. “Na medida em que” está causal e sem crase.",
+      "explicacao": "A resposta não escolhe esta frase como a proporcional. “Na medida em que” está causal e sem crase. fonte: grok",
       "regra": "Locução causal sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-195"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 2: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-196",
       "frase": "À medida que o tempo passa, sinto-me mais bonita e jovem.",
       "destaque": "À medida",
       "correta": true,
-      "explicacao": "A resposta não aponta esta alternativa como o emprego incorreto da locução. A crase de “à medida que” está certa.",
+      "explicacao": "A resposta não aponta esta alternativa como o emprego incorreto da locução. A crase de “à medida que” está certa. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-196"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-197",
       "frase": "Os alunos, à medida que o ano letivo chega ao fim, não se interessam mais em fazer as tarefas de casa.",
       "destaque": "à medida",
       "correta": true,
-      "explicacao": "A resposta não marca esta frase como incorreta. A locução proporcional leva crase.",
+      "explicacao": "A resposta não marca esta frase como incorreta. “À medida que” exprime proporção e leva crase, como “à proporção que”. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-197"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-198",
       "frase": "Carlos sabe que à medida do seu pé é bem menor do que à medida do sapato.",
       "destaque": "à medida do seu pé",
       "correta": false,
-      "explicacao": "É a resposta da questão. Aqui “medida” é o tamanho do pé, substantivo: “a medida”, sem crase e sem ideia de proporção.",
+      "explicacao": "É a resposta da questão. “Medida” aqui é o tamanho, substantivo, não a locução proporcional. As duas ocorrências pedem “a medida”, artigo sem preposição e sem crase. fonte: grok",
       "regra": "Artigo sem preposição: sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-198"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-199",
       "frase": "Sei que, à medida que os convidados forem chegando, os garçons servirão as bebidas.",
       "destaque": "à medida",
       "correta": true,
-      "explicacao": "A resposta não escolhe esta frase como a incorreta. “À medida que” está proporcional, com crase.",
+      "explicacao": "A resposta não escolhe esta frase como a incorreta. “À medida que” está proporcional, com crase. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-199"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 3: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-200",
       "frase": "Devemos correr para o ponto de ônibus, na medida em que o ônibus deve estar passando.",
       "destaque": "na medida",
       "correta": true,
-      "explicacao": "É a resposta que equivale a “tendo em vista que”. A locução causal não leva crase.",
+      "explicacao": "É a resposta que equivale a “tendo em vista que”. “Na medida em que” é locução causal e não leva o acento grave. fonte: grok",
       "regra": "Locução causal sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 4: D. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-200"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 4: D. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-201",
       "frase": "Meu tio me avisou que, à medida que o material chegasse, chegariam também os empregados.",
       "destaque": "à medida",
       "correta": true,
-      "explicacao": "A resposta não troca esta frase por “tendo em vista que”: é proporção, e “à medida que” está com crase.",
+      "explicacao": "A resposta não troca esta frase por “tendo em vista que”: é proporção, e “à medida que” está com crase. fonte: grok",
       "regra": "Locução conjuntiva feminina.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 4: D. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm",
-      "id": "crase-201"
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 4: D. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
     {
+      "id": "crase-202",
       "frase": "A professora fez críticas à algumas alunas.",
       "destaque": "à algumas",
       "correta": false,
-      "explicacao": "É a resposta correta do gabarito, a frase com crase indevida. O comentário: não se usa crase antes do pronome “algumas”.",
+      "explicacao": "É a resposta correta do gabarito, a frase com crase indevida. O comentário: não se usa crase antes do pronome “algumas”. fonte: grok",
       "regra": "Sem crase antes de pronome indefinido.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-202"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 1. Resposta publicada: A professora fez críticas à algumas alunas. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-203",
       "frase": "Eles ficaram à ver navios.",
       "destaque": "à ver",
       "correta": false,
-      "explicacao": "É a resposta do gabarito. O comentário diz que a crase acompanha o verbo “ver”, o que a norma não admite.",
+      "explicacao": "É a resposta do gabarito. O comentário diz que a crase acompanha o verbo “ver”, o que a norma não admite. fonte: grok",
       "regra": "Sem crase antes de verbo.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-203"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 4. Resposta publicada: Eles ficaram à ver navios. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-204",
       "frase": "Marcos foi à Londres.",
       "destaque": "à Londres",
       "correta": false,
-      "explicacao": "É a resposta do gabarito. O comentário aplica o macete: volta-se de Londres, portanto “foi a Londres”, sem crase.",
+      "explicacao": "É a resposta do gabarito. O comentário aplica o macete: volta-se de Londres, portanto “foi a Londres”, sem crase. fonte: grok",
       "regra": "Cidade sem artigo: sem crase.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-204"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 6. Resposta publicada: Marcos foi à Londres. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-205",
       "frase": "Fiz um bife à milanesa.",
       "destaque": "à milanesa",
       "correta": true,
-      "explicacao": "É a resposta do gabarito. O comentário explica “à moda de” subentendida em “à milanesa”.",
+      "explicacao": "É a resposta do gabarito. Em “à milanesa” subentende-se “à moda de”, locução feminina, e por isso a crase permanece diante do adjetivo. fonte: grok",
       "regra": "“À moda de” subentendida.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-205"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 10. Resposta publicada: Fiz um bife à milanesa. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-206",
       "frase": "Não me refiro àquele sujeito.",
       "destaque": "àquele",
       "correta": true,
-      "explicacao": "O comentário do gabarito dá este exemplo como a exceção dos demonstrativos: “a” + “aquele” = “àquele”.",
+      "explicacao": "O comentário do gabarito dá este exemplo como a exceção dos demonstrativos: “a” + “aquele” = “àquele”. fonte: grok",
       "regra": "Crase com pronome demonstrativo.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-206"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 11. Resposta publicada: Não me refiro àquele sujeito. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-207",
       "frase": "Não gostei do fato dela ter dito àquilo.",
       "destaque": "àquilo",
       "correta": false,
-      "explicacao": "É a resposta do gabarito. O comentário mostra que “dizer” não pede a preposição “a”; “aquilo” fica sem crase.",
+      "explicacao": "É a resposta do gabarito. O comentário mostra que “dizer” não pede a preposição “a”; “aquilo” fica sem crase. fonte: grok",
       "regra": "Artigo ou pronome sem preposição: sem crase.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-207"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 13. Resposta publicada: Não gostei do fato dela ter dito àquilo. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-208",
       "frase": "Naquele fim de semana, fui à praia.",
       "destaque": "à praia",
       "correta": true,
-      "explicacao": "O gabarito preenche a primeira lacuna com “à”. “Fui” pede “a”, e “praia” admite artigo.",
+      "explicacao": "O gabarito preenche a primeira lacuna com “à”. “Fui” pede a preposição “a”, e “praia” admite o artigo feminino. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-208"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 8. Resposta publicada: fui à praia. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-209",
       "frase": "Os navios voltaram à terra firme no horário do almoço.",
       "destaque": "à terra",
       "correta": true,
-      "explicacao": "O gabarito usa “à” diante de “terra firme”. O comentário: “terra” especificada leva crase.",
+      "explicacao": "O gabarito usa “à” diante de “terra firme”. O comentário: “terra” especificada leva crase. fonte: grok",
       "regra": "“Terra” com especificador.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-209"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 8. Resposta publicada: voltaram à terra firme. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-210",
       "frase": "Voltei a casa, para cozinhar meu almoço.",
       "destaque": "a casa",
       "correta": true,
-      "explicacao": "O gabarito deixa “a” sem acento. O comentário: “casa” sem especificador não leva crase.",
+      "explicacao": "O gabarito deixa “a” sem acento. “Casa” no sentido do próprio lar, sem especificador, não admite artigo: “voltei a casa”. fonte: grok",
       "regra": "“Casa” sem especificador: sem crase.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-210"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 8. Resposta publicada: voltei a casa. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-211",
       "frase": "Ontem, assisti àquele filme com meu namorado.",
       "destaque": "àquele",
       "correta": true,
-      "explicacao": "O gabarito preenche a lacuna com “àquele”. A preposição funde-se ao demonstrativo.",
+      "explicacao": "O gabarito preenche com “àquele”. No comentário, “assistir” no sentido de presenciar pede “a”, e essa preposição se funde ao “a” de “aquele”. fonte: grok",
       "regra": "Crase com pronome demonstrativo.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-211"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 12. Resposta publicada: assisti àquele filme. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-212",
       "frase": "Depois fomos à lanchonete e pedimos dois lanches.",
       "destaque": "à lanchonete",
       "correta": true,
-      "explicacao": "O gabarito preenche com “à”. “Fomos” pede “a”, e “lanchonete” admite artigo.",
+      "explicacao": "O gabarito preenche com “à”. “Fomos” pede “a”, e “lanchonete” é substantivo feminino que admite artigo. fonte: grok",
       "regra": "Preposição “a” + artigo feminino.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-212"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 12. Resposta publicada: fomos à lanchonete. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-213",
       "frase": "Não ficamos à vontade quando o garçom ficou nos rodeando.",
       "destaque": "à vontade",
       "correta": true,
-      "explicacao": "O gabarito preenche com “à”. “À vontade” é locução adverbial feminina.",
+      "explicacao": "O gabarito preenche com “à”. “À vontade” é locução adverbial feminina, e esse tipo de locução leva crase. fonte: grok",
       "regra": "Locução adverbial feminina.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-213"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 12. Resposta publicada: ficamos à vontade. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-214",
       "frase": "O problema era que aquela era a única lanchonete aberta.",
       "destaque": "a única",
       "correta": true,
-      "explicacao": "O gabarito deixa o último “a” sem acento. “Era a única” é verbo de ligação mais artigo, sem preposição.",
+      "explicacao": "O gabarito deixa o último “a” sem acento. “Era a única” é verbo de ligação mais artigo, sem preposição. fonte: grok",
       "regra": "Artigo sem preposição: sem crase.",
-      "fonte": "Professora Sagave. Gabarito de crase publicado em 27/04/2017. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html",
-      "id": "crase-214"
+      "fonte": "Professora Sagave, 27/04/2017. Questão 12. Resposta publicada: aquela era a única. https://blogdaprofsagave.blogspot.com/2017/04/gabarito-crase.html"
     },
     {
+      "id": "crase-215",
       "frase": "A reunião foi transferida para as 15 horas.",
       "destaque": "as 15",
       "correta": true,
-      "explicacao": "A resolução da questão de horário indica “para as 15 horas”: depois de “para” não há crase.",
+      "explicacao": "A resolução da questão de horário indica “para as 15 horas”: depois de “para” não há crase. fonte: grok",
       "regra": "Sem crase depois de outra preposição.",
-      "fonte": "FCC. Gabarito comentado: E. Correção da alternativa D. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-215"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da FCC. Gabarito: E. Correção da alternativa D. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     },
     {
+      "id": "crase-216",
       "frase": "Vou à Fortaleza de antigamente.",
       "destaque": "à Fortaleza",
       "correta": true,
-      "explicacao": "O resumo da questão de topônimo especificado dá “à Fortaleza de antigamente” como crase obrigatória.",
+      "explicacao": "O resumo da questão de topônimo especificado dá “à Fortaleza de antigamente” como crase obrigatória. fonte: grok",
       "regra": "Topônimo especificado admite artigo.",
-      "fonte": "Cebraspe. Gabarito comentado: CERTO. Exemplo do resumo. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/",
-      "id": "crase-216"
+      "fonte": "Estuda Aí. Exercício comentado no perfil da Cebraspe. Gabarito: CERTO. Exemplo do resumo. https://estudaae.com.br/exercicio-resolvido/exercicios-de-crase-para-concursos-questoes-comentadas/"
     }
   ]
 }
