@@ -652,7 +652,7 @@
       "frase": "“Cláudia chegou, entrou pela sala, almoçou, foi ao banheiro, escovou os dentes, despediu-se e foi trabalhar.” O período tem 7 orações.",
       "destaque": "7 orações",
       "correta": true,
-      "explicacao": "O gabarito é C. Há sete verbos conjugados: chegou, entrou, almoçou, foi, escovou, despediu-se e foi. Cada um abre uma oração.",
+      "explicacao": "O gabarito é C. Há sete verbos conjugados: chegou, entrou, almoçou, foi, escovou, despediu-se e foi. “Trabalhar” completa o segundo “foi”; a prova não o conta como oitava oração.",
       "regra": "Período composto: uma oração por verbo conjugado.",
       "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117347",
       "id": "sintaxe-073"
@@ -1084,7 +1084,7 @@
       "frase": "“A educação proporcionada pelos livros torna-se um antídoto poderoso contra a superficialidade e a desinformação.” O núcleo do sujeito é “livros”.",
       "destaque": "é “livros”",
       "correta": false,
-      "explicacao": "O gabarito é E. O núcleo é “educação”. “Livros” está no adjunto “proporcionada pelos livros”.",
+      "explicacao": "O gabarito é E. O núcleo é “educação”. “Livros” acompanha o particípio “proporcionada” e não é o núcleo de “torna-se”.",
       "regra": "Núcleo do sujeito.",
       "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/1127972",
       "id": "sintaxe-121"
