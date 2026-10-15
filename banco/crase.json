@@ -1682,7 +1682,7 @@
       "frase": "Precisamos ler mais na medida em que nos profissionalizamos.",
       "destaque": "na medida",
       "correta": true,
-      "explicacao": "A resposta não marca esta frase como erro. “Na medida em que” é a locução causal, sem crase. fonte: grok",
+      "explicacao": "A questão aponta como errada só “à medida em que”. Nesta frase, a leitura que cabe na norma é a causal: é preciso ler mais porque a profissionalização pede isso. No sentido de proporção, a forma seria “à medida que”. fonte: grok",
       "regra": "Locução causal sem crase.",
       "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
     },
@@ -1699,10 +1699,10 @@
       "id": "crase-189",
       "frase": "Na medida em que os produtos forem chegando, faremos o cadastro.",
       "destaque": "Na medida",
-      "correta": true,
-      "explicacao": "A resposta não marca esta alternativa como equivocada. A locução causal “na medida em que” está no lugar certo. fonte: grok",
-      "regra": "Locução causal sem crase.",
-      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo sobre “à medida que” e “na medida em que”. Resposta da questão 1: C. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm"
+      "correta": false,
+      "explicacao": "Os produtos que vão chegando marcam proporção, não causa. A norma usa “à medida que”. “Na medida em que” vale como “porque”. Cegalla condena o emprego proporcional. O exercício só elege “à medida em que” como a alternativa errada da questão; isso não torna esta frase proporcional. fonte: grok",
+      "regra": "Proporção pede “à medida que”.",
+      "fonte": "Mundo Educação. Exercício de Luciana Kuchenbecker Araújo. A resposta da questão 1 é C, “à medida em que”. https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica/exercicios-sobre-a-medida-que-ou-na-medida-em-que.htm Cegalla, citado por José Maria da Costa: https://www.migalhas.com.br/coluna/gramatigalhas/126818/a-medida-que"
     },
     {
       "id": "crase-190",
