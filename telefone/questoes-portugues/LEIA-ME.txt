@@ -1,0 +1,19 @@
+Questões de Português no Chrome do celular
+
+Copie esta pasta inteira para o celular, com este nome e neste lugar:
+
+  Armazenamento interno → Download → questoes-portugues
+
+O arquivo que abre o treino é index.html. Ele já traz as questões dentro.
+Não separe o arquivo da pasta.
+
+Para jogar:
+
+1. No celular, abra o aplicativo Arquivos (Files do Google, ou Meus Arquivos no Samsung).
+2. Entre em Download e depois em questoes-portugues.
+3. Toque em index.html.
+4. Escolha Chrome.
+
+Na primeira tela, escolha Crase, Hífen ou Análise sintática. Cada rodada tem 10 frases. Toque em Certo ou Errado e depois em Próxima.
+
+Abra o mesmo index.html sempre que for treinar. O Chrome do Android não guarda um ícone na tela inicial para um arquivo da pasta Download.
