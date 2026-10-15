@@ -1,0 +1,652 @@
+{
+  "questoes": [
+    {
+      "frase": "“O próximo da fila já pode se dirigir ao caixa.” Nessa sentença, “próximo” é adjetivo substantivado com papel de sujeito.",
+      "destaque": "adjetivo substantivado",
+      "correta": true,
+      "explicacao": "O gabarito é D. “Próximo” deixa de funcionar como adjetivo e vira o núcleo do sujeito de “pode”. Em “flores”, “contraste” e “tintureiro”, o núcleo do sujeito é substantivo. Em “Pensava”, o sujeito não é “remetente”: fica oculto.",
+      "regra": "Adjetivo substantivado no sujeito.",
+      "fonte": "Avança SP – 2025. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1132160",
+      "id": "sintaxe-001"
+    },
+    {
+      "frase": "“As flores lilases coloriram a decoração de uma forma maravilhosa.” Nessa sentença há adjetivo substantivado com papel de sujeito.",
+      "destaque": "adjetivo substantivado",
+      "correta": false,
+      "explicacao": "O gabarito da Avança SP é “O próximo da fila já pode se dirigir ao caixa”. Aqui “lilases” continua adjetivo, e o núcleo do sujeito é o substantivo “flores”.",
+      "regra": "Núcleo do sujeito substantivo.",
+      "fonte": "Avança SP – 2025. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1132160",
+      "id": "sintaxe-002"
+    },
+    {
+      "frase": "“Havia cinco anos que D. Felicidade o amava.” A oração de “havia” é oração sem sujeito.",
+      "destaque": "oração sem sujeito",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Haver”, com o sentido de tempo decorrido, é impessoal. “Cinco anos” é complemento, não sujeito.",
+      "regra": "Oração sem sujeito: “haver” impessoal.",
+      "fonte": "EEAR – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/703854",
+      "id": "sintaxe-003"
+    },
+    {
+      "frase": "“Ainda se vivia num mundo de incertezas.” Essa construção é oração sem sujeito.",
+      "destaque": "oração sem sujeito",
+      "correta": false,
+      "explicacao": "O gabarito da EEAR reserva a oração sem sujeito a “Havia cinco anos que D. Felicidade o amava”. “Viver” é intransitivo, e o “se” indetermina o sujeito.",
+      "regra": "Sujeito indeterminado com “se”.",
+      "fonte": "EEAR – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/703854",
+      "id": "sintaxe-004"
+    },
+    {
+      "frase": "“A transcendência constitui o seu projeto como ser-no-mundo.” “A transcendência” é o sujeito, e “o seu projeto” é o complemento do mesmo verbo.",
+      "destaque": "o complemento do mesmo verbo",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Constituir” está transitivo direto: o sujeito é “A transcendência” e o objeto direto é “o seu projeto”.",
+      "regra": "Sujeito e objeto direto.",
+      "fonte": "FCC – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/703667",
+      "id": "sintaxe-005"
+    },
+    {
+      "frase": "“A queda de um homem desesperado não é equivalente à de uma pedra.” “Equivalente” é complemento verbal.",
+      "destaque": "complemento verbal",
+      "correta": false,
+      "explicacao": "O gabarito da FCC é a frase com “constitui”. “Ser” é verbo de ligação, e “equivalente” é predicativo do sujeito.",
+      "regra": "Predicativo do sujeito.",
+      "fonte": "FCC – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/703667",
+      "id": "sintaxe-006"
+    },
+    {
+      "frase": "“Isto se passava em casa de uma baronesa, que tinha a modista ao pé de si.” O período é composto por subordinação.",
+      "destaque": "composto por subordinação",
+      "correta": true,
+      "explicacao": "O gabarito é D. São duas orações. O “que” é pronome relativo e introduz oração adjetiva, subordinada à principal.",
+      "regra": "Período composto por subordinação.",
+      "fonte": "UFRJ – 2017. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/697909",
+      "id": "sintaxe-007"
+    },
+    {
+      "frase": "“Isto se passava em casa de uma baronesa, que tinha a modista ao pé de si.” O período é simples.",
+      "destaque": "período é simples",
+      "correta": false,
+      "explicacao": "O gabarito é D: duas orações, ligadas por subordinação. O relativo “que” abre a segunda oração. Período simples tem uma oração só.",
+      "regra": "Período simples: uma oração.",
+      "fonte": "UFRJ – 2017. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/697909",
+      "id": "sintaxe-008"
+    },
+    {
+      "frase": "“Um doce, moça, compre um doce para mim.” O sujeito dessa oração é oculto.",
+      "destaque": "oculto",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Compre” está no imperativo e o sujeito é “você”, não expresso. “Moça” apenas chama a pessoa: é vocativo.",
+      "regra": "Sujeito oculto no imperativo.",
+      "fonte": "CETREDE – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/830867",
+      "id": "sintaxe-009"
+    },
+    {
+      "frase": "“Um doce, moça, compre um doce para mim.” O sujeito é o vocativo.",
+      "destaque": "o vocativo",
+      "correta": false,
+      "explicacao": "O gabarito é B, sujeito oculto. Vocativo não integra a relação sujeito-predicado: “moça” chama o interlocutor e não pratica a ação de “compre”.",
+      "regra": "Vocativo não é sujeito.",
+      "fonte": "CETREDE – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/830867",
+      "id": "sintaxe-010"
+    },
+    {
+      "frase": "“Cumpre trabalharmos bastante.” O sujeito é oracional.",
+      "destaque": "oracional",
+      "correta": true,
+      "explicacao": "O gabarito é D. “Cumprir”, no sentido de ser preciso, tem como sujeito a oração reduzida de infinitivo “trabalharmos bastante”.",
+      "regra": "Sujeito oracional.",
+      "fonte": "CETREDE – 2018. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/823077",
+      "id": "sintaxe-011"
+    },
+    {
+      "frase": "“Havia poucos ingressos à venda.” O sujeito é oracional.",
+      "destaque": "oracional",
+      "correta": false,
+      "explicacao": "O gabarito do CETREDE aponta sujeito oracional em “Cumpre trabalharmos bastante”. “Haver”, no sentido de existir, não tem sujeito: “poucos ingressos” é objeto direto.",
+      "regra": "Oração sem sujeito: “haver” existencial.",
+      "fonte": "CETREDE – 2018. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/823077",
+      "id": "sintaxe-012"
+    },
+    {
+      "frase": "“Oficialmente, não é lugar onde se more.” O sujeito de “more” é indeterminado.",
+      "destaque": "indeterminado",
+      "correta": true,
+      "explicacao": "O gabarito é E. “Morar” é intransitivo. O “se” é índice de indeterminação do sujeito, e “onde” é adjunto adverbial.",
+      "regra": "Sujeito indeterminado.",
+      "fonte": "Vunesp – 2018. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/704039",
+      "id": "sintaxe-013"
+    },
+    {
+      "frase": "“Oficialmente, não é lugar onde se more.” O sujeito de “more” é o pronome relativo.",
+      "destaque": "o pronome relativo",
+      "correta": false,
+      "explicacao": "O gabarito é E. “Onde” retoma “lugar” como adjunto adverbial. Quem pratica “more” não está nomeado: o sujeito fica indeterminado pelo “se”.",
+      "regra": "“Onde” não é o sujeito de “morar”.",
+      "fonte": "Vunesp – 2018. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/704039",
+      "id": "sintaxe-014"
+    },
+    {
+      "frase": "“Ninguém lhes cobrava aluguel, imposto predial, taxa de condomínio.” O sujeito é o pronome indefinido.",
+      "destaque": "pronome indefinido",
+      "correta": true,
+      "explicacao": "O gabarito é E. “Ninguém” está expresso e é o sujeito simples de “cobrava”. A série “aluguel, imposto predial, taxa de condomínio” é o objeto direto.",
+      "regra": "Sujeito simples expresso.",
+      "fonte": "Vunesp – 2018. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/704039",
+      "id": "sintaxe-015"
+    },
+    {
+      "frase": "“O homem vivia tranquilo.” O predicado é verbo-nominal.",
+      "destaque": "verbo-nominal",
+      "correta": true,
+      "explicacao": "O gabarito é A. “Vivia” conserva noção verbal e “tranquilo” é predicativo do sujeito. As duas partes formam o predicado verbo-nominal.",
+      "regra": "Predicado verbo-nominal.",
+      "fonte": "Instituto Machado de Assis – 2018. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/697869",
+      "id": "sintaxe-016"
+    },
+    {
+      "frase": "“Foi com as tropas romanas que o latim chegou à face sul do continente europeu.” O núcleo do sujeito de “chegou” é “latim”.",
+      "destaque": "núcleo do sujeito",
+      "correta": true,
+      "explicacao": "O gabarito é D. Na oração “o latim chegou”, o sujeito é “o latim”. “Tropas”, “face” e “continente” estão em adjuntos.",
+      "regra": "Núcleo do sujeito.",
+      "fonte": "Vunesp – 2018. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/697855",
+      "id": "sintaxe-017"
+    },
+    {
+      "frase": "“Foi com as tropas romanas que o latim chegou à face sul do continente europeu.” O núcleo do sujeito de “chegou” é “tropas”.",
+      "destaque": "é “tropas”",
+      "correta": false,
+      "explicacao": "O gabarito é D, “latim”. “Com as tropas romanas” é adjunto adverbial de companhia. O sujeito de “chegou” é “o latim”.",
+      "regra": "Adjunto adverbial não é o sujeito.",
+      "fonte": "Vunesp – 2018. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/697855",
+      "id": "sintaxe-018"
+    },
+    {
+      "frase": "“Freud era um neurologista.” O predicado é nominal e o sujeito é “Freud”.",
+      "destaque": "predicado é nominal",
+      "correta": true,
+      "explicacao": "O gabarito é A. “Era” é verbo de ligação e “um neurologista” é predicativo do sujeito. O sujeito é “Freud”.",
+      "regra": "Predicado nominal.",
+      "fonte": "Vunesp – 2018. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/697854",
+      "id": "sintaxe-019"
+    },
+    {
+      "frase": "“Freud era um neurologista.” O sujeito é “neurologista”.",
+      "destaque": "O sujeito é “neurologista”",
+      "correta": false,
+      "explicacao": "O gabarito é A. “Neurologista” é predicativo do sujeito. Quem é o sujeito de “era” é “Freud”.",
+      "regra": "Predicativo do sujeito.",
+      "fonte": "Vunesp – 2018. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/697854",
+      "id": "sintaxe-020"
+    },
+    {
+      "frase": "“O médico atendia no hospital, os professores escreviam na biblioteca.” A segunda oração, sem conjunção, é coordenada assindética.",
+      "destaque": "coordenada assindética",
+      "correta": true,
+      "explicacao": "O gabarito marca 6, assindética. As duas orações se sucedem só pela vírgula, sem conectivo.",
+      "regra": "Coordenada assindética.",
+      "fonte": "FEPESE – 2017. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/697920",
+      "id": "sintaxe-021"
+    },
+    {
+      "frase": "“Havia uma multidão, mas não existia tumulto.” A oração introduzida por “mas” é coordenada sindética adversativa.",
+      "destaque": "adversativa",
+      "correta": true,
+      "explicacao": "O gabarito marca 2, adversativa. “Mas” opõe a segunda oração à primeira.",
+      "regra": "Coordenada sindética adversativa.",
+      "fonte": "FEPESE – 2017. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/697920",
+      "id": "sintaxe-022"
+    },
+    {
+      "frase": "“Deixa em paz meu coração, que ele é um pote até aqui de mágoa.” O “que” introduz coordenada sindética explicativa.",
+      "destaque": "explicativa",
+      "correta": true,
+      "explicacao": "O gabarito marca 5, explicativa. Esse “que” vale por “porque” e justifica o pedido da oração anterior.",
+      "regra": "Coordenada sindética explicativa.",
+      "fonte": "FEPESE – 2017. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/697920",
+      "id": "sintaxe-023"
+    },
+    {
+      "frase": "“Sou especialista, logo, só posso atender a casos específicos.” A oração introduzida por “logo” é coordenada sindética conclusiva.",
+      "destaque": "conclusiva",
+      "correta": true,
+      "explicacao": "O gabarito marca 4, conclusiva. “Logo” apresenta a segunda oração como conclusão da primeira.",
+      "regra": "Coordenada sindética conclusiva.",
+      "fonte": "FEPESE – 2017. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/697920",
+      "id": "sintaxe-024"
+    },
+    {
+      "frase": "“Siga o mapa ou peça informação nos postos.” A oração introduzida por “ou” é coordenada sindética alternativa.",
+      "destaque": "alternativa",
+      "correta": true,
+      "explicacao": "O gabarito marca 3, alternativa. “Ou” põe as duas ordens como opções que se excluem.",
+      "regra": "Coordenada sindética alternativa.",
+      "fonte": "FEPESE – 2017. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/697920",
+      "id": "sintaxe-025"
+    },
+    {
+      "frase": "“O rapaz despediu-se de mim e tomou a estrada rumo à sua casa.” A oração introduzida por “e” é coordenada sindética aditiva.",
+      "destaque": "aditiva",
+      "correta": true,
+      "explicacao": "O gabarito marca 1, aditiva. “E” soma a segunda ação à primeira, sem oposição nem conclusão.",
+      "regra": "Coordenada sindética aditiva.",
+      "fonte": "FEPESE – 2017. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/697920",
+      "id": "sintaxe-026"
+    },
+    {
+      "frase": "“Faz parte do ser humano o sentimento de pertencer, integrar algo maior que ele próprio e assumir um ideal comum.” O sujeito se classifica como simples.",
+      "destaque": "classifica como simples",
+      "correta": true,
+      "explicacao": "O gabarito é C. O núcleo é um só, “sentimento”. Os infinitivos “pertencer”, “integrar” e “assumir” completam esse nome; não são outros sujeitos de “faz”.",
+      "regra": "Sujeito simples.",
+      "fonte": "IADES – 2019. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/823079",
+      "id": "sintaxe-027"
+    },
+    {
+      "frase": "“Faz parte do ser humano o sentimento de pertencer, integrar algo maior que ele próprio e assumir um ideal comum.” O sujeito se classifica como indeterminado.",
+      "destaque": "classifica como indeterminado",
+      "correta": false,
+      "explicacao": "O gabarito é C, sujeito simples. O sujeito está expresso e posposto: “o sentimento de pertencer, integrar algo maior que ele próprio e assumir um ideal comum”.",
+      "regra": "Sujeito simples posposto.",
+      "fonte": "IADES – 2019. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/823079",
+      "id": "sintaxe-028"
+    },
+    {
+      "frase": "“Com impressionante frequência, surge um sujeito empunhando um revólver ou um fuzil-metralhadora que começa a disparar a esmo dentro de um shopping ou de uma universidade.” O trecho é um período composto.",
+      "destaque": "um período composto",
+      "correta": true,
+      "explicacao": "O gabarito é B. Há mais de uma oração: “surge”, a reduzida “empunhando” e “começa”.",
+      "regra": "Período composto.",
+      "fonte": "Consulplan – 2014. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/476717",
+      "id": "sintaxe-029"
+    },
+    {
+      "frase": "“Com impressionante frequência, surge um sujeito empunhando um revólver ou um fuzil-metralhadora que começa a disparar a esmo dentro de um shopping ou de uma universidade.” O trecho é um período simples.",
+      "destaque": "um período simples",
+      "correta": false,
+      "explicacao": "O gabarito é B. “Surge”, “empunhando” e “começa” são orações diferentes. Período simples teria uma oração só.",
+      "regra": "Período simples: uma oração.",
+      "fonte": "Consulplan – 2014. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/476717",
+      "id": "sintaxe-030"
+    },
+    {
+      "frase": "No período “Sobe uma classe e dentro dela elevam-se muitos aspirantes a essa camada”, “uma classe” e “muitos aspirantes a essa camada” são sujeitos.",
+      "destaque": "são sujeitos",
+      "correta": true,
+      "explicacao": "O gabarito é Certo. “Uma classe” é o sujeito de “sobe”. “Muitos aspirantes a essa camada” é o sujeito de “elevam-se”: o verbo concorda com esse substantivo.",
+      "regra": "Sujeito de cada uma das duas orações.",
+      "fonte": "Cespe/Cebraspe – 2018. Gabarito: Certo. https://www.estudegratis.com.br/questao-de-concurso/704577",
+      "id": "sintaxe-031"
+    },
+    {
+      "frase": "Em “Importa destacar”, a oração “destacar” exerce função de sujeito.",
+      "destaque": "função de sujeito",
+      "correta": true,
+      "explicacao": "O gabarito é Certo. “Importar”, nesse uso, tem como sujeito o infinitivo “destacar”.",
+      "regra": "Sujeito oracional reduzido de infinitivo.",
+      "fonte": "Cespe/Cebraspe – 2015. Gabarito: Certo. https://www.estudegratis.com.br/questao-de-concurso/591963",
+      "id": "sintaxe-032"
+    },
+    {
+      "frase": "“Exceção feita à febre amarela, não existem vacinas para essas doenças.” O sujeito de “existem” é simples.",
+      "destaque": "é simples",
+      "correta": true,
+      "explicacao": "O gabarito é C. O sujeito é “vacinas para essas doenças”, com um núcleo, “vacinas”. “Exceção feita à febre amarela” não é o sujeito.",
+      "regra": "Sujeito simples.",
+      "fonte": "IADES – 2014. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/475383",
+      "id": "sintaxe-033"
+    },
+    {
+      "frase": "“Exceção feita à febre amarela, não existem vacinas para essas doenças.” O sujeito de “existem” é inexistente.",
+      "destaque": "é inexistente",
+      "correta": false,
+      "explicacao": "O gabarito é C, sujeito simples. “Existir” tem sujeito: “vacinas para essas doenças”. Oração sem sujeito seria o caso de “haver” impessoal, não o deste verbo.",
+      "regra": "“Existir” tem sujeito.",
+      "fonte": "IADES – 2014. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/475383",
+      "id": "sintaxe-034"
+    },
+    {
+      "frase": "“Qualquer colisão com outros objetos - mesmo partículas de terra ou gelo - poderia provocar danos.” O sujeito é “qualquer colisão com outros objetos”.",
+      "destaque": "qualquer colisão com outros objetos",
+      "correta": true,
+      "explicacao": "O gabarito é B. O núcleo do sujeito é “colisão”. O travessão só intercala um esclarecimento, “mesmo partículas de terra ou gelo”. “Danos” é o objeto direto de “provocar”.",
+      "regra": "Sujeito simples.",
+      "fonte": "FAUEL – 2017. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/613764",
+      "id": "sintaxe-035"
+    },
+    {
+      "frase": "“Qualquer colisão com outros objetos - mesmo partículas de terra ou gelo - poderia provocar danos.” O sujeito é “outros objetos”.",
+      "destaque": "é “outros objetos”",
+      "correta": false,
+      "explicacao": "O gabarito é B. “Outros objetos” vem preso a “colisão” pela preposição “com”. O sujeito de “poderia provocar” é “qualquer colisão com outros objetos”.",
+      "regra": "O termo preposicionado não é o sujeito.",
+      "fonte": "FAUEL – 2017. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/613764",
+      "id": "sintaxe-036"
+    },
+    {
+      "frase": "“Mas impõe-se a descrição sumária do território.” O sujeito é simples.",
+      "destaque": "sujeito é simples",
+      "correta": true,
+      "explicacao": "O gabarito é C. O “se” é partícula apassivadora e o sujeito paciente é “a descrição sumária do território”, com um núcleo.",
+      "regra": "Sujeito simples na passiva pronominal.",
+      "fonte": "IBFC – 2017. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/613762",
+      "id": "sintaxe-037"
+    },
+    {
+      "frase": "“Mas impõe-se a descrição sumária do território.” O sujeito é oculto.",
+      "destaque": "sujeito é oculto",
+      "correta": false,
+      "explicacao": "O gabarito é C, sujeito simples. “A descrição sumária do território” está expressa. O “se” apassiva o verbo; não esconde um sujeito “ele” ou “você”.",
+      "regra": "Passiva pronominal com sujeito expresso.",
+      "fonte": "IBFC – 2017. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/613762",
+      "id": "sintaxe-038"
+    },
+    {
+      "frase": "“Assaltaram a casa do ministro.” O sujeito é indeterminado.",
+      "destaque": "indeterminado",
+      "correta": true,
+      "explicacao": "O gabarito é A. O verbo na terceira pessoa do plural, sem sujeito expresso nem retomada, deixa o agente indeterminado. “A casa do ministro” é objeto direto.",
+      "regra": "Sujeito indeterminado.",
+      "fonte": "IESES – 2017. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/613760",
+      "id": "sintaxe-039"
+    },
+    {
+      "frase": "“Todos quiseram dar sua opinião.” O sujeito é indeterminado.",
+      "destaque": "indeterminado",
+      "correta": false,
+      "explicacao": "O gabarito do IESES reserva a indeterminação a “Assaltaram a casa do ministro”. Aqui o sujeito está expresso: “todos”.",
+      "regra": "Sujeito simples expresso.",
+      "fonte": "IESES – 2017. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/613760",
+      "id": "sintaxe-040"
+    },
+    {
+      "frase": "“Há pessoas práticas e previdentes que costumam ter uma espécie de lar em conserva; num canto do armário, ao lado de outras coisas enlatadas e que é, como estas, servido às visitas esperadas.” O pronome “que” de “costumam” é sujeito de “costumam”.",
+      "destaque": "sujeito de “costumam”",
+      "correta": true,
+      "explicacao": "O gabarito considera verdadeira só a afirmativa II. “Que” retoma “pessoas” e é o sujeito de “costumam ter”.",
+      "regra": "Pronome relativo como sujeito.",
+      "fonte": "IBFC – 2017. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/613744",
+      "id": "sintaxe-041"
+    },
+    {
+      "frase": "“Há pessoas práticas e previdentes que costumam ter uma espécie de lar em conserva; num canto do armário, ao lado de outras coisas enlatadas e que é, como estas, servido às visitas esperadas.” O período é composto apenas por coordenação.",
+      "destaque": "apenas por coordenação",
+      "correta": false,
+      "explicacao": "O gabarito considera falsa a afirmativa I. O “que” de “que costumam” é relativo e introduz oração subordinada adjetiva, não uma coordenada.",
+      "regra": "Oração subordinada adjetiva.",
+      "fonte": "IBFC – 2017. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/613744",
+      "id": "sintaxe-042"
+    },
+    {
+      "frase": "“Serviram um refrigerante batizado.” O verbo “servir” está transitivo direto.",
+      "destaque": "transitivo direto",
+      "correta": true,
+      "explicacao": "O gabarito considera corretas as afirmativas II e III. “Um refrigerante batizado” completa “serviram” sem preposição: é objeto direto.",
+      "regra": "Objeto direto.",
+      "fonte": "IDECAN – 2017. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/591969",
+      "id": "sintaxe-043"
+    },
+    {
+      "frase": "“Abriu os olhos e viu um fio de luz apenas.” “Os olhos” é objeto direto de “abriu”.",
+      "destaque": "objeto direto",
+      "correta": true,
+      "explicacao": "O gabarito considera correta a afirmativa III. “Abrir” é transitivo direto, e “os olhos” é o objeto direto.",
+      "regra": "Objeto direto.",
+      "fonte": "IDECAN – 2017. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/591969",
+      "id": "sintaxe-044"
+    },
+    {
+      "frase": "“As imagens da festa se transformavam a sua frente.” “As imagens da festa” é sujeito composto.",
+      "destaque": "sujeito composto",
+      "correta": false,
+      "explicacao": "O gabarito exclui a afirmativa I. O núcleo é um só, “imagens”. Sujeito composto teria mais de um núcleo.",
+      "regra": "Sujeito simples.",
+      "fonte": "IDECAN – 2017. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/591969",
+      "id": "sintaxe-045"
+    },
+    {
+      "frase": "“Por maior semelhança, carregam os registros características peculiares.” O sujeito de “carregam” aparece posposto.",
+      "destaque": "posposto",
+      "correta": true,
+      "explicacao": "O gabarito é C. O sujeito “os registros” vem depois do verbo, e “características peculiares” é o objeto direto.",
+      "regra": "Sujeito posposto.",
+      "fonte": "FGV – 2014. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/475700",
+      "id": "sintaxe-046"
+    },
+    {
+      "frase": "“Três atos distintos ocorreram.” O sujeito de “ocorreram” aparece posposto.",
+      "destaque": "posposto",
+      "correta": false,
+      "explicacao": "O gabarito da FGV é “carregam os registros características peculiares”. Em “três atos distintos ocorreram”, o sujeito “três atos distintos” vem antes do verbo.",
+      "regra": "Sujeito anteposto.",
+      "fonte": "FGV – 2014. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/475700",
+      "id": "sintaxe-047"
+    },
+    {
+      "frase": "“Edite desconfia de tudo.” “De tudo” é objeto indireto.",
+      "destaque": "objeto indireto",
+      "correta": true,
+      "explicacao": "O gabarito é E. “Desconfiar” pede a preposição “de”, e “de tudo” completa o verbo. Nas outras opções, o termo preposicionado completa nome ou é adjunto.",
+      "regra": "Objeto indireto.",
+      "fonte": "CETREDE – 2018. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/823081",
+      "id": "sintaxe-048"
+    },
+    {
+      "frase": "“A crença em Deus é necessária.” “Em Deus” é objeto indireto.",
+      "destaque": "objeto indireto",
+      "correta": false,
+      "explicacao": "O gabarito do CETREDE é “Edite desconfia de tudo”. “Em Deus” completa o substantivo “crença”: é complemento nominal, não objeto indireto.",
+      "regra": "Complemento nominal.",
+      "fonte": "CETREDE – 2018. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/823081",
+      "id": "sintaxe-049"
+    },
+    {
+      "frase": "“Se a greve se prolongar”, em “O caos será generalizado, se a greve se prolongar”, a oração destacada é subordinada adverbial condicional.",
+      "destaque": "condicional",
+      "correta": true,
+      "explicacao": "O gabarito é D. O “se” introduz condição para o caos se generalizar. Não é tempo, finalidade, proporção nem comparação.",
+      "regra": "Oração subordinada adverbial condicional.",
+      "fonte": "IBADE – 2018. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/697795",
+      "id": "sintaxe-050"
+    },
+    {
+      "frase": "“Se a greve se prolongar”, em “O caos será generalizado, se a greve se prolongar”, a oração destacada é subordinada adverbial temporal.",
+      "destaque": "temporal",
+      "correta": false,
+      "explicacao": "O gabarito é D, condicional. “Se” impõe uma hipótese, não situa a oração principal no tempo.",
+      "regra": "Oração subordinada adverbial condicional.",
+      "fonte": "IBADE – 2018. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/697795",
+      "id": "sintaxe-051"
+    },
+    {
+      "frase": "No trecho “Os processos de produção dos objetos que nos cercam movimentam relações diversas entre os indivíduos”, o sujeito de “cercam” é “Os processos de produção dos objetos”.",
+      "destaque": "o sujeito de “cercam” é “Os processos de produção dos objetos”",
+      "correta": false,
+      "explicacao": "O gabarito é Errado. “Cercam” concorda com o relativo “que”, cujo antecedente é “os objetos”. “Os processos de produção dos objetos” é sujeito de “movimentam”.",
+      "regra": "Pronome relativo como sujeito.",
+      "fonte": "Cespe/Cebraspe – 2019. Gabarito: Errado. https://www.estudegratis.com.br/questao-de-concurso/823075",
+      "id": "sintaxe-052"
+    },
+    {
+      "frase": "Na oração “que lhe atribui um valor atual”, o “que” é complemento direto de “atribui”.",
+      "destaque": "complemento direto",
+      "correta": false,
+      "explicacao": "O gabarito é Errado. “Atribuir” está bitransitivo: o objeto direto é “um valor atual” e o objeto indireto é “lhe”. O “que” é o sujeito.",
+      "regra": "Sujeito e objetos de “atribuir”.",
+      "fonte": "Cespe/Cebraspe – 2017. Gabarito: Errado. https://www.estudegratis.com.br/questao-de-concurso/697814",
+      "id": "sintaxe-053"
+    },
+    {
+      "frase": "Em “Criamos ferramentas que estão rasgando em pedaços o tecido social”, o sujeito da oração principal é indeterminado.",
+      "destaque": "indeterminado",
+      "correta": false,
+      "explicacao": "O gabarito considera correta só a afirmativa sobre a linguagem conotativa. “Criamos” está na primeira pessoa do plural: o sujeito é desinencial, “nós”, não indeterminado.",
+      "regra": "Sujeito desinencial.",
+      "fonte": "FUNDATEC – 2019. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/823070",
+      "id": "sintaxe-054"
+    },
+    {
+      "frase": "Em “Criamos ferramentas que estão rasgando em pedaços o tecido social”, o “que” é conjunção integrante.",
+      "destaque": "conjunção integrante",
+      "correta": false,
+      "explicacao": "O gabarito exclui essa afirmativa. O “que” retoma “ferramentas” e introduz oração adjetiva: é pronome relativo, não conjunção integrante.",
+      "regra": "Pronome relativo.",
+      "fonte": "FUNDATEC – 2019. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/823070",
+      "id": "sintaxe-055"
+    },
+    {
+      "frase": "Em “Completam o top 10 Japão, Alemanha, Finlândia, Israel, Estados Unidos, Suécia, Singapura, França e Reino Unido”, o sujeito é paciente.",
+      "destaque": "paciente",
+      "correta": false,
+      "explicacao": "O gabarito aponta como incorreta a afirmação de que o sujeito é paciente. “Completam” está na voz ativa. O sujeito é a série de países, composta, e “o top 10” é o objeto direto.",
+      "regra": "Sujeito composto na voz ativa.",
+      "fonte": "MS Concursos – 2016. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/613773",
+      "id": "sintaxe-056"
+    },
+    {
+      "frase": "No período “A necessidade de guardar as moedas em segurança fez surgirem os bancos”, “os bancos” é sujeito de “surgirem”.",
+      "destaque": "sujeito de “surgirem”",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Fazer” causativo traz a oração reduzida “surgirem os bancos”. “Surgir” é intransitivo, e “os bancos” é o sujeito desse infinitivo.",
+      "regra": "Sujeito de infinitivo causativo.",
+      "fonte": "Cespe/Cebraspe – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/823078",
+      "id": "sintaxe-057"
+    },
+    {
+      "frase": "No período “A necessidade de guardar as moedas em segurança fez surgirem os bancos”, “os bancos” é complemento de “surgirem”.",
+      "destaque": "complemento de “surgirem”",
+      "correta": false,
+      "explicacao": "O gabarito é B, não a alternativa do complemento. “Surgir” não pede objeto. “Os bancos” é o sujeito do infinitivo.",
+      "regra": "Sujeito de infinitivo.",
+      "fonte": "Cespe/Cebraspe – 2018. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/823078",
+      "id": "sintaxe-058"
+    },
+    {
+      "frase": "“Ao tomar banho, feche a torneira enquanto se ensaboar.” Cada oração tem um sujeito diferente.",
+      "destaque": "um sujeito diferente",
+      "correta": false,
+      "explicacao": "O gabarito é E. As três orações têm o mesmo sujeito, “você”: oculto em “tomar” e em “feche”, e também em “ensaboar”.",
+      "regra": "Sujeito oculto comum.",
+      "fonte": "IBEG – 2014. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/476985",
+      "id": "sintaxe-059"
+    },
+    {
+      "frase": "“Ao tomar banho, feche a torneira enquanto se ensaboar.” A última oração não possui sujeito.",
+      "destaque": "não possui sujeito",
+      "correta": false,
+      "explicacao": "O gabarito é E. “Ensaboar” não é verbo impessoal. O “se” é pronome do verbo pronominal, e o sujeito continua sendo “você”.",
+      "regra": "Sujeito do verbo pronominal.",
+      "fonte": "IBEG – 2014. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/476985",
+      "id": "sintaxe-060"
+    },
+    {
+      "frase": "“Ao tomar banho, feche a torneira enquanto se ensaboar.” O “se” de “se ensaboar” é partícula apassivadora.",
+      "destaque": "partícula apassivadora",
+      "correta": false,
+      "explicacao": "O gabarito é E. Não há sujeito paciente de uma passiva. “Ensaboar-se” é pronominal, e o “se” acompanha o sujeito “você”.",
+      "regra": "Verbo pronominal.",
+      "fonte": "IBEG – 2014. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/476985",
+      "id": "sintaxe-061"
+    },
+    {
+      "frase": "“Ao tomar banho, feche a torneira enquanto se ensaboar.” Todas as orações contêm predicado verbal.",
+      "destaque": "predicado verbal",
+      "correta": true,
+      "explicacao": "O gabarito é E. “Banho” e “a torneira” são objetos diretos. “Ensaboar-se” não atribui predicativo ao sujeito. O predicado de cada oração é verbal.",
+      "regra": "Predicado verbal.",
+      "fonte": "IBEG – 2014. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/476985",
+      "id": "sintaxe-062"
+    },
+    {
+      "frase": "“Langton afirma que magros acabavam pagando pela gordura alheia.” O “que” introduz oração subordinada substantiva objetiva direta.",
+      "destaque": "objetiva direta",
+      "correta": true,
+      "explicacao": "O gabarito é D. “Afirmar” é transitivo direto, e a oração introduzida por “que” é o objeto direto. Não é adjetiva: “que” não retoma um nome.",
+      "regra": "Oração subordinada substantiva objetiva direta.",
+      "fonte": "FUNCAB – 2013. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/469480",
+      "id": "sintaxe-063"
+    },
+    {
+      "frase": "“Langton afirma que magros acabavam pagando pela gordura alheia.” O “que” introduz oração subordinada adjetiva explicativa.",
+      "destaque": "adjetiva explicativa",
+      "correta": false,
+      "explicacao": "O gabarito é D, objetiva direta. Não há antecedente nominal nem vírgula de explicação. “Que” é conjunção integrante.",
+      "regra": "Conjunção integrante.",
+      "fonte": "FUNCAB – 2013. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/469480",
+      "id": "sintaxe-064"
+    },
+    {
+      "frase": "“Depois a mãe recolhe as velas, torna a guardá-las na bolsa.” O pronome “las” é objeto direto.",
+      "destaque": "objeto direto",
+      "correta": true,
+      "explicacao": "O gabarito é A. “Las” retoma “as velas” e completa “guardar” sem preposição.",
+      "regra": "Objeto direto.",
+      "fonte": "IDECAN – 2018. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/697794",
+      "id": "sintaxe-065"
+    },
+    {
+      "frase": "“E palavras somos.” “Palavras” é predicativo do sujeito.",
+      "destaque": "predicativo do sujeito",
+      "correta": true,
+      "explicacao": "O gabarito é C. O sujeito de “somos” é desinencial, “nós”. “Palavras”, anteposto, qualifica esse sujeito: é predicativo, não objeto nem sujeito.",
+      "regra": "Predicativo do sujeito.",
+      "fonte": "IBFC – 2017. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/697825",
+      "id": "sintaxe-066"
+    },
+    {
+      "frase": "“Garantir aos cidadãos o acesso pleno.” O segmento tem objeto direto e objeto indireto.",
+      "destaque": "objeto direto e objeto indireto",
+      "correta": true,
+      "explicacao": "O gabarito é A. “Garantir” está bitransitivo: “o acesso pleno” é o objeto direto e “aos cidadãos” é o objeto indireto.",
+      "regra": "Objeto direto e objeto indireto.",
+      "fonte": "FGV – 2018. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/697797",
+      "id": "sintaxe-067"
+    },
+    {
+      "frase": "“Coloca a população em risco.” O segmento tem objeto direto e objeto indireto.",
+      "destaque": "objeto direto e objeto indireto",
+      "correta": false,
+      "explicacao": "O gabarito da FGV é “garantir aos cidadãos o acesso pleno”. Em “coloca a população em risco”, “a população” é objeto direto e “em risco” é predicativo do objeto, não objeto indireto.",
+      "regra": "Predicativo do objeto.",
+      "fonte": "FGV – 2018. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/697797",
+      "id": "sintaxe-068"
+    },
+    {
+      "frase": "“O reativo é totalmente o oposto do proativo.” “Totalmente” é adjunto adverbial de intensidade.",
+      "destaque": "intensidade",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Totalmente” gradua a afirmação. Não indica tempo, modo, afirmação nem inclusão.",
+      "regra": "Adjunto adverbial de intensidade.",
+      "fonte": "IADES – 2019. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/823062",
+      "id": "sintaxe-069"
+    },
+    {
+      "frase": "“Meu nobre perdigueiro, vem comigo!” O vocativo é “meu nobre perdigueiro”.",
+      "destaque": "vocativo",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Meu nobre perdigueiro” chama o interlocutor e fica fora do sujeito e do predicado. O sujeito de “vem” é oculto, “tu”.",
+      "regra": "Vocativo.",
+      "fonte": "Conrio – 2014 – Prefeitura de Nhandeara. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/384348",
+      "id": "sintaxe-070"
+    },
+    {
+      "frase": "“Isso gera desvinculação.” O predicado é verbal e há complemento verbal.",
+      "destaque": "predicado é verbal",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Gerar” é transitivo direto, “desvinculação” é o objeto direto, e o predicado é verbal.",
+      "regra": "Predicado verbal com objeto direto.",
+      "fonte": "FUNDATEC – 2025. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1130324",
+      "id": "sintaxe-071"
+    },
+    {
+      "frase": "“Tendo em vista os últimos acontecimentos, o diretor enviou cartas aos pais e responsáveis.” O verbo pede objeto direto e objeto indireto.",
+      "destaque": "objeto direto e objeto indireto",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Enviar”, como “vender” no enunciado, é bitransitivo: “cartas” é o objeto direto e “aos pais e responsáveis” é o objeto indireto.",
+      "regra": "Verbo bitransitivo.",
+      "fonte": "Consulplan – 2017. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/697933",
+      "id": "sintaxe-072"
+    }
+  ]
+}

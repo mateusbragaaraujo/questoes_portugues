@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 
 CAMPOS_OBRIGATORIOS = ("id", "frase", "destaque", "correta", "explicacao", "regra", "fonte")
-TEMAS = ("crase", "hifen")
+TEMAS = ("crase", "hifen", "sintaxe")
 MINIMO_POR_TEMA = 60
 
 

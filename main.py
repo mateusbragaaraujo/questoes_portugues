@@ -1,4 +1,4 @@
-"""Abre o treino de crase e hífen."""
+"""Abre o treino de crase, hífen e análise sintática."""
 
 from questoes_portugues.app import main
 

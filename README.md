@@ -1,6 +1,6 @@
 # Questões de Português
 
-Programa de desktop para treinar **crase** e **hífen** do jeito que a prova cobra: uma frase, o trecho em destaque, e a decisão **Certo** ou **Errado**.
+Programa de desktop para treinar **crase**, **hífen** e **análise sintática** do jeito que a prova cobra: uma frase, o trecho em destaque, e a decisão **Certo** ou **Errado**.
 
 A interface está em português do Brasil. Cada rodada tem 10 questões sorteadas, sem repetir dentro da rodada. No fim aparece a pontuação (por exemplo, 7/10), com a opção de jogar de novo ou voltar ao menu.
 
@@ -26,7 +26,7 @@ Não há bibliotecas para instalar só para jogar. O Tkinter já vem com o Pytho
 
 ## Como jogar
 
-1. Na tela inicial, escolha **Crase** ou **Hífen**.
+1. Na tela inicial, escolha **Crase**, **Hífen** ou **Análise sintática**.
 2. Leia a frase. O trecho julgado fica marcado em amarelo.
 3. Clique em **Certo** ou **Errado** (atalhos `C` e `E`).
 4. O programa diz se você acertou, mostra a regra e a fonte. Clique em **Próxima** (ou Enter).
@@ -55,4 +55,4 @@ Se o `.exe` abrir e fechar na hora, use `python main.py`. O atalho da área de t
 
 ## Incluir questões
 
-Edite `banco/crase.json` ou `banco/hifen.json`. Cada item precisa de frase, trecho em destaque, gabarito (`correta`: verdadeiro ou falso), explicação, regra e fonte com URL. O passo a passo está em [banco/LEIA-ME.md](banco/LEIA-ME.md).
+Edite `banco/crase.json`, `banco/hifen.json` ou `banco/sintaxe.json`. Cada item precisa de frase, trecho em destaque, gabarito (`correta`: verdadeiro ou falso), explicação, regra e fonte com URL. O passo a passo está em [banco/LEIA-ME.md](banco/LEIA-ME.md).

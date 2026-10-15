@@ -12,7 +12,7 @@ def test_fluxo_dos_dois_temas_ate_a_pontuacao():
     try:
         app = Aplicativo(raiz, carregar_tudo())
         assert app.quadro_menu.winfo_manager() == "pack"
-        for tema in ("crase", "hifen"):
+        for tema in ("crase", "hifen", "sintaxe"):
             app.iniciar(tema)
             assert app.quadro_questao.winfo_manager() == "pack"
             assert app.quadro_menu.winfo_manager() == ""

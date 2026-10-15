@@ -66,3 +66,10 @@ def test_hifen_tambem_sorteia_dez():
     sessao = Sessao(questoes, gerador=random.Random(11))
     assert len(sessao.ids_sorteados()) == 10
     assert len(set(sessao.ids_sorteados())) == 10
+
+
+def test_sintaxe_tambem_sorteia_dez():
+    questoes = carregar_tudo()["sintaxe"]
+    sessao = Sessao(questoes, gerador=random.Random(11))
+    assert len(sessao.ids_sorteados()) == 10
+    assert len(set(sessao.ids_sorteados())) == 10

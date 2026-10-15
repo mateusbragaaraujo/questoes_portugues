@@ -1,7 +1,7 @@
 [project]
 name = "questoes-portugues"
 version = "1.0.0"
-description = "Treino de crase e hífen para concursos públicos."
+description = "Treino de crase, hífen e análise sintática para concursos públicos."
 requires-python = ">=3.11"
 
 [tool.pytest.ini_options]
