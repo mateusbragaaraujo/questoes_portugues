@@ -57,6 +57,16 @@ O script instala o PyInstaller, se ainda não estiver instalado, e gera `dist\Qu
 
 Se o `.exe` abrir e fechar na hora, use `python main.py`. O atalho da área de trabalho não é obrigatório.
 
+## No celular
+
+A pasta [telefone/questoes-portugues](telefone/questoes-portugues) é uma página para o Chrome do Android. Copie essa pasta para **Armazenamento interno → Download → questoes-portugues**. No aplicativo Arquivos, abra `Download/questoes-portugues/index.html` com o Chrome. O passo a passo está em [telefone/questoes-portugues/LEIA-ME.txt](telefone/questoes-portugues/LEIA-ME.txt).
+
+A página já traz o banco dentro do arquivo. Depois de mudar uma questão, gere a página de novo:
+
+```bat
+python scripts\gerar_telefone.py
+```
+
 ## Incluir questões
 
 Edite `banco/crase.json`, `banco/hifen.json` ou `banco/sintaxe.json`. Cada item precisa de frase, trecho em destaque, gabarito (`correta`: verdadeiro ou falso), explicação, regra e fonte com URL. O passo a passo está em [banco/LEIA-ME.md](banco/LEIA-ME.md).
