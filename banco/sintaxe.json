@@ -647,6 +647,456 @@
       "regra": "Verbo bitransitivo.",
       "fonte": "Consulplan – 2017. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/697933",
       "id": "sintaxe-072"
+    },
+    {
+      "frase": "“Cláudia chegou, entrou pela sala, almoçou, foi ao banheiro, escovou os dentes, despediu-se e foi trabalhar.” O período tem 7 orações.",
+      "destaque": "7 orações",
+      "correta": true,
+      "explicacao": "O gabarito é C. Há sete verbos conjugados: chegou, entrou, almoçou, foi, escovou, despediu-se e foi. Cada um abre uma oração.",
+      "regra": "Período composto: uma oração por verbo conjugado.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117347",
+      "id": "sintaxe-073"
+    },
+    {
+      "frase": "“Cláudia chegou, entrou pela sala, almoçou, foi ao banheiro, escovou os dentes, despediu-se e foi trabalhar.” O período tem 5 orações.",
+      "destaque": "5 orações",
+      "correta": false,
+      "explicacao": "O gabarito é C, sete orações. Chegou, entrou, almoçou, foi, escovou, despediu-se e foi são sete formas conjugadas.",
+      "regra": "Período composto: uma oração por verbo conjugado.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117347",
+      "id": "sintaxe-074"
+    },
+    {
+      "frase": "“Nesta casa, precisa-se de costureira.” O sujeito é indeterminado.",
+      "destaque": "indeterminado",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Precisar” pede a preposição “de”, e o “se” é índice de indeterminação do sujeito. “De costureira” é objeto indireto.",
+      "regra": "Sujeito indeterminado.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117257",
+      "id": "sintaxe-075"
+    },
+    {
+      "frase": "“Nesta casa, precisa-se de costureira.” O sujeito é “costureira”.",
+      "destaque": "é “costureira”",
+      "correta": false,
+      "explicacao": "O gabarito é C, sujeito indeterminado. “Costureira” vem preso a “precisa-se” pela preposição “de”: é objeto indireto.",
+      "regra": "Objeto indireto não é o sujeito.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117257",
+      "id": "sintaxe-076"
+    },
+    {
+      "frase": "“Nesta casa, precisa-se de costureira.” O sujeito é simples.",
+      "destaque": "é simples",
+      "correta": false,
+      "explicacao": "O gabarito é C. Não há núcleo expresso. O “se” com verbo transitivo indireto indetermina o sujeito.",
+      "regra": "Sujeito indeterminado.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117257",
+      "id": "sintaxe-077"
+    },
+    {
+      "frase": "“Embora estivesse cansado, ele continuou trabalhando.” A oração inicial é subordinada adverbial concessiva.",
+      "destaque": "concessiva",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Embora” introduz concessão: ele continuou trabalhando apesar do cansaço. O período é composto por subordinação.",
+      "regra": "Oração subordinada adverbial concessiva.",
+      "fonte": "JVL Concursos – 2025 – Prefeitura de Ribeiro Gonçalves-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117131",
+      "id": "sintaxe-078"
+    },
+    {
+      "frase": "“Embora estivesse cansado, ele continuou trabalhando.” O período é simples.",
+      "destaque": "período é simples",
+      "correta": false,
+      "explicacao": "O gabarito é C. Há duas orações: “estivesse cansado” e “continuou trabalhando”. Período simples teria uma só.",
+      "regra": "Período composto por subordinação.",
+      "fonte": "JVL Concursos – 2025 – Prefeitura de Ribeiro Gonçalves-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117131",
+      "id": "sintaxe-079"
+    },
+    {
+      "frase": "“Embora estivesse cansado, ele continuou trabalhando.” O período é composto por coordenação explicativa.",
+      "destaque": "coordenação explicativa",
+      "correta": false,
+      "explicacao": "O gabarito é C. “Embora” não explica: concede. A primeira oração é subordinada adverbial concessiva.",
+      "regra": "Oração subordinada adverbial concessiva.",
+      "fonte": "JVL Concursos – 2025 – Prefeitura de Ribeiro Gonçalves-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1117131",
+      "id": "sintaxe-080"
+    },
+    {
+      "frase": "“Se chover, não sairemos de casa.” O período é composto por subordinação.",
+      "destaque": "composto por subordinação",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Se” impõe a condição de chover para a oração “não sairemos”. São duas orações, ligadas por subordinação.",
+      "regra": "Período composto por subordinação.",
+      "fonte": "JVL Concursos – 2025 – Prefeitura de Demerval Lobão-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1112726",
+      "id": "sintaxe-081"
+    },
+    {
+      "frase": "“Se chover, não sairemos de casa.” O período é simples.",
+      "destaque": "período é simples",
+      "correta": false,
+      "explicacao": "O gabarito é C. “Chover” e “sairemos” são orações diferentes. O “se” subordina a primeira à segunda.",
+      "regra": "Período composto por subordinação.",
+      "fonte": "JVL Concursos – 2025 – Prefeitura de Demerval Lobão-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1112726",
+      "id": "sintaxe-082"
+    },
+    {
+      "frase": "“Se chover, não sairemos de casa.” O período é composto por coordenação.",
+      "destaque": "composto por coordenação",
+      "correta": false,
+      "explicacao": "O gabarito é C. “Se” não coordena: a oração da chuva depende da outra. O período é composto por subordinação.",
+      "regra": "Oração subordinada adverbial condicional.",
+      "fonte": "JVL Concursos – 2025 – Prefeitura de Demerval Lobão-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1112726",
+      "id": "sintaxe-083"
+    },
+    {
+      "frase": "“É imprescindível que continuemos tentando.” O período é composto por subordinação.",
+      "destaque": "composto por subordinação",
+      "correta": true,
+      "explicacao": "O gabarito é A. A oração “que continuemos tentando” é o sujeito de “é imprescindível”. Oração subjetiva é subordinada.",
+      "regra": "Oração subordinada substantiva subjetiva.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/1112155",
+      "id": "sintaxe-084"
+    },
+    {
+      "frase": "“Aprendi com meus erros, mas eu não os faria de novo.” O período é composto por subordinação.",
+      "destaque": "composto por subordinação",
+      "correta": false,
+      "explicacao": "O gabarito reserva a subordinação a “É imprescindível que continuemos tentando”. “Mas” liga duas orações independentes: a coordenada é adversativa.",
+      "regra": "Coordenada sindética adversativa.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/1112155",
+      "id": "sintaxe-085"
+    },
+    {
+      "frase": "“Caí e me levantei.” O período é composto por subordinação.",
+      "destaque": "composto por subordinação",
+      "correta": false,
+      "explicacao": "O gabarito é A, outra frase. “E” soma duas orações da mesma camada. O período é composto por coordenação aditiva.",
+      "regra": "Coordenada sindética aditiva.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/1112155",
+      "id": "sintaxe-086"
+    },
+    {
+      "frase": "“Ou permaneço no chão, ou me levanto.” O período é composto por subordinação.",
+      "destaque": "composto por subordinação",
+      "correta": false,
+      "explicacao": "O gabarito é A, outra frase. “Ou… ou…” põe as orações como alternativas. A relação é de coordenação, não de subordinação.",
+      "regra": "Coordenada sindética alternativa.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/1112155",
+      "id": "sintaxe-087"
+    },
+    {
+      "frase": "“É essencial que você vença a partida.” A oração iniciada por “que” é subordinada substantiva subjetiva.",
+      "destaque": "subjetiva",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Que você vença a partida” é o sujeito de “é essencial”. Substantiva subjetiva.",
+      "regra": "Oração subordinada substantiva subjetiva.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1108278",
+      "id": "sintaxe-088"
+    },
+    {
+      "frase": "“A minha vontade é que seja feliz.” A oração iniciada por “que” é subordinada substantiva subjetiva.",
+      "destaque": "subjetiva",
+      "correta": false,
+      "explicacao": "O gabarito reserva a subjetiva a “É essencial que você vença a partida”. Aqui “que seja feliz” é predicativo de “vontade”: substantiva predicativa.",
+      "regra": "Oração subordinada substantiva predicativa.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1108278",
+      "id": "sintaxe-089"
+    },
+    {
+      "frase": "“Tenho esperança de que as crianças sejam melhor educadas.” A oração iniciada por “que” é subordinada substantiva subjetiva.",
+      "destaque": "subjetiva",
+      "correta": false,
+      "explicacao": "O gabarito é B, outra frase. “De que as crianças sejam melhor educadas” completa o nome “esperança”: é substantiva completiva nominal.",
+      "regra": "Oração subordinada substantiva completiva nominal.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1108278",
+      "id": "sintaxe-090"
+    },
+    {
+      "frase": "“Todo ser humano precisa de paz.” Há oração subordinada substantiva subjetiva.",
+      "destaque": "subjetiva",
+      "correta": false,
+      "explicacao": "O gabarito é B, outra frase. “Precisa” tem sujeito expresso, “todo ser humano”, e “de paz” é objeto indireto. Não há oração subordinada.",
+      "regra": "Período simples.",
+      "fonte": "ADM&TEC – 2025 – Prefeitura de João Alfredo-PE. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1108278",
+      "id": "sintaxe-091"
+    },
+    {
+      "frase": "“No trajeto para casa, passei pela Cachoeira do Paraitinga.” O sujeito é oculto.",
+      "destaque": "oculto",
+      "correta": true,
+      "explicacao": "O gabarito é D. “Passei” está na primeira pessoa, e o sujeito “eu” não vem escrito. Nas outras alternativas o sujeito está expresso.",
+      "regra": "Sujeito oculto.",
+      "fonte": "AGIRH – 2025 – Prefeitura de Silveiras-SP. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1110956",
+      "id": "sintaxe-092"
+    },
+    {
+      "frase": "“A médica está com dor na coluna.” O sujeito é oculto.",
+      "destaque": "oculto",
+      "correta": false,
+      "explicacao": "O gabarito reserva o sujeito oculto a “passei pela Cachoeira do Paraitinga”. Aqui o sujeito está expresso: “a médica”.",
+      "regra": "Sujeito simples expresso.",
+      "fonte": "AGIRH – 2025 – Prefeitura de Silveiras-SP. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1110956",
+      "id": "sintaxe-093"
+    },
+    {
+      "frase": "“Paulo e Ricardo nadavam ao lado da canoa.” O sujeito é oculto.",
+      "destaque": "oculto",
+      "correta": false,
+      "explicacao": "O gabarito é D, outra frase. “Paulo” e “Ricardo” estão escritos e são dois núcleos: o sujeito é composto.",
+      "regra": "Sujeito composto.",
+      "fonte": "AGIRH – 2025 – Prefeitura de Silveiras-SP. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1110956",
+      "id": "sintaxe-094"
+    },
+    {
+      "frase": "“Regina comprou um livro.” O sujeito é oculto.",
+      "destaque": "oculto",
+      "correta": false,
+      "explicacao": "O gabarito é D, outra frase. “Regina” é o sujeito simples, expresso, de “comprou”.",
+      "regra": "Sujeito simples expresso.",
+      "fonte": "AGIRH – 2025 – Prefeitura de Silveiras-SP. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1110956",
+      "id": "sintaxe-095"
+    },
+    {
+      "frase": "“O livreiro me disse que eu o acharia apaixonante.” A frase manifesta discurso indireto.",
+      "destaque": "discurso indireto",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Disse que” relata a fala de outro sem as palavras dele. A oração do “que” é subordinada substantiva objetiva direta.",
+      "regra": "Discurso indireto.",
+      "fonte": "FGV – 2025 – Prefeitura de Canaã dos Carajás-PA. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1119719",
+      "id": "sintaxe-096"
+    },
+    {
+      "frase": "“Eu devia ter mais paciência com ela.” A frase manifesta discurso indireto.",
+      "destaque": "discurso indireto",
+      "correta": false,
+      "explicacao": "O gabarito é B, a frase do livreiro. Aqui não há verbo de dizer nem oração introduzida por “que”. A fala não é relatada.",
+      "regra": "Oração sem verbo dicendi.",
+      "fonte": "FGV – 2025 – Prefeitura de Canaã dos Carajás-PA. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1119719",
+      "id": "sintaxe-097"
+    },
+    {
+      "frase": "“Tiradentes, heroico, tentou organizar uma revolução.” “Heroico” é predicativo do sujeito.",
+      "destaque": "predicativo do sujeito",
+      "correta": true,
+      "explicacao": "O gabarito é D: este adjetivo tem função diferente da dos outros. “Heroico”, entre vírgulas, qualifica “Tiradentes” enquanto ele pratica a ação. É predicativo do sujeito, não adjunto adnominal.",
+      "regra": "Predicativo do sujeito.",
+      "fonte": "FGV – 2025 – Prefeitura de Canaã dos Carajás-PA. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1119710",
+      "id": "sintaxe-098"
+    },
+    {
+      "frase": "“Tiradentes, heroico, tentou organizar uma revolução.” “Heroico” é adjunto adnominal.",
+      "destaque": "adjunto adnominal",
+      "correta": false,
+      "explicacao": "O gabarito aponta esta frase como a de função diferente. “Heroico” não está preso ao nome como adjunto: vem entre vírgulas, com verbo nocional, e é predicativo do sujeito.",
+      "regra": "Predicativo do sujeito.",
+      "fonte": "FGV – 2025 – Prefeitura de Canaã dos Carajás-PA. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1119710",
+      "id": "sintaxe-099"
+    },
+    {
+      "frase": "“Um rosto bonito altera-se depressa.” “Bonito” é adjunto adnominal.",
+      "destaque": "adjunto adnominal",
+      "correta": true,
+      "explicacao": "O gabarito separa só “Tiradentes, heroico”. “Bonito” restringe “rosto” dentro do sujeito, sem vírgula e sem ser predicativo. É adjunto adnominal.",
+      "regra": "Adjunto adnominal.",
+      "fonte": "FGV – 2025 – Prefeitura de Canaã dos Carajás-PA. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1119710",
+      "id": "sintaxe-100"
+    },
+    {
+      "frase": "“O advérbio exerce função de adjunto adverbial.” A classificação está correta.",
+      "destaque": "adjunto adverbial",
+      "correta": true,
+      "explicacao": "O gabarito marca como incorreta só a frase que iguala adjunto adnominal e adjunto adverbial. O advérbio, no papel de termo acessório, é adjunto adverbial.",
+      "regra": "Adjunto adverbial.",
+      "fonte": "IBEC – 2025 – Prefeitura de Tremedal-BA. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133703",
+      "id": "sintaxe-101"
+    },
+    {
+      "frase": "“Os adjuntos adnominais têm a mesma função dos adjuntos adverbiais.” A classificação está correta.",
+      "destaque": "a mesma função",
+      "correta": false,
+      "explicacao": "O gabarito é D: esta é a afirmativa incorreta. O adjunto adnominal refere-se a um nome. O adjunto adverbial refere-se a verbo, adjetivo ou advérbio. A função não é a mesma.",
+      "regra": "Adjunto adnominal e adjunto adverbial.",
+      "fonte": "IBEC – 2025 – Prefeitura de Tremedal-BA. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133703",
+      "id": "sintaxe-102"
+    },
+    {
+      "frase": "“A locução adverbial também exerce a função de adjunto adverbial.” A classificação está correta.",
+      "destaque": "adjunto adverbial",
+      "correta": true,
+      "explicacao": "O gabarito não aponta esta afirmativa como a incorreta. Locução adverbial, como “de manhã” ou “com cuidado”, desempenha o papel de adjunto adverbial.",
+      "regra": "Adjunto adverbial.",
+      "fonte": "IBEC – 2025 – Prefeitura de Tremedal-BA. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133703",
+      "id": "sintaxe-103"
+    },
+    {
+      "frase": "“Afinal, se queremos algo, além de ter um alto QI, é necessário desenvolver uma sabedoria excepcional.” A oração desenvolvida correspondente à reduzida é “que desenvolvamos uma sabedoria excepcional”.",
+      "destaque": "que desenvolvamos",
+      "correta": true,
+      "explicacao": "O gabarito é E. “É necessário” pede o subjuntivo na oração desenvolvida. “Desenvolver uma sabedoria excepcional” equivale a “que desenvolvamos uma sabedoria excepcional”.",
+      "regra": "Oração desenvolvida no subjuntivo.",
+      "fonte": "FGV – 2018 – TJ-SC. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/705124",
+      "id": "sintaxe-104"
+    },
+    {
+      "frase": "“Afinal, se queremos algo, além de ter um alto QI, é necessário desenvolver uma sabedoria excepcional.” A oração desenvolvida correspondente à reduzida é “que desenvolvemos uma sabedoria excepcional”.",
+      "destaque": "que desenvolvemos",
+      "correta": false,
+      "explicacao": "O gabarito é E, com subjuntivo. “É necessário que” não leva o indicativo “desenvolvemos”. A forma desenvolvida é “que desenvolvamos”.",
+      "regra": "Subjuntivo na oração desenvolvida.",
+      "fonte": "FGV – 2018 – TJ-SC. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/705124",
+      "id": "sintaxe-105"
+    },
+    {
+      "frase": "“Empresas abandonaram o home office?” A passiva correspondente é “O home office foi abandonado por empresas?”",
+      "destaque": "foi abandonado",
+      "correta": true,
+      "explicacao": "O gabarito é C. “Abandonaram” está no pretérito perfeito. A passiva analítica no mesmo tempo é “foi abandonado”, com o agente “por empresas”.",
+      "regra": "Voz passiva analítica.",
+      "fonte": "IVIN – 2025 – Prefeitura de Cajazeiras do Piauí-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1116884",
+      "id": "sintaxe-106"
+    },
+    {
+      "frase": "“Empresas abandonaram o home office?” A passiva correspondente é “O home office é abandonado por empresas?”",
+      "destaque": "é abandonado",
+      "correta": false,
+      "explicacao": "O gabarito é C, “foi abandonado”. “É abandonado” está no presente. O pretérito perfeito “abandonaram” pede “foi”.",
+      "regra": "Passiva no mesmo tempo do verbo.",
+      "fonte": "IVIN – 2025 – Prefeitura de Cajazeiras do Piauí-PI. Gabarito: C. https://www.estudegratis.com.br/questao-de-concurso/1116884",
+      "id": "sintaxe-107"
+    },
+    {
+      "frase": "“A revolução silenciosa no campo brasileiro colocou alimentos mais nutritivos, acessíveis e variados no prato de milhões, transformando a realidade de uma nação que, um dia, dependia da importação para sobreviver.” “Alimentos mais nutritivos, acessíveis e variados” é objeto direto de “colocar”.",
+      "destaque": "objeto direto",
+      "correta": true,
+      "explicacao": "O gabarito considera verdadeira a afirmativa I. “Colocar” pede o que foi posto: “alimentos mais nutritivos, acessíveis e variados”, sem preposição. É objeto direto.",
+      "regra": "Objeto direto.",
+      "fonte": "InoversaSul – 2025 – UNESC. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133326",
+      "id": "sintaxe-108"
+    },
+    {
+      "frase": "“A revolução silenciosa no campo brasileiro colocou alimentos mais nutritivos, acessíveis e variados no prato de milhões, transformando a realidade de uma nação que, um dia, dependia da importação para sobreviver.” O lugar em que os alimentos foram postos é adjunto adverbial.",
+      "destaque": "adjunto adverbial",
+      "correta": true,
+      "explicacao": "O gabarito considera verdadeira a afirmativa II. “No prato de milhões” situa a ação de colocar. É adjunto adverbial de lugar.",
+      "regra": "Adjunto adverbial de lugar.",
+      "fonte": "InoversaSul – 2025 – UNESC. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133326",
+      "id": "sintaxe-109"
+    },
+    {
+      "frase": "“A revolução silenciosa no campo brasileiro colocou alimentos mais nutritivos, acessíveis e variados no prato de milhões, transformando a realidade de uma nação que, um dia, dependia da importação para sobreviver.” O núcleo do sujeito de “colocar” é “campo”.",
+      "destaque": "é “campo”",
+      "correta": false,
+      "explicacao": "O gabarito exclui a afirmativa III. O sujeito é “a revolução silenciosa no campo brasileiro”, e o núcleo é “revolução”. “Campo” está dentro do adjunto.",
+      "regra": "Núcleo do sujeito.",
+      "fonte": "InoversaSul – 2025 – UNESC. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133326",
+      "id": "sintaxe-110"
+    },
+    {
+      "frase": "“A revolução silenciosa no campo brasileiro colocou alimentos mais nutritivos, acessíveis e variados no prato de milhões, transformando a realidade de uma nação que, um dia, dependia da importação para sobreviver.” “Dependia” está transitivo indireto.",
+      "destaque": "transitivo indireto",
+      "correta": true,
+      "explicacao": "O gabarito considera verdadeira a afirmativa IV. “Depender” pede a preposição “de”: “dependia da importação”. É transitivo indireto.",
+      "regra": "Verbo transitivo indireto.",
+      "fonte": "InoversaSul – 2025 – UNESC. Gabarito: D. https://www.estudegratis.com.br/questao-de-concurso/1133326",
+      "id": "sintaxe-111"
+    },
+    {
+      "frase": "“Este é o chamado pensamento divergente, que leva a muitas respostas possíveis.” O período tem duas orações.",
+      "destaque": "duas orações",
+      "correta": true,
+      "explicacao": "O gabarito é B. “É” forma a primeira oração e “leva”, introduzido pelo relativo “que”, forma a segunda.",
+      "regra": "Período composto: duas orações.",
+      "fonte": "Máxima – 2025 – Prefeitura de Goiabeira-MG. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1109354",
+      "id": "sintaxe-112"
+    },
+    {
+      "frase": "“Este é o chamado pensamento divergente, que leva a muitas respostas possíveis.” O período tem somente uma oração.",
+      "destaque": "somente uma oração",
+      "correta": false,
+      "explicacao": "O gabarito é B, duas orações. O “que” de “que leva” abre oração adjetiva, além da oração de “é”.",
+      "regra": "Oração subordinada adjetiva.",
+      "fonte": "Máxima – 2025 – Prefeitura de Goiabeira-MG. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1109354",
+      "id": "sintaxe-113"
+    },
+    {
+      "frase": "“Este é o chamado pensamento divergente, que leva a muitas respostas possíveis.” O período tem três orações.",
+      "destaque": "três orações",
+      "correta": false,
+      "explicacao": "O gabarito é B. Os verbos são “é” e “leva”. “Chamado” não abre outra oração. São duas, não três.",
+      "regra": "Período composto: duas orações.",
+      "fonte": "Máxima – 2025 – Prefeitura de Goiabeira-MG. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1109354",
+      "id": "sintaxe-114"
+    },
+    {
+      "frase": "“A gente se acostuma a acordar de manhã sobressaltado porque está na hora.” O período é composto por subordinação causal.",
+      "destaque": "causal",
+      "correta": true,
+      "explicacao": "O gabarito é B. “Porque está na hora” dá a causa de acostumar-se a acordar sobressaltado. A oração é subordinada adverbial causal.",
+      "regra": "Oração subordinada adverbial causal.",
+      "fonte": "EDUCA – 2025 – Prefeitura de Pedras de Fogo-PB. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1119684",
+      "id": "sintaxe-115"
+    },
+    {
+      "frase": "“A gente se acostuma a acordar de manhã sobressaltado porque está na hora.” O período é composto por subordinação condicional.",
+      "destaque": "condicional",
+      "correta": false,
+      "explicacao": "O gabarito é B, causal. “Porque” não impõe hipótese: apresenta o motivo. Não é “se”.",
+      "regra": "Oração subordinada adverbial causal.",
+      "fonte": "EDUCA – 2025 – Prefeitura de Pedras de Fogo-PB. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1119684",
+      "id": "sintaxe-116"
+    },
+    {
+      "frase": "“A gente se acostuma a acordar de manhã sobressaltado porque está na hora.” O período é composto por coordenação assindética.",
+      "destaque": "assindética",
+      "correta": false,
+      "explicacao": "O gabarito é B. “Porque” é conjunção e subordina a oração da hora à oração de “acostuma”. Não há coordenada assindética.",
+      "regra": "Oração subordinada adverbial causal.",
+      "fonte": "EDUCA – 2025 – Prefeitura de Pedras de Fogo-PB. Gabarito: B. https://www.estudegratis.com.br/questao-de-concurso/1119684",
+      "id": "sintaxe-117"
+    },
+    {
+      "frase": "“A educação proporcionada pelos livros torna-se um antídoto poderoso contra a superficialidade e a desinformação.” O sujeito de “tornar-se” é “A educação proporcionada pelos livros”.",
+      "destaque": "sujeito de “tornar-se”",
+      "correta": true,
+      "explicacao": "O gabarito é E. “Tornar-se” concorda com “a educação”. “Proporcionada pelos livros” restringe esse núcleo. “Um antídoto poderoso” é o predicativo.",
+      "regra": "Sujeito simples.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/1127972",
+      "id": "sintaxe-118"
+    },
+    {
+      "frase": "“A educação proporcionada pelos livros torna-se um antídoto poderoso contra a superficialidade e a desinformação.” O predicado classifica-se como verbal.",
+      "destaque": "classifica-se como verbal",
+      "correta": false,
+      "explicacao": "O gabarito exclui essa alternativa. “Tornar-se” liga “a educação” a “um antídoto poderoso”. O predicado é nominal.",
+      "regra": "Predicado nominal.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/1127972",
+      "id": "sintaxe-119"
+    },
+    {
+      "frase": "“A educação proporcionada pelos livros torna-se um antídoto poderoso contra a superficialidade e a desinformação.” “Um antídoto poderoso” é objeto direto.",
+      "destaque": "objeto direto",
+      "correta": false,
+      "explicacao": "O gabarito exclui essa alternativa. “Tornar-se” é verbo de ligação, e “um antídoto poderoso” é predicativo do sujeito, não objeto direto.",
+      "regra": "Predicativo do sujeito.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/1127972",
+      "id": "sintaxe-120"
+    },
+    {
+      "frase": "“A educação proporcionada pelos livros torna-se um antídoto poderoso contra a superficialidade e a desinformação.” O núcleo do sujeito é “livros”.",
+      "destaque": "é “livros”",
+      "correta": false,
+      "explicacao": "O gabarito é E. O núcleo é “educação”. “Livros” está no adjunto “proporcionada pelos livros”.",
+      "regra": "Núcleo do sujeito.",
+      "fonte": "CETREDE – 2025 – Prefeitura de São Benedito-CE. Gabarito: E. https://www.estudegratis.com.br/questao-de-concurso/1127972",
+      "id": "sintaxe-121"
+    },
+    {
+      "frase": "“Fala-se muito sobre os riscos das apostas.” O sujeito é indeterminado.",
+      "destaque": "indeterminado",
+      "correta": true,
+      "explicacao": "O gabarito é A. “Falar” pede “sobre”, e o “se” indetermina o sujeito. Não há núcleo expresso.",
+      "regra": "Sujeito indeterminado.",
+      "fonte": "FUNDATEC – 2025 – Prefeitura de Erebango-RS. Gabarito: A. https://www.estudegratis.com.br/questao-de-concurso/1109739",
+      "id": "sintaxe-122"
     }
   ]
 }
