@@ -1,11 +1,19 @@
 # -*- mode: python ; coding: utf-8 -*-
-"""Empacota o treino para Windows. Rode a partir da pasta do projeto."""
+"""Empacota o treino num único .exe de Windows.
+
+O PyInstaller executa este arquivo com SPECPATH apontando para scripts/.
+Os caminhos partem da pasta do projeto, acima deste arquivo.
+"""
+
+from pathlib import Path
+
+raiz = Path(SPECPATH).resolve().parent
 
 a = Analysis(
-    ["main.py"],
-    pathex=[],
+    [str(raiz / "main.py")],
+    pathex=[str(raiz)],
     binaries=[],
-    datas=[("banco", "banco")],
+    datas=[(str(raiz / "banco"), "banco")],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -27,4 +35,5 @@ exe = EXE(
     strip=False,
     upx=False,
     console=False,
+    disable_windowed_traceback=False,
 )
