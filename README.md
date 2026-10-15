@@ -41,15 +41,19 @@ pytest
 
 Os testes conferem o banco (campos obrigatórios, fonte com URL, sem frase nem id repetidos, pelo menos 60 itens por tema, casos certos e errados) e a pontuação da rodada.
 
-## Gerar o .exe
+## Executável de Windows
 
-Este ambiente não produz um executável de Windows. No seu Windows, na pasta do projeto:
+O arquivo pronto para duplo clique é [release/QuestoesDePortugues.exe](release/QuestoesDePortugues.exe). Não precisa instalar Python. O banco de questões vai dentro do executável.
+
+Cada envio para o GitHub gera de novo esse arquivo no fluxo **Executavel Windows**. O artefato da execução mais recente fica na aba Actions.
+
+Para gerar na sua máquina, na pasta do projeto:
 
 ```bat
 scripts\build_exe.bat
 ```
 
-O script instala o PyInstaller, se ainda não estiver instalado, e gera `dist\QuestoesDePortugues.exe`. O banco vai dentro do executável. Dê um duplo clique para abrir.
+O script instala o PyInstaller, se ainda não estiver instalado, e gera `dist\QuestoesDePortugues.exe`.
 
 Se o `.exe` abrir e fechar na hora, use `python main.py`. O atalho da área de trabalho não é obrigatório.
 
